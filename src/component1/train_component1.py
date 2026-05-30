@@ -27,8 +27,10 @@ from features import (extract_features, extract_labels, get_feature_dim,
 from model import Component1, Component1Loss
 
 # ── Config ────────────────────────────────────────────────────────
-COMBINED_DIR = Path(r'D:\Major_Project\project\kims_v3\data\combined')
-MODEL_DIR    = Path(r'D:\Major_Project\project\kims_v3\models\component1')
+PROJECT_ROOT = Path(__file__).resolve().parents[2]  # adjust level if needed
+
+COMBINED_DIR = PROJECT_ROOT / "data" / "combined"
+MODEL_DIR = PROJECT_ROOT / "models" / "component1"
 MODEL_DIR.mkdir(parents=True, exist_ok=True)
 
 DEVICE       = torch.device('cuda' if torch.cuda.is_available() else 'cpu')

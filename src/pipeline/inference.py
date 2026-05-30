@@ -26,9 +26,11 @@ from typing import Optional
 import sys
 
 # Add component1 + component2 to path so model.py and features.py are importable
-SRC_C1  = Path(r'D:\Major_Project\project\kims_v3\src\component1')
-SRC_C2  = Path(r'D:\Major_Project\project\kims_v3\src\component2')
-SRC_PV2 = Path(r'D:\Major_Project\project\kims_v3\src\pipeline_v2\Lab_ml_train_2')
+PROJECT_ROOT = Path(__file__).resolve().parents[2]  # adjust as needed
+
+SRC_C1  = PROJECT_ROOT / "src" / "component1"
+SRC_C2  = PROJECT_ROOT / "src" / "component2"
+SRC_PV2 = PROJECT_ROOT / "src" / "pipeline_v2" / "Lab_ml_train_2"
 
 for p in [str(SRC_C1), str(SRC_C2), str(SRC_PV2)]:
     if p not in sys.path:

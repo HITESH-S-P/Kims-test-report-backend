@@ -15,10 +15,15 @@ import httpx
 import json
 import time
 from pathlib import Path
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+
+LOCAL_OLLAMA_URL = os.getenv("LOCAL_OLLAMA_URL")
 
 
 # ── Default config ─────────────────────────────────────────────────
-LOCAL_OLLAMA_URL = "http://localhost:11434"
 MODEL_NAME       = "mistral:7b"
 
 # Timeout in seconds — Mistral 7B on RTX 4060 takes ~15-30s per response

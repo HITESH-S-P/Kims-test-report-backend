@@ -41,8 +41,10 @@ from model_v2 import Component1V2, Component1V2Loss
 # ── Config ─────────────────────────────────────────────────────────
 # Combined dir should contain ALL training JSONs:
 #   matched pairs + discharge summaries + semisupervised (normal+pseudo)
-COMBINED_DIR = Path(r'D:\Major_Project\project\kims_v3\data\combined_v2')
-MODEL_DIR    = Path(r'D:\Major_Project\project\kims_v3\models\component1_v2')
+PROJECT_ROOT = Path(__file__).resolve().parents[2]  # adjust if needed
+
+COMBINED_DIR = PROJECT_ROOT / "data" / "combined_v2"
+MODEL_DIR    = PROJECT_ROOT / "models" / "component1_v2"
 MODEL_DIR.mkdir(parents=True, exist_ok=True)
 
 DEVICE       = torch.device('cuda' if torch.cuda.is_available() else 'cpu')

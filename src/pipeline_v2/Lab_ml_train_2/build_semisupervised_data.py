@@ -36,8 +36,8 @@ from lab_ranges import (REFERENCE_RANGES, get_range, classify_value,
                         is_critical, deviation_severity)
 
 # Component 1 (for pseudo-labelling) — these live in component1 dir
-sys.path.insert(0, str(Path(r'D:\Major_Project\project\kims_v3\src\component1')))
-
+PROJECT_ROOT = Path(__file__).resolve().parents[2]  # adjust if needed
+sys.path.insert(0, str(PROJECT_ROOT / "src" / "component1"))
 
 # ── Config ─────────────────────────────────────────────────────────
 PSEUDO_CONF_THRESHOLD = 0.85    # balanced — per your choice

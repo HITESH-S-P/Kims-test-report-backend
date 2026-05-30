@@ -28,7 +28,9 @@ from mistral_client import get_client
 from prompts import build_verification_prompt, build_narrative_prompt, SPECIALIST_NAMES
 
 # ── Paths ──────────────────────────────────────────────────────────
-MODEL_DIR = Path(r'D:\Major_Project\project\kims_v3\models\component1')
+
+BASE_DIR = Path(__file__).resolve().parent.parent  # adjust as needed
+MODEL_DIR = BASE_DIR / "models" / "component1"
 DEVICE    = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
 DROPOUT   = 0.4

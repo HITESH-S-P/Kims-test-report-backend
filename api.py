@@ -43,9 +43,12 @@ from fastapi import FastAPI, UploadFile, File, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import Response
 from pydantic import BaseModel, Field
+from dotenv import load_dotenv
+
+load_dotenv()  # for any future env vars (e.g. Ollama URL, model paths)
 
 # ── Make project modules importable ────────────────────────────────
-PROJECT_ROOT = Path(r'D:\Major_Project\project\kims_v3')
+PROJECT_ROOT = Path(r'.')
 SRC_C1       = PROJECT_ROOT / 'src' / 'component1'
 SRC_C2       = PROJECT_ROOT / 'src' / 'component2'
 SRC_PIPELINE = PROJECT_ROOT / 'src' / 'pipeline'
@@ -61,7 +64,7 @@ from inference import load_models, load_models_v2, run_inference   # noqa: E402
 from pdf_parser import parse_lab_report                            # noqa: E402
 from rule_scorer import build_patient_json                         # noqa: E402
 
-OLLAMA_URL = 'https://da5b-49-206-19-247.ngrok-free.app'
+OLLAMA_URL = os.getenv("LOCAL_OLLAMA_URL")
 
 # In-memory cache of recent analysis results, keyed by report_id.
 # Lets the frontend request a PDF by id instead of POSTing the whole

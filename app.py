@@ -27,7 +27,7 @@ from pathlib import Path
 
 # ── Add project src to path ────────────────────────────────────────
 # Adjust this to your project structure
-PROJECT_ROOT = Path(r'D:\Major_Project\project\kims_v3')
+PROJECT_ROOT = Path(r'.')
 SRC_C1  = PROJECT_ROOT / 'src' / 'component1'
 SRC_C2  = PROJECT_ROOT / 'src' / 'component2'
 SRC_PIPELINE = PROJECT_ROOT / 'src' / 'pipeline'
