@@ -61,7 +61,7 @@ from inference import load_models, load_models_v2, run_inference   # noqa: E402
 from pdf_parser import parse_lab_report                            # noqa: E402
 from rule_scorer import build_patient_json                         # noqa: E402
 
-OLLAMA_URL = 'http://localhost:11434'
+OLLAMA_URL = 'https://da5b-49-206-19-247.ngrok-free.app'
 
 # In-memory cache of recent analysis results, keyed by report_id.
 # Lets the frontend request a PDF by id instead of POSTing the whole
