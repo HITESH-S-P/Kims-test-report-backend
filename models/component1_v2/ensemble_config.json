@@ -1,10 +1,10 @@
 {
   "fold_model_paths": [
-    "D:\\Major_Project\\project\\kims_v3\\models\\component1_v2\\fold_1_model.pt",
-    "D:\\Major_Project\\project\\kims_v3\\models\\component1_v2\\fold_2_model.pt",
-    "D:\\Major_Project\\project\\kims_v3\\models\\component1_v2\\fold_3_model.pt",
-    "D:\\Major_Project\\project\\kims_v3\\models\\component1_v2\\fold_4_model.pt",
-    "D:\\Major_Project\\project\\kims_v3\\models\\component1_v2\\fold_5_model.pt"
+    "fold_1_model.pt",
+    "fold_2_model.pt",
+    "fold_3_model.pt",
+    "fold_4_model.pt",
+    "fold_5_model.pt"
   ],
   "input_dim": 85,
   "dropout": 0.4,
