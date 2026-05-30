@@ -16,6 +16,8 @@ Everything else is identical to v1 so existing fold weights stay
 architecture-compatible for the condition/risk/specialist/organ heads.
 """
 
+from zipfile import Path
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
@@ -164,7 +166,8 @@ class Component1V2Loss(nn.Module):
 
 if __name__ == '__main__':
     import sys
-    sys.path.insert(0, r'D:\Major_Project\project\kims_v3\src\component1')
+    PROJECT_ROOT = Path(__file__).resolve().parents[2]  # adjust if needed
+    sys.path.insert(0, str(PROJECT_ROOT / "src" / "component1"))
     try:
         from features import get_feature_dim
         dim = get_feature_dim()

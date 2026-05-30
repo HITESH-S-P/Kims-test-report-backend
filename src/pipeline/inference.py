@@ -37,8 +37,8 @@ for p in [str(SRC_C1), str(SRC_C2), str(SRC_PV2)]:
         sys.path.insert(0, p)
 
 # ── Paths ──────────────────────────────────────────────────────────
-DEFAULT_MODEL_DIR    = Path(r'D:\Major_Project\project\kims_v3\models\component1')
-DEFAULT_MODEL_DIR_V2 = Path(r'D:\Major_Project\project\kims_v3\models\component1_v2')
+DEFAULT_MODEL_DIR    = PROJECT_ROOT / "models" / "component1"
+DEFAULT_MODEL_DIR_V2 = PROJECT_ROOT / "models" / "component1_v2"
 DEVICE = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
 # ── Label maps (must match training) ──────────────────────────────

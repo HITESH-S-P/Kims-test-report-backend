@@ -332,6 +332,3 @@ if __name__ == '__main__':
               "<parsed_dir> <out_dir> <model_dir>")
         print("\nExample:")
         print(r'  python build_semisupervised_data.py \\')
-        print(r'      D:\Major_Project\project\kims_v3\data\unlabelled_parsed \\')
-        print(r'      D:\Major_Project\project\kims_v3\data\semisupervised \\')
-        print(r'      D:\Major_Project\project\kims_v3\models\component1')
