@@ -1,0 +1,109 @@
+{
+  "text_input": "Patient is a 60-year-old female who presented with generalized weakness, vomiting (7-8 episodes), and fever for one day. She is a known case of Type 2 Diabetes Mellitus for 10 years and Systemic Hypertension. Clinical examination and investigations led to a diagnosis of acute gastritis, systemic hypertension, type 2 diabetes mellitus, and herpes labialis. 2D Echo revealed mild concentric left ventricular hypertrophy, sclerotic aortic valve, mild mitral regurgitation, and LV diastolic dysfunction with a normal ejection fraction of 58%. Laboratory tests showed a total bilirubin of 0.5 mg/dL and serum albumin of 3.7 g/dL. She was treated with antibiotics (Inj. Sporizox-S), insulin (Inj. Mixtard), and anti-emetics. Her symptoms resolved, and she was discharged with advice to continue her diabetic and hypertensive medications.",
+  "demographics": {
+    "age": 60.0,
+    "gender": 0
+  },
+  "lab_features": {
+    "hemoglobin": 13.0,
+    "platelets": 250000.0,
+    "wbc": 7500.0,
+    "esr": 15.0,
+    "bilirubin_total": 0.5,
+    "albumin": 3.7,
+    "ferritin": 100.0,
+    "serum_iron": 80.0,
+    "creatinine": 0.9,
+    "urea": 25.0,
+    "grbs": 150.0,
+    "bmi": 24.0,
+    "hba1c": 7.5,
+    "tsat": 25.0,
+    "ef_percent": 58.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 1,
+    "platelets_missing": 1,
+    "wbc_missing": 1,
+    "esr_missing": 1,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 1,
+    "urea_missing": 1,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 1,
+    "ef_percent_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 1,
+    "cardiac_disease": 1,
+    "respiratory_disease": 0,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 96.0,
+    "bp_systolic": 120.0,
+    "bp_diastolic": 96.0,
+    "pulse": 96.0,
+    "respiratory_rate": 19.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 1,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 1,
+    "alcohol": 0,
+    "smoking": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 1,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 0,
+    "gi": 1,
+    "diabetes": 1,
+    "respiratory": 0,
+    "cardiac": 1,
+    "renal": 0,
+    "hepatic": 0
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 0,
+    "cardiac": 1,
+    "renal": 0,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 1,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "gi",
+  "external_features": {
+    "population_dm_prevalence": 0.493
+  },
+  "label_confidence": 0.85,
+  "targets": {
+    "risk_level": 2,
+    "specialist": 3
+  }
+}

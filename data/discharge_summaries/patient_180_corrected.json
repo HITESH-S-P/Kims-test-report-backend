@@ -1,0 +1,109 @@
+{
+  "text_input": "Patient presented with loose stools for 3 days, insidious in onset, 5-6 episodes per day, watery and non-blood tinged. Associated with nausea. No fever or burning micturition. History of outside food consumption. Known case of hypertension for 3 years on Tab Amlong. Physical exam: BP 150/90, Pulse 68. Investigations: Hb 14.2, WBC 7980, Platelets 2.27 lakhs, ESR 33. USG showed Grade 1 fatty liver, cystitis, and prostatomegaly. 2D Echo showed EF 58% and LV diastolic dysfunction. Diagnosed with Acute Gastroenteritis and Systemic Hypertension with Grade 1 Hypertensive Retinopathy.",
+  "demographics": {
+    "age": 55.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 14.2,
+    "platelets": 227000.0,
+    "wbc": 7980.0,
+    "esr": 33.0,
+    "bilirubin_total": 0.3,
+    "albumin": 3.8,
+    "ferritin": 150.0,
+    "serum_iron": 100.0,
+    "creatinine": 0.8,
+    "urea": 39.0,
+    "grbs": 92.0,
+    "bmi": 26.5,
+    "hba1c": 5.4,
+    "tsat": 24.0,
+    "ef_percent": 58.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 1,
+    "ef_percent_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 0,
+    "hypertension": 1,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 0,
+    "hepatic_disease": 1,
+    "urological_condition": 1,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 97.0,
+    "bp_systolic": 150.0,
+    "bp_diastolic": 90.0,
+    "pulse": 68.0,
+    "respiratory_rate": 17.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "alcohol": 0,
+    "smoking": 1,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 1,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 0,
+    "gi": 1,
+    "diabetes": 0,
+    "respiratory": 0,
+    "cardiac": 1,
+    "renal": 0,
+    "hepatic": 1
+  },
+  "organ_involvement": {
+    "hepatic": 1,
+    "respiratory": 0,
+    "cardiac": 1,
+    "renal": 0,
+    "gi": 1,
+    "urological": 1
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "gi",
+  "external_features": {
+    "population_dm_prevalence": 0.573
+  },
+  "label_confidence": 0.95,
+  "targets": {
+    "risk_level": 1,
+    "specialist": 3
+  }
+}

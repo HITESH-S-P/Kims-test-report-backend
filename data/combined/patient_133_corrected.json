@@ -1,0 +1,139 @@
+{
+  "text_input": "Patient presented with a 2-month history of bilateral lower limb swelling, initially starting at the feet and progressing above the knees, accompanied by a burning sensation. He also reported abdominal distension for the past 3 weeks, which has gradually increased, and reduced urine output for 3 days. There is no history of fever, hematemesis, or melena. Past medical history includes alcoholic hepatitis diagnosed in March, with grade 1-2 esophageal varices. He has a 28-year history of smoking and alcohol consumption. Physical examination revealed pallor, icterus, and edema. Abdominal examination showed distension with shifting dullness. Echo showed an EF of 55% with LV diastolic dysfunction. Diagnosis: Decompensated chronic liver parenchymal disease with portal hypertension, grade 3 esophageal varices, and internal hemorrhoids.",
+  "demographics": {
+    "age": 46.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 9.5,
+    "platelets": 120000.0,
+    "wbc": 7500.0,
+    "esr": 15.0,
+    "bilirubin_total": 2.8,
+    "albumin": 2.6,
+    "ferritin": 33.0,
+    "serum_iron": 33.2,
+    "creatinine": 0.9,
+    "urea": 25.0,
+    "grbs": 90.0,
+    "bmi": 24.0,
+    "hba1c": 5.4,
+    "tsat": 24.0,
+    "ef_percent": 55.0,
+    "sodium": null,
+    "potassium": null,
+    "chloride": null,
+    "sgot": null,
+    "sgpt": null,
+    "alp": null,
+    "ggt": null,
+    "crp": null,
+    "uric_acid": null,
+    "pcv": null,
+    "mcv": null,
+    "rdw": null,
+    "neutrophils_pct": null,
+    "lymphocytes_pct": null
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 1,
+    "platelets_missing": 1,
+    "wbc_missing": 1,
+    "esr_missing": 1,
+    "bilirubin_total_missing": 1,
+    "albumin_missing": 1,
+    "ferritin_missing": 0,
+    "serum_iron_missing": 0,
+    "creatinine_missing": 1,
+    "urea_missing": 1,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 0,
+    "ef_percent_missing": 0,
+    "sodium_missing": 1,
+    "potassium_missing": 1,
+    "chloride_missing": 1,
+    "sgot_missing": 1,
+    "sgpt_missing": 1,
+    "alp_missing": 1,
+    "ggt_missing": 1,
+    "crp_missing": 1,
+    "uric_acid_missing": 1,
+    "pcv_missing": 1,
+    "mcv_missing": 1,
+    "rdw_missing": 1,
+    "neutrophils_pct_missing": 1,
+    "lymphocytes_pct_missing": 1
+  },
+  "comorbidities": {
+    "diabetes": 0,
+    "hypertension": 1,
+    "cardiac_disease": 0,
+    "respiratory_disease": 1,
+    "renal_disease": 0,
+    "hepatic_disease": 1,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 98.0,
+    "bp_systolic": 120.0,
+    "bp_diastolic": 80.0,
+    "pulse": 90.0,
+    "respiratory_rate": 15.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "alcohol": 1,
+    "smoking": 1,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 0
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 1,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 1,
+    "gi": 1,
+    "diabetes": 0,
+    "respiratory": 1,
+    "cardiac": 1,
+    "renal": 0,
+    "hepatic": 1
+  },
+  "organ_involvement": {
+    "hepatic": 1,
+    "respiratory": 1,
+    "cardiac": 1,
+    "renal": 0,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 1,
+    "hypoalbuminemia": 1
+  },
+  "primary_condition": "hepatic",
+  "external_features": {
+    "population_dm_prevalence": 0.499
+  },
+  "label_confidence": 0.95,
+  "targets": {
+    "risk_level": 3,
+    "specialist": 9
+  },
+  "_source_type": "discharge_summary",
+  "_filename": "patient_133_corrected.json"
+}

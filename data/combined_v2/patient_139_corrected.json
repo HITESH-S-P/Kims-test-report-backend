@@ -1,0 +1,139 @@
+{
+  "text_input": "Patient is a 55-year-old male with a 4-year history of chronic liver disease and chronic kidney disease. He presented with worsening abdominal distension and breathlessness (orthopnea) for one day, along with decreased urine output. Past medical history includes abdominal tuberculosis (currently on HRZE regimen), type 2 diabetes mellitus (on insulin), and systemic hypertension. Physical examination revealed pallor, icterus, abdominal distension, and bilateral rhonchi. Admission vitals: BP 140/90 mmHg, Pulse 102 bpm, SpO2 97% on room air. Laboratory investigations showed hemoglobin 8.4 g/dL, WBC 5520/µL, platelets 56,000/µL, ESR 33 mm/hr, creatinine 2.4 mg/dL, urea 42 mg/dL, albumin 2.8 g/dL, and HbA1c 5.3%. 2D Echo showed an EF of 58% with mild concentric LVH. The patient was diagnosed with decompensated chronic liver parenchymal disease with portal hypertension, CKD, abdominal tuberculosis, T2DM, and anemia of chronic disease. Management included diuretics, antibiotics (Taxim), and insulin.",
+  "demographics": {
+    "age": 55.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 8.4,
+    "platelets": 56000.0,
+    "wbc": 5520.0,
+    "esr": 33.0,
+    "bilirubin_total": 1.1,
+    "albumin": 2.8,
+    "ferritin": 165.0,
+    "serum_iron": 75.0,
+    "creatinine": 2.4,
+    "urea": 42.0,
+    "grbs": 95.0,
+    "bmi": 24.5,
+    "hba1c": 5.3,
+    "tsat": 23.5,
+    "ef_percent": 58.0,
+    "sodium": null,
+    "potassium": null,
+    "chloride": null,
+    "sgot": null,
+    "sgpt": null,
+    "alp": null,
+    "ggt": null,
+    "crp": null,
+    "uric_acid": null,
+    "pcv": null,
+    "mcv": null,
+    "rdw": null,
+    "neutrophils_pct": null,
+    "lymphocytes_pct": null
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 0,
+    "tsat_missing": 1,
+    "ef_percent_missing": 0,
+    "sodium_missing": 1,
+    "potassium_missing": 1,
+    "chloride_missing": 1,
+    "sgot_missing": 1,
+    "sgpt_missing": 1,
+    "alp_missing": 1,
+    "ggt_missing": 1,
+    "crp_missing": 1,
+    "uric_acid_missing": 1,
+    "pcv_missing": 1,
+    "mcv_missing": 1,
+    "rdw_missing": 1,
+    "neutrophils_pct_missing": 1,
+    "lymphocytes_pct_missing": 1
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 1,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 1,
+    "hepatic_disease": 1,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 97.0,
+    "bp_systolic": 140.0,
+    "bp_diastolic": 90.0,
+    "pulse": 102.0,
+    "respiratory_rate": 18.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 1,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 1,
+    "alcohol": 0,
+    "smoking": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 1,
+    "gi": 1,
+    "diabetes": 1,
+    "respiratory": 1,
+    "cardiac": 1,
+    "renal": 1,
+    "hepatic": 1
+  },
+  "organ_involvement": {
+    "hepatic": 1,
+    "respiratory": 1,
+    "cardiac": 1,
+    "renal": 1,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 1,
+    "hypoalbuminemia": 1
+  },
+  "primary_condition": "hepatic",
+  "external_features": {
+    "population_dm_prevalence": 0.535
+  },
+  "label_confidence": 0.95,
+  "targets": {
+    "risk_level": 4,
+    "specialist": 9
+  },
+  "_source_type": "discharge_summary",
+  "_filename": "patient_139_corrected.json"
+}

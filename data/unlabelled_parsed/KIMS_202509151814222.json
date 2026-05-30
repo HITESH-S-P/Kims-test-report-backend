@@ -1,0 +1,40 @@
+{
+  "patient_id": "KIMS_202509151814222",
+  "demographics": {
+    "age": 19,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202509151814222"
+  },
+  "lab_features": {
+    "serum_iron": 13.6,
+    "ferritin": 7.85,
+    "tsat": 2.96
+  },
+  "lab_printed_ranges": {
+    "serum_iron": [
+      37.0,
+      158.0
+    ],
+    "ferritin": [
+      30.0,
+      400.0
+    ],
+    "tsat": [
+      16.0,
+      45.0
+    ]
+  },
+  "urine_features": {},
+  "lab_timeline": {},
+  "lab_date_used": {
+    "serum_iron": "unknown",
+    "ferritin": "unknown",
+    "tsat": "unknown"
+  },
+  "peripheral_smear": null,
+  "admission_date": null,
+  "n_reports": 1,
+  "n_labs": 3,
+  "n_urine_fields": 0
+}

@@ -1,0 +1,142 @@
+{
+  "text_input": "Patient complains of loose stools since 1 month,\n~4–5 episodes/day, clear, watery in consistency,\nnon-foul smelling, non-blood tinged,\nnot associated with pain.\nAlso complains of generalised weakness since 1 month,\ngradual in onset.\nNo aggravating or relieving factors.\nNo h/o fever / chills\nNo h/o nausea / vomiting\nNo h/o pain abdomen\nNo h/o blood in stools\nNo h/o weight loss\nNo h/o decreased urine output\nNo h/o altered sensorium / decreased urine\nNo h/o evening rise of temperature",
+  "demographics": {
+    "age": 49.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 9.5,
+    "platelets": 442000,
+    "wbc": 28360.0,
+    "esr": null,
+    "bilirubin_total": null,
+    "albumin": null,
+    "ferritin": null,
+    "serum_iron": null,
+    "creatinine": 6.0,
+    "urea": 109.0,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": 6.9,
+    "tsat": null,
+    "ef_percent": null,
+    "sodium": 146.0,
+    "potassium": 3.3,
+    "chloride": 102.0,
+    "sgot": null,
+    "sgpt": null,
+    "alp": null,
+    "ggt": null,
+    "crp": null,
+    "uric_acid": 5.1,
+    "pcv": 28.6,
+    "mcv": 77.8,
+    "rdw": 17.2,
+    "neutrophils_pct": 91.3,
+    "lymphocytes_pct": 5.3
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 1,
+    "bilirubin_total_missing": 1,
+    "albumin_missing": 1,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 0,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 1,
+    "sgpt_missing": 1,
+    "alp_missing": 1,
+    "ggt_missing": 1,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 1,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 1,
+    "hepatic_disease": 1,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 98.0,
+    "bp_systolic": 120.0,
+    "bp_diastolic": 70.0,
+    "pulse": 82.0,
+    "respiratory_rate": 18.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 1,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 11,
+    "anemia": 2,
+    "cardiac": 0,
+    "respiratory": 3,
+    "renal": 5,
+    "hepatic": 0,
+    "gi": 2,
+    "diabetes": 2
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 1,
+    "cardiac": 0,
+    "renal": 1,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "infection",
+  "external_features": {
+    "population_dm_prevalence": 0.05
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 3,
+    "specialist": 10
+  },
+  "_source_patient": "BASVARAJ G",
+  "_discharge_file": "KIMS_202604282231234.json",
+  "_n_html_reports": 44,
+  "_admission_labs_used": 44
+}

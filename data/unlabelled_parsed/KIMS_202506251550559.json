@@ -1,0 +1,88 @@
+{
+  "patient_id": "KIMS_202506251550559",
+  "demographics": {
+    "age": 24,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202506251550559"
+  },
+  "lab_features": {
+    "hemoglobin": 8.6,
+    "wbc": 10150.0,
+    "neutrophils_pct": 76.0,
+    "lymphocytes_pct": 19.0,
+    "pcv": 29.9,
+    "mcv": 73.6,
+    "mch": 21.2,
+    "mchc": 28.8,
+    "rdw": 18.5,
+    "platelets": 334000,
+    "esr": 56.0
+  },
+  "lab_printed_ranges": {
+    "hemoglobin": [
+      11.5,
+      16.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "pcv": [
+      35.0,
+      50.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ]
+  },
+  "urine_features": {},
+  "lab_timeline": {},
+  "lab_date_used": {
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "esr": "unknown"
+  },
+  "peripheral_smear": ". RBCs shows mild anisopoikilocytosis with hypochromia. Seen are microcytes admixed with normocytes . Also seen are elliptocytes. WBCs are normal  in number with  relative  increase in neutrophils  and  normal in morphology. PLATELET are adequate NO ABNORMAL CELLS SEEN . IMPRESSION MICROCYTIC HYPOCHROMIC ANEMIA WITH   RELATIVE  NEUTROPHILIA.",
+  "admission_date": null,
+  "n_reports": 1,
+  "n_labs": 11,
+  "n_urine_fields": 0
+}

@@ -1,0 +1,144 @@
+{
+  "text_input": "History of Present Illness\n​Mrs. Geetha Shetty, 83 yrs, k/c/o T2DM, Systemic hypertension, was in her usual state of health 1 day back then developed sudden onset giddiness, non-rotatory, not associated with headache/visual aura, subsequently had a fall with no history of loss of consciousness/no head injury/no seizure.\n​Patient also had 1 episode of vomiting, non-bilious, non-blood tinged, mostly contained food particles.\n​Since today morning patient attendant noticed reduced activity and inability to get up from bed, but patient was conscious, oriented, and there was no history suggestive of limb weakness or speech difficulty.\nNo h/o fever\nNo h/o chest pain / palpitations/ blurring of vision\nNo h/o involuntary movements / involuntary passing of stools or urine.",
+  "demographics": {
+    "age": 83.0,
+    "gender": 0
+  },
+  "lab_features": {
+    "hemoglobin": 10.3,
+    "platelets": 243000,
+    "wbc": 6560.0,
+    "esr": 18.0,
+    "bilirubin_total": 0.2,
+    "albumin": 3.9,
+    "ferritin": 28.8,
+    "serum_iron": 118.0,
+    "creatinine": 0.9,
+    "urea": 26.0,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": 6.9,
+    "tsat": 39.7,
+    "ef_percent": null,
+    "sodium": 131.0,
+    "potassium": 3.6,
+    "chloride": 93.0,
+    "sgot": 19.0,
+    "sgpt": 10.0,
+    "alp": 71.0,
+    "ggt": 12.0,
+    "crp": null,
+    "uric_acid": 4.1,
+    "pcv": 33.9,
+    "mcv": 80.0,
+    "rdw": 20.9,
+    "neutrophils_pct": 68.9,
+    "lymphocytes_pct": 18.4
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 0,
+    "serum_iron_missing": 0,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 0,
+    "tsat_missing": 0,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 1,
+    "cardiac_disease": 0,
+    "respiratory_disease": 1,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": null,
+    "bp_systolic": null,
+    "bp_diastolic": null,
+    "pulse": 86.0,
+    "respiratory_rate": null,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 1,
+    "antibiotics": 0,
+    "analgesics": 0,
+    "statins": 1
+  },
+  "history": {
+    "known_diabetes": 1,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 6,
+    "cardiac": 0,
+    "respiratory": 0,
+    "renal": 2,
+    "hepatic": 0,
+    "gi": 2,
+    "diabetes": 2
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 1,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 1,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "anemia",
+  "external_features": {
+    "population_dm_prevalence": 0.1
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 3,
+    "specialist": 6
+  },
+  "_source_patient": "Geetha Shetty",
+  "_discharge_file": "KIMS_202604242224485.json",
+  "_n_html_reports": 23,
+  "_admission_labs_used": 23,
+  "_source_type": "matched_pair",
+  "_filename": "Geetha_Shetty_v3.json"
+}

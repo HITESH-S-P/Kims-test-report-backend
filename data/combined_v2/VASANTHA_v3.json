@@ -1,0 +1,144 @@
+{
+  "text_input": "Patient was apparently alright 10 days back when she developed easy fatigability which was insidious in onset and gradually progressive associated with breathlessness on exertion.Patient also c/o black tarry stools since 10 days Which was insidious in onset and gradually progressive  No h/o orthopnea ,paroxysmal nocturnal dyspnea No h/o chest pain ,palpitation No h/o bleeding manifestation (malena since 3 years which aggravated in the last 10 days) No c/o vomitting, loose stools ,pain abdomen No c/o hematuria ,hemoptysis ,epistaxis No c/o fever ,weight loss No c/o high coloured urine ,jaundice",
+  "demographics": {
+    "age": 67.0,
+    "gender": 0
+  },
+  "lab_features": {
+    "hemoglobin": 9.4,
+    "platelets": 457000,
+    "wbc": 4750.0,
+    "esr": null,
+    "bilirubin_total": null,
+    "albumin": null,
+    "ferritin": 16.9,
+    "serum_iron": 9.83,
+    "creatinine": null,
+    "urea": null,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": null,
+    "tsat": 3.0,
+    "ef_percent": null,
+    "sodium": 131.0,
+    "potassium": 4.1,
+    "chloride": 94.0,
+    "sgot": null,
+    "sgpt": null,
+    "alp": null,
+    "ggt": null,
+    "crp": null,
+    "uric_acid": null,
+    "pcv": 30.6,
+    "mcv": 82.5,
+    "rdw": 20.6,
+    "neutrophils_pct": 56.0,
+    "lymphocytes_pct": 35.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 1,
+    "bilirubin_total_missing": 1,
+    "albumin_missing": 1,
+    "ferritin_missing": 0,
+    "serum_iron_missing": 0,
+    "creatinine_missing": 1,
+    "urea_missing": 1,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 0,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 1,
+    "sgpt_missing": 1,
+    "alp_missing": 1,
+    "ggt_missing": 1,
+    "crp_missing": 1,
+    "uric_acid_missing": 1,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 0,
+    "hypertension": 0,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 1
+  },
+  "vitals": {
+    "spo2": 96.0,
+    "bp_systolic": 120.0,
+    "bp_diastolic": 70.0,
+    "pulse": 100.0,
+    "respiratory_rate": 16.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 4,
+    "cardiac": 0,
+    "respiratory": 0,
+    "renal": 0,
+    "hepatic": 1,
+    "gi": 1,
+    "diabetes": 0
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 0,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 1,
+    "multi_organ": 0,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "anemia",
+  "external_features": {
+    "population_dm_prevalence": 0.1
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 2,
+    "specialist": 6
+  },
+  "_source_patient": "VASANTHA",
+  "_discharge_file": "discharge_177.json",
+  "_n_html_reports": 4,
+  "_admission_labs_used": 4,
+  "_source_type": "matched_pair",
+  "_filename": "VASANTHA_v3.json"
+}

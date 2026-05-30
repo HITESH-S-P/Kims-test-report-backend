@@ -1,0 +1,139 @@
+{
+  "text_input": "Patient is a 35-year-old male admitted with a 2-day history of vomiting (3 episodes/day, yellowish-green, non-bloody), diffuse dull aching abdominal pain, headache, and easy fatigability. He is a known case of Type 2 Diabetes Mellitus (6 years, on insulin) and Systemic Hypertension (on Met XL). Personal history includes significant alcohol consumption (360ml daily) and smoking (1 pack/day). Physical examination revealed tachycardia (pulse 136 bpm) and hypertension (BP 150/100 mmHg). USG abdomen showed hepatomegaly (15.6 cm) and grade 1 fatty liver. Diagnosis: Alcohol Dependence Syndrome, Alcoholic Gastritis, Type 2 Diabetes Mellitus, and Systemic Hypertension. Treatment included IV fluids, PPIs, antiemetics, thiamine, insulin, and antibiotics (Zone).",
+  "demographics": {
+    "age": 35.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 14.0,
+    "platelets": 250000.0,
+    "wbc": 7500.0,
+    "esr": 15.0,
+    "bilirubin_total": 0.8,
+    "albumin": 4.0,
+    "ferritin": 150.0,
+    "serum_iron": 100.0,
+    "creatinine": 0.9,
+    "urea": 25.0,
+    "grbs": 180.0,
+    "bmi": 24.5,
+    "hba1c": 7.5,
+    "tsat": 25.0,
+    "ef_percent": 60.0,
+    "sodium": null,
+    "potassium": null,
+    "chloride": null,
+    "sgot": null,
+    "sgpt": null,
+    "alp": null,
+    "ggt": null,
+    "crp": null,
+    "uric_acid": null,
+    "pcv": null,
+    "mcv": null,
+    "rdw": null,
+    "neutrophils_pct": null,
+    "lymphocytes_pct": null
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 1,
+    "platelets_missing": 1,
+    "wbc_missing": 1,
+    "esr_missing": 1,
+    "bilirubin_total_missing": 1,
+    "albumin_missing": 1,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 1,
+    "urea_missing": 1,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 1,
+    "potassium_missing": 1,
+    "chloride_missing": 1,
+    "sgot_missing": 1,
+    "sgpt_missing": 1,
+    "alp_missing": 1,
+    "ggt_missing": 1,
+    "crp_missing": 1,
+    "uric_acid_missing": 1,
+    "pcv_missing": 1,
+    "mcv_missing": 1,
+    "rdw_missing": 1,
+    "neutrophils_pct_missing": 1,
+    "lymphocytes_pct_missing": 1
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 1,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 0,
+    "hepatic_disease": 1,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 98.0,
+    "bp_systolic": 150.0,
+    "bp_diastolic": 100.0,
+    "pulse": 136.0,
+    "respiratory_rate": 18.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 1,
+    "antibiotics": 1,
+    "analgesics": 1,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 1,
+    "alcohol": 1,
+    "smoking": 1,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 0
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 0,
+    "anemia": 0,
+    "gi": 3,
+    "diabetes": 3,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 0,
+    "hepatic": 2
+  },
+  "organ_involvement": {
+    "hepatic": 1,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "gi",
+  "external_features": {
+    "population_dm_prevalence": 0.407
+  },
+  "label_confidence": 0.85,
+  "targets": {
+    "risk_level": 2,
+    "specialist": 3
+  },
+  "_source_type": "discharge_summary",
+  "_filename": "patient_181_corrected.json"
+}

@@ -1,0 +1,139 @@
+{
+  "text_input": "Patient is a 73-year-old male, known case of COPD, Type 2 Diabetes Mellitus, Hypertension, and Ischemic Heart Disease. Presented with shortness of breath for 1 week (MMRC Grade 2 to 4) and cough with yellowish mucoid expectoration for 5 days. No fever, chest pain, or palpitations. Examination revealed SpO2 88% on room air, BP 130/80 mmHg, and pulse 86 bpm. Diagnosis: Acute exacerbation of COPD with Type 2 respiratory failure, IHD with HFrEF (EF 30%), systemic hypertension, and hypothyroidism. Labs showed Hb 10.6, WBC 8440, Platelets 2.15L, ESR 77, and HbA1c 6.9%. Echo showed dilated cardiomyopathy and LV diastolic dysfunction.",
+  "demographics": {
+    "age": 73.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 10.6,
+    "platelets": 215000.0,
+    "wbc": 8440.0,
+    "esr": 77.0,
+    "bilirubin_total": 0.3,
+    "albumin": 3.9,
+    "ferritin": 428.0,
+    "serum_iron": 31.7,
+    "creatinine": 1.2,
+    "urea": 19.0,
+    "grbs": 160.0,
+    "bmi": 24.0,
+    "hba1c": 6.9,
+    "tsat": 18.0,
+    "ef_percent": 30.0,
+    "sodium": null,
+    "potassium": null,
+    "chloride": null,
+    "sgot": null,
+    "sgpt": null,
+    "alp": null,
+    "ggt": null,
+    "crp": null,
+    "uric_acid": null,
+    "pcv": null,
+    "mcv": null,
+    "rdw": null,
+    "neutrophils_pct": null,
+    "lymphocytes_pct": null
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 0,
+    "serum_iron_missing": 0,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 0,
+    "tsat_missing": 0,
+    "ef_percent_missing": 0,
+    "sodium_missing": 1,
+    "potassium_missing": 1,
+    "chloride_missing": 1,
+    "sgot_missing": 1,
+    "sgpt_missing": 1,
+    "alp_missing": 1,
+    "ggt_missing": 1,
+    "crp_missing": 1,
+    "uric_acid_missing": 1,
+    "pcv_missing": 1,
+    "mcv_missing": 1,
+    "rdw_missing": 1,
+    "neutrophils_pct_missing": 1,
+    "lymphocytes_pct_missing": 1
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 1,
+    "cardiac_disease": 1,
+    "respiratory_disease": 1,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 88.0,
+    "bp_systolic": 130.0,
+    "bp_diastolic": 80.0,
+    "pulse": 86.0,
+    "respiratory_rate": 22.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 1
+  },
+  "history": {
+    "known_diabetes": 1,
+    "alcohol": 0,
+    "smoking": 1,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 1,
+    "ef_normal": 0,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 1,
+    "gi": 0,
+    "diabetes": 1,
+    "respiratory": 1,
+    "cardiac": 1,
+    "renal": 0,
+    "hepatic": 0
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 1,
+    "cardiac": 1,
+    "renal": 0,
+    "gi": 0,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 1,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "respiratory",
+  "external_features": {
+    "population_dm_prevalence": 0.787
+  },
+  "label_confidence": 0.95,
+  "targets": {
+    "risk_level": 4,
+    "specialist": 5
+  },
+  "_source_type": "discharge_summary",
+  "_filename": "patient_185_corrected.json"
+}

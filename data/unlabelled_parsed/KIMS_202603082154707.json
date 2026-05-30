@@ -1,0 +1,106 @@
+{
+  "patient_id": "KIMS_202603082154707",
+  "demographics": {
+    "age": 33,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202603082154707"
+  },
+  "lab_features": {
+    "sodium": 139.0,
+    "potassium": 4.6,
+    "chloride": 106.0,
+    "hemoglobin": 10.7,
+    "wbc": 10400.0,
+    "neutrophils_pct": 66.0,
+    "lymphocytes_pct": 29.0,
+    "pcv": 35.0,
+    "mcv": 78.0,
+    "mch": 23.8,
+    "mchc": 30.6,
+    "rdw": 15.3,
+    "platelets": 405000,
+    "esr": 36.0
+  },
+  "lab_printed_ranges": {
+    "sodium": [
+      136.0,
+      145.0
+    ],
+    "potassium": [
+      3.5,
+      5.1
+    ],
+    "chloride": [
+      98.0,
+      107.0
+    ],
+    "hemoglobin": [
+      11.5,
+      16.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "pcv": [
+      35.0,
+      50.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ]
+  },
+  "urine_features": {},
+  "lab_timeline": {},
+  "lab_date_used": {
+    "sodium": "unknown",
+    "potassium": "unknown",
+    "chloride": "unknown",
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "esr": "unknown"
+  },
+  "peripheral_smear": ". RBCs Show  mild  anisopoikilocytosis and  hypochromia. Seen are normocytes admixed with microcytes. Also seen are few target cells and elliptocytes. Polychromatophilic cells seen. WBCs Normal in number, distribution and morphology. PLATELET Adequate. NO ABNORMAL CELLS SEEN . IMPRESSION MICROCYTIC HYPOCHROMIC ANEMIA",
+  "admission_date": null,
+  "n_reports": 2,
+  "n_labs": 14,
+  "n_urine_fields": 0
+}

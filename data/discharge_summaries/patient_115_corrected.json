@@ -1,0 +1,109 @@
+{
+  "text_input": "Patient presented with yellowish discoloration of the eyes and abdominal distension for 15 days, along with lower limb swelling for 3 days. He reported breathlessness on lying down but no vomiting, abdominal pain, hematemesis, or fever. History includes significant alcohol consumption for 30 years. Examination revealed pallor, icterus, and edema. Blood pressure was elevated at 200/140 mmHg. Diagnosis confirmed decompensated chronic liver parenchymal disease with portal hypertension (Child-Pugh Class C, MELD 30) and grade 2 internal hemorrhoids. Imaging showed chronic liver disease, splenomegaly, and moderate ascites. 2D Echo indicated an EF of 55% with left ventricular diastolic dysfunction.",
+  "demographics": {
+    "age": 65.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 10.5,
+    "platelets": 110000.0,
+    "wbc": 7500.0,
+    "esr": 15.0,
+    "bilirubin_total": 5.5,
+    "albumin": 2.4,
+    "ferritin": 965.0,
+    "serum_iron": 116.0,
+    "creatinine": 0.9,
+    "urea": 30.0,
+    "grbs": 90.0,
+    "bmi": 24.0,
+    "hba1c": 5.4,
+    "tsat": 57.9,
+    "ef_percent": 55.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 1,
+    "platelets_missing": 1,
+    "wbc_missing": 1,
+    "esr_missing": 1,
+    "bilirubin_total_missing": 1,
+    "albumin_missing": 1,
+    "ferritin_missing": 0,
+    "serum_iron_missing": 0,
+    "creatinine_missing": 1,
+    "urea_missing": 1,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 0,
+    "ef_percent_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 0,
+    "hypertension": 1,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 0,
+    "hepatic_disease": 1,
+    "urological_condition": 1,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 98.0,
+    "bp_systolic": 200.0,
+    "bp_diastolic": 140.0,
+    "pulse": 90.0,
+    "respiratory_rate": 15.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "alcohol": 1,
+    "smoking": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 1,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 1,
+    "gi": 3,
+    "diabetes": 0,
+    "respiratory": 1,
+    "cardiac": 1,
+    "renal": 0,
+    "hepatic": 5
+  },
+  "organ_involvement": {
+    "hepatic": 1,
+    "respiratory": 1,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 1,
+    "urological": 1
+  },
+  "severity_features": {
+    "age_risk": 1,
+    "multi_organ": 1,
+    "hypoalbuminemia": 1
+  },
+  "primary_condition": "hepatic",
+  "external_features": {
+    "population_dm_prevalence": 0.535
+  },
+  "label_confidence": 0.95,
+  "targets": {
+    "risk_level": 4,
+    "specialist": 9
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "text_input": "A 63-year-old female presented with bilateral lower limb swelling for 15 days, initially involving the feet and extending to the knees, accompanied by facial puffiness. She reported nausea for 5 days and two episodes of vomiting 3 days prior. She is a known case of Type 2 Diabetes Mellitus (16 years) and Systemic Hypertension (8 years). Physical examination revealed pallor and bilateral lower limb edema. Investigations showed an eGFR of 25 ml/min/1.73m², Grade 3 hypertensive retinopathy, and bilateral proliferative diabetic retinopathy. Iron profile indicated iron deficiency anemia (Iron 50.7, Ferritin 69.2, TSAT 18%). 2D Echo showed concentric LVH, mild AR, and an EF of 58%. She was treated with insulin (Mixtard, Actrapid), diuretics (Lasix), antihypertensives (Amlong, Cilacar), and iron supplementation (FCM).",
+  "demographics": {
+    "age": 63.0,
+    "gender": 0
+  },
+  "lab_features": {
+    "hemoglobin": 9.0,
+    "platelets": 250000.0,
+    "wbc": 7500.0,
+    "esr": 15.0,
+    "bilirubin_total": 0.8,
+    "albumin": 3.1,
+    "ferritin": 69.2,
+    "serum_iron": 50.7,
+    "creatinine": 2.1,
+    "urea": 55.0,
+    "grbs": 230.0,
+    "bmi": 24.5,
+    "hba1c": 9.3,
+    "tsat": 18.0,
+    "ef_percent": 58.0,
+    "sodium": null,
+    "potassium": null,
+    "chloride": null,
+    "sgot": null,
+    "sgpt": null,
+    "alp": null,
+    "ggt": null,
+    "crp": null,
+    "uric_acid": null,
+    "pcv": null,
+    "mcv": null,
+    "rdw": null,
+    "neutrophils_pct": null,
+    "lymphocytes_pct": null
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 1,
+    "platelets_missing": 1,
+    "wbc_missing": 1,
+    "esr_missing": 1,
+    "bilirubin_total_missing": 1,
+    "albumin_missing": 1,
+    "ferritin_missing": 0,
+    "serum_iron_missing": 0,
+    "creatinine_missing": 1,
+    "urea_missing": 1,
+    "grbs_missing": 0,
+    "bmi_missing": 1,
+    "hba1c_missing": 0,
+    "tsat_missing": 0,
+    "ef_percent_missing": 0,
+    "sodium_missing": 1,
+    "potassium_missing": 1,
+    "chloride_missing": 1,
+    "sgot_missing": 1,
+    "sgpt_missing": 1,
+    "alp_missing": 1,
+    "ggt_missing": 1,
+    "crp_missing": 1,
+    "uric_acid_missing": 1,
+    "pcv_missing": 1,
+    "mcv_missing": 1,
+    "rdw_missing": 1,
+    "neutrophils_pct_missing": 1,
+    "lymphocytes_pct_missing": 1
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 1,
+    "cardiac_disease": 1,
+    "respiratory_disease": 0,
+    "renal_disease": 1,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 97.0,
+    "bp_systolic": 130.0,
+    "bp_diastolic": 80.0,
+    "pulse": 90.0,
+    "respiratory_rate": 18.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 1,
+    "antibiotics": 0,
+    "analgesics": 0,
+    "statins": 1
+  },
+  "history": {
+    "known_diabetes": 1,
+    "alcohol": 0,
+    "smoking": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 0,
+    "anemia": 3,
+    "gi": 1,
+    "diabetes": 5,
+    "respiratory": 0,
+    "cardiac": 2,
+    "renal": 5,
+    "hepatic": 0
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 0,
+    "cardiac": 1,
+    "renal": 1,
+    "gi": 0,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 1,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "renal",
+  "external_features": {
+    "population_dm_prevalence": 0.493
+  },
+  "label_confidence": 0.95,
+  "targets": {
+    "risk_level": 4,
+    "specialist": 2
+  },
+  "_source_type": "discharge_summary",
+  "_filename": "patient_158_corrected.json"
+}

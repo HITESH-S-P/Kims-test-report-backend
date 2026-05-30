@@ -1,0 +1,142 @@
+{
+  "text_input": "Patient was apparently normal 8 hours ago , when she developed in involuntary movements of all 4 limbs sudden in onset , tonic clonic type lasted for 10 minutes , subsided on its own associated with involuntary passage of feces, and frothing of mouth .\nPatient also ℅ post ictal exhaustion. \nNo ℅ headache , dizziness ,fever \nNo ℅ loss of power , trauma to the head .\nNo ℅ tongue bite \nNo ℅ chest pain, breathlessness, pedal edema , orthopnea, PND",
+  "demographics": {
+    "age": 50.0,
+    "gender": 0
+  },
+  "lab_features": {
+    "hemoglobin": 10.9,
+    "platelets": 179000,
+    "wbc": 6560.0,
+    "esr": 25.0,
+    "bilirubin_total": 0.2,
+    "albumin": 3.6,
+    "ferritin": 24.6,
+    "serum_iron": 79.0,
+    "creatinine": 0.6,
+    "urea": 18.0,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": 5.6,
+    "tsat": 25.0,
+    "ef_percent": null,
+    "sodium": 138.0,
+    "potassium": 4.5,
+    "chloride": 101.0,
+    "sgot": 26.0,
+    "sgpt": 20.0,
+    "alp": 92.0,
+    "ggt": 11.0,
+    "crp": null,
+    "uric_acid": 2.5,
+    "pcv": 32.7,
+    "mcv": 86.5,
+    "rdw": 12.2,
+    "neutrophils_pct": 70.0,
+    "lymphocytes_pct": 23.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 0,
+    "serum_iron_missing": 0,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 0,
+    "tsat_missing": 0,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 1,
+    "cardiac_disease": 1,
+    "respiratory_disease": 0,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 1
+  },
+  "vitals": {
+    "spo2": 96.0,
+    "bp_systolic": 110.0,
+    "bp_diastolic": 70.0,
+    "pulse": 88.0,
+    "respiratory_rate": null,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 2,
+    "cardiac": 1,
+    "respiratory": 0,
+    "renal": 0,
+    "hepatic": 0,
+    "gi": 1,
+    "diabetes": 0
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 0,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 0,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "anemia",
+  "external_features": {
+    "population_dm_prevalence": 0.1
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 2,
+    "specialist": 6
+  },
+  "_source_patient": "SHIVAMMA",
+  "_discharge_file": "KIMS_202605162261537.json",
+  "_n_html_reports": 16,
+  "_admission_labs_used": 16
+}

@@ -1,0 +1,189 @@
+{
+  "patient_id": "KIMS_202605102249945",
+  "demographics": {
+    "age": 58,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202605102249945"
+  },
+  "lab_features": {
+    "sodium": 134.0,
+    "potassium": 4.4,
+    "chloride": 95.0,
+    "grbs": 110.0,
+    "hba1c": 6.8,
+    "cholesterol_total": 152.0,
+    "triglycerides": 85.0,
+    "hdl": 50.0,
+    "ldl": 100.0,
+    "urea": 43.0,
+    "creatinine": 1.0,
+    "uric_acid": 6.2,
+    "thyroid_t3": 103.0,
+    "thyroid_t4": 8.22,
+    "thyroid_tsh": 1.25,
+    "hemoglobin": 12.5,
+    "wbc": 10000.0,
+    "neutrophils_pct": 85.0,
+    "lymphocytes_pct": 15.0,
+    "pcv": 38.1,
+    "mcv": 75.3,
+    "mch": 24.7,
+    "mchc": 32.8,
+    "rdw": 13.4,
+    "platelets": 305000,
+    "esr": 22.0
+  },
+  "lab_printed_ranges": {
+    "sodium": [
+      136.0,
+      145.0
+    ],
+    "potassium": [
+      3.5,
+      5.1
+    ],
+    "chloride": [
+      98.0,
+      107.0
+    ],
+    "grbs": [
+      70.0,
+      109.0
+    ],
+    "hba1c": [
+      4.8,
+      5.6
+    ],
+    "cholesterol_total": [
+      125.0,
+      200.0
+    ],
+    "triglycerides": [
+      50.0,
+      150.0
+    ],
+    "hdl": [
+      40.0,
+      60.0
+    ],
+    "ldl": [
+      70.0,
+      130.0
+    ],
+    "urea": [
+      17.0,
+      48.0
+    ],
+    "creatinine": [
+      0.5,
+      0.9
+    ],
+    "uric_acid": [
+      2.3,
+      6.1
+    ],
+    "thyroid_t3": [
+      80.0,
+      200.0
+    ],
+    "thyroid_t4": [
+      5.1,
+      14.1
+    ],
+    "thyroid_tsh": [
+      0.27,
+      4.2
+    ],
+    "hemoglobin": [
+      11.5,
+      16.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "pcv": [
+      35.0,
+      50.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.015,
+    "urine_ph": 5.0,
+    "urine_protein": 0,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "sodium": "unknown",
+    "potassium": "unknown",
+    "chloride": "unknown",
+    "grbs": "unknown",
+    "hba1c": "unknown",
+    "cholesterol_total": "unknown",
+    "triglycerides": "unknown",
+    "hdl": "unknown",
+    "ldl": "unknown",
+    "urea": "unknown",
+    "creatinine": "unknown",
+    "uric_acid": "unknown",
+    "thyroid_t3": "unknown",
+    "thyroid_t4": "unknown",
+    "thyroid_tsh": "unknown",
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "esr": "unknown"
+  },
+  "peripheral_smear": ". RBCs seen are microcytes admixed with normocytes. WBCs are normal  in number with absolute increase in neutrophils  and  normal in morphology. PLATELET are adequate. IMPRESSION MICROCYTIC BLOOD PICTURE WITH ABSOLUTE NEUTROPHILIA.",
+  "admission_date": null,
+  "n_reports": 7,
+  "n_labs": 26,
+  "n_urine_fields": 10
+}

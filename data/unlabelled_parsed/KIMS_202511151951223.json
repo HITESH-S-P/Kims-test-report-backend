@@ -1,0 +1,221 @@
+{
+  "patient_id": "KIMS_202511151951223",
+  "demographics": {
+    "age": 55,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202511151951223"
+  },
+  "lab_features": {
+    "hemoglobin": 10.1,
+    "wbc": 10910.0,
+    "neutrophils_pct": 70.0,
+    "lymphocytes_pct": 22.0,
+    "pcv": 31.9,
+    "mcv": 89.1,
+    "mch": 28.2,
+    "mchc": 31.7,
+    "rdw": 15.9,
+    "platelets": 454000,
+    "esr": 43.0,
+    "sodium": 128.0,
+    "potassium": 4.0,
+    "chloride": 94.0,
+    "cholesterol_total": 130.0,
+    "triglycerides": 562.0,
+    "hdl": 16.0,
+    "urea": 18.0,
+    "creatinine": 1.2,
+    "hba1c": 13.3,
+    "thyroid_t3": 50.1,
+    "thyroid_t4": 3.48,
+    "thyroid_tsh": 8.49,
+    "bilirubin_total": 0.7,
+    "direct_bilirubin": 0.5,
+    "sgot": 18.0,
+    "sgpt": 22.0,
+    "alp": 138.0,
+    "total_protein": 4.9,
+    "albumin": 2.6,
+    "ggt": 60.0,
+    "uric_acid": 3.8
+  },
+  "lab_printed_ranges": {
+    "hemoglobin": [
+      11.5,
+      16.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "pcv": [
+      35.0,
+      50.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ],
+    "sodium": [
+      136.0,
+      145.0
+    ],
+    "potassium": [
+      3.5,
+      5.1
+    ],
+    "chloride": [
+      98.0,
+      107.0
+    ],
+    "cholesterol_total": [
+      125.0,
+      200.0
+    ],
+    "triglycerides": [
+      50.0,
+      150.0
+    ],
+    "hdl": [
+      40.0,
+      60.0
+    ],
+    "urea": [
+      17.0,
+      48.0
+    ],
+    "creatinine": [
+      0.5,
+      0.9
+    ],
+    "hba1c": [
+      4.8,
+      5.6
+    ],
+    "thyroid_t3": [
+      80.0,
+      200.0
+    ],
+    "thyroid_t4": [
+      5.1,
+      14.1
+    ],
+    "thyroid_tsh": [
+      0.27,
+      4.2
+    ],
+    "bilirubin_total": [
+      0.2,
+      1.1
+    ],
+    "sgot": [
+      5.0,
+      40.0
+    ],
+    "sgpt": [
+      5.0,
+      40.0
+    ],
+    "alp": [
+      105.0,
+      130.0
+    ],
+    "total_protein": [
+      6.4,
+      8.3
+    ],
+    "albumin": [
+      3.5,
+      5.2
+    ],
+    "ggt": [
+      5.0,
+      40.0
+    ],
+    "uric_acid": [
+      2.3,
+      6.1
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.01,
+    "urine_ph": 5.5,
+    "urine_protein": 0,
+    "urine_glucose": 1.5,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "esr": "unknown",
+    "sodium": "unknown",
+    "potassium": "unknown",
+    "chloride": "unknown",
+    "cholesterol_total": "unknown",
+    "triglycerides": "unknown",
+    "hdl": "unknown",
+    "urea": "unknown",
+    "creatinine": "unknown",
+    "hba1c": "unknown",
+    "thyroid_t3": "unknown",
+    "thyroid_t4": "unknown",
+    "thyroid_tsh": "unknown",
+    "bilirubin_total": "unknown",
+    "direct_bilirubin": "unknown",
+    "sgot": "unknown",
+    "sgpt": "unknown",
+    "alp": "unknown",
+    "total_protein": "unknown",
+    "albumin": "unknown",
+    "ggt": "unknown",
+    "uric_acid": "unknown"
+  },
+  "peripheral_smear": ". RBCs Normocytic normochromic WBCs Normal in number, distribution and neutrophils show toxic granules. PLATELET are  increased. NO ABNORMAL CELLS SEEN . IMPRESSION NORMOCYTIC  NORMOCHROMIC ANEMIA  WITH  THROMBOCYTOSIS.",
+  "admission_date": null,
+  "n_reports": 19,
+  "n_labs": 32,
+  "n_urine_fields": 10
+}

@@ -1,0 +1,207 @@
+{
+  "patient_id": "KIMS_20240916883545",
+  "demographics": {
+    "age": 82,
+    "gender": 1,
+    "patient_type": null,
+    "uhid": "20240916883545"
+  },
+  "lab_features": {
+    "sodium": 132.0,
+    "potassium": 4.5,
+    "chloride": 105.0,
+    "urea": 38.0,
+    "creatinine": 1.7,
+    "uric_acid": 3.0,
+    "wbc": 10860.0,
+    "neutrophils_pct": 61.0,
+    "lymphocytes_pct": 21.0,
+    "pcv": 35.3,
+    "platelets": 79000,
+    "thyroid_t3": 77.7,
+    "thyroid_t4": 5.65,
+    "thyroid_tsh": 1.71,
+    "hba1c": 6.5,
+    "bilirubin_total": 1.8,
+    "direct_bilirubin": 1.6,
+    "sgot": 20.0,
+    "sgpt": 21.0,
+    "alp": 115.0,
+    "total_protein": 4.9,
+    "albumin": 2.9,
+    "ggt": 80.0,
+    "hemoglobin": 12.8,
+    "mcv": 83.9,
+    "mch": 27.8,
+    "mchc": 33.2,
+    "rdw": 16.0,
+    "esr": 26.0
+  },
+  "lab_printed_ranges": {
+    "sodium": [
+      136.0,
+      145.0
+    ],
+    "potassium": [
+      3.5,
+      5.1
+    ],
+    "chloride": [
+      98.0,
+      107.0
+    ],
+    "urea": [
+      17.0,
+      48.0
+    ],
+    "creatinine": [
+      0.7,
+      1.2
+    ],
+    "uric_acid": [
+      3.6,
+      7.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "pcv": [
+      40.0,
+      55.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "thyroid_t3": [
+      80.0,
+      200.0
+    ],
+    "thyroid_t4": [
+      5.1,
+      14.1
+    ],
+    "thyroid_tsh": [
+      0.27,
+      4.2
+    ],
+    "hba1c": [
+      4.8,
+      5.6
+    ],
+    "bilirubin_total": [
+      0.2,
+      1.1
+    ],
+    "direct_bilirubin": [
+      0.0,
+      0.2
+    ],
+    "sgot": [
+      5.0,
+      40.0
+    ],
+    "sgpt": [
+      5.0,
+      40.0
+    ],
+    "alp": [
+      105.0,
+      130.0
+    ],
+    "total_protein": [
+      6.4,
+      8.3
+    ],
+    "albumin": [
+      3.5,
+      5.2
+    ],
+    "ggt": [
+      5.0,
+      40.0
+    ],
+    "hemoglobin": [
+      13.0,
+      18.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "esr": [
+      0.0,
+      15.0
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.025,
+    "urine_ph": 5.5,
+    "urine_protein": 1,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 1,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "sodium": "unknown",
+    "potassium": "unknown",
+    "chloride": "unknown",
+    "urea": "unknown",
+    "creatinine": "unknown",
+    "uric_acid": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "platelets": "unknown",
+    "thyroid_t3": "unknown",
+    "thyroid_t4": "unknown",
+    "thyroid_tsh": "unknown",
+    "hba1c": "unknown",
+    "bilirubin_total": "unknown",
+    "direct_bilirubin": "unknown",
+    "sgot": "unknown",
+    "sgpt": "unknown",
+    "alp": "unknown",
+    "total_protein": "unknown",
+    "albumin": "unknown",
+    "ggt": "unknown",
+    "hemoglobin": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "esr": "unknown"
+  },
+  "peripheral_smear": "NORMOCYTIC NORMOCHROMIC ANEMIA WITH NEUTROPHILIC LEUCOCYTOSIS AND THROMBOCYTOPENIA.",
+  "admission_date": null,
+  "n_reports": 37,
+  "n_labs": 29,
+  "n_urine_fields": 10
+}

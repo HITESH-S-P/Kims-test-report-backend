@@ -1,0 +1,139 @@
+{
+  "text_input": "Patient Nusrath, a 36-year-old female, presented with a 4-day history of fever, headache, and myalgia. Clinical evaluation and serology confirmed Dengue Fever (NS1, IgM, IgG positive). Physical examination revealed a pulse of 60 bpm, blood pressure of 106/70 mmHg, and SpO2 of 96%. The patient was afebrile at the time of examination. Systemic findings were largely normal, though USG abdomen showed a left renal cortical cyst and urine analysis indicated proteinuria. The patient was managed with intravenous fluids and analgesics (Paracetamol). Platelet counts showed an improving trend during hospitalization, and the patient was discharged in stable condition.",
+  "demographics": {
+    "age": 36.0,
+    "gender": 0
+  },
+  "lab_features": {
+    "hemoglobin": 12.5,
+    "platelets": 180000.0,
+    "wbc": 6000.0,
+    "esr": 10.0,
+    "bilirubin_total": 0.7,
+    "albumin": 4.0,
+    "ferritin": 150.0,
+    "serum_iron": 100.0,
+    "creatinine": 0.9,
+    "urea": 25.0,
+    "grbs": 90.0,
+    "bmi": 23.0,
+    "hba1c": 5.4,
+    "tsat": 23.5,
+    "ef_percent": 60.0,
+    "sodium": null,
+    "potassium": null,
+    "chloride": null,
+    "sgot": null,
+    "sgpt": null,
+    "alp": null,
+    "ggt": null,
+    "crp": null,
+    "uric_acid": null,
+    "pcv": null,
+    "mcv": null,
+    "rdw": null,
+    "neutrophils_pct": null,
+    "lymphocytes_pct": null
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 1,
+    "platelets_missing": 1,
+    "wbc_missing": 1,
+    "esr_missing": 1,
+    "bilirubin_total_missing": 1,
+    "albumin_missing": 1,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 1,
+    "urea_missing": 1,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 1,
+    "potassium_missing": 1,
+    "chloride_missing": 1,
+    "sgot_missing": 1,
+    "sgpt_missing": 1,
+    "alp_missing": 1,
+    "ggt_missing": 1,
+    "crp_missing": 1,
+    "uric_acid_missing": 1,
+    "pcv_missing": 1,
+    "mcv_missing": 1,
+    "rdw_missing": 1,
+    "neutrophils_pct_missing": 1,
+    "lymphocytes_pct_missing": 1
+  },
+  "comorbidities": {
+    "diabetes": 0,
+    "hypertension": 0,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 1,
+    "hepatic_disease": 0,
+    "urological_condition": 1,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 96.0,
+    "bp_systolic": 106.0,
+    "bp_diastolic": 70.0,
+    "pulse": 60.0,
+    "respiratory_rate": 17.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 0,
+    "analgesics": 1,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "alcohol": 0,
+    "smoking": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 0
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 0,
+    "gi": 0,
+    "diabetes": 0,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 1,
+    "hepatic": 0
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 1,
+    "gi": 0,
+    "urological": 1
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "infection",
+  "external_features": {
+    "population_dm_prevalence": 0.085
+  },
+  "label_confidence": 0.9,
+  "targets": {
+    "risk_level": 1,
+    "specialist": 10
+  },
+  "_source_type": "discharge_summary",
+  "_filename": "patient_121_corrected.json"
+}

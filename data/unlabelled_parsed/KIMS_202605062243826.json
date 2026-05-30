@@ -1,0 +1,216 @@
+{
+  "patient_id": "KIMS_202605062243826",
+  "demographics": {
+    "age": 29,
+    "gender": 1,
+    "patient_type": null,
+    "uhid": "202605062243826"
+  },
+  "lab_features": {
+    "platelets": 145000,
+    "cholesterol_total": 92.0,
+    "triglycerides": 151.0,
+    "hdl": 16.0,
+    "ldl": 36.0,
+    "potassium": 4.1,
+    "thyroid_t3": 150.0,
+    "thyroid_t4": 11.3,
+    "thyroid_tsh": 9.86,
+    "sodium": 133.0,
+    "chloride": 102.0,
+    "bilirubin_total": 1.6,
+    "direct_bilirubin": 1.5,
+    "sgot": 212.0,
+    "sgpt": 299.0,
+    "alp": 449.0,
+    "total_protein": 6.8,
+    "albumin": 3.0,
+    "ggt": 538.0,
+    "urea": 33.0,
+    "creatinine": 1.0,
+    "uric_acid": 6.2,
+    "hemoglobin": 11.0,
+    "wbc": 10010.0,
+    "neutrophils_pct": 40.0,
+    "lymphocytes_pct": 40.0,
+    "pcv": 33.7,
+    "mcv": 78.0,
+    "mch": 25.5,
+    "mchc": 32.6,
+    "rdw": 18.8,
+    "esr": 28.0,
+    "hba1c": 5.6
+  },
+  "lab_printed_ranges": {
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "cholesterol_total": [
+      125.0,
+      200.0
+    ],
+    "triglycerides": [
+      50.0,
+      150.0
+    ],
+    "hdl": [
+      40.0,
+      60.0
+    ],
+    "ldl": [
+      70.0,
+      130.0
+    ],
+    "potassium": [
+      3.5,
+      5.1
+    ],
+    "thyroid_t3": [
+      80.0,
+      200.0
+    ],
+    "thyroid_t4": [
+      5.1,
+      14.1
+    ],
+    "thyroid_tsh": [
+      0.27,
+      4.2
+    ],
+    "sodium": [
+      136.0,
+      145.0
+    ],
+    "chloride": [
+      98.0,
+      107.0
+    ],
+    "bilirubin_total": [
+      0.2,
+      1.1
+    ],
+    "direct_bilirubin": [
+      0.0,
+      0.2
+    ],
+    "sgot": [
+      5.0,
+      40.0
+    ],
+    "sgpt": [
+      5.0,
+      40.0
+    ],
+    "alp": [
+      105.0,
+      130.0
+    ],
+    "total_protein": [
+      6.4,
+      8.3
+    ],
+    "albumin": [
+      3.5,
+      5.2
+    ],
+    "urea": [
+      17.0,
+      48.0
+    ],
+    "creatinine": [
+      0.7,
+      1.2
+    ],
+    "uric_acid": [
+      3.6,
+      7.0
+    ],
+    "hemoglobin": [
+      13.0,
+      18.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "pcv": [
+      40.0,
+      55.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "esr": [
+      0.0,
+      15.0
+    ],
+    "hba1c": [
+      4.8,
+      5.6
+    ]
+  },
+  "urine_features": {},
+  "lab_timeline": {},
+  "lab_date_used": {
+    "platelets": "unknown",
+    "cholesterol_total": "unknown",
+    "triglycerides": "unknown",
+    "hdl": "unknown",
+    "ldl": "unknown",
+    "potassium": "unknown",
+    "thyroid_t3": "unknown",
+    "thyroid_t4": "unknown",
+    "thyroid_tsh": "unknown",
+    "sodium": "unknown",
+    "chloride": "unknown",
+    "bilirubin_total": "unknown",
+    "direct_bilirubin": "unknown",
+    "sgot": "unknown",
+    "sgpt": "unknown",
+    "alp": "unknown",
+    "total_protein": "unknown",
+    "albumin": "unknown",
+    "ggt": "unknown",
+    "urea": "unknown",
+    "creatinine": "unknown",
+    "uric_acid": "unknown",
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "esr": "unknown",
+    "hba1c": "unknown"
+  },
+  "peripheral_smear": ". RBCs Normocytic normochromic. WBCs are normal in number with increase in eosinophils and few reactive lymphocytes seen. PLATELET Adequate. NO ABNORMAL CELLS SEEN . IMPRESSION NORMOCYTIC NORMOCHROMIC ANEMIA WITH EOSINOPHILIA. PARTIAL THROMBOPLASTIN TIME (APTT) CONTROL (Method-Automated(Mechanical Clot Detection)) 32.7 Sec 35-50 TEST 97.4 Sec 35-50 PROTHROMBIN TIME (PT) CONTROL (Automated(Mechanical Clot Detection)) 14.0 Sec TEST 14.9 Sec INR 1.08 Sec",
+  "admission_date": null,
+  "n_reports": 16,
+  "n_labs": 33,
+  "n_urine_fields": 0
+}

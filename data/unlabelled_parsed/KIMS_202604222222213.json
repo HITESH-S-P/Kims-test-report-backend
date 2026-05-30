@@ -1,0 +1,105 @@
+{
+  "patient_id": "KIMS_202604222222213",
+  "demographics": {
+    "age": 27,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202604222222213"
+  },
+  "lab_features": {
+    "pcv": 39.0,
+    "hemoglobin": 13.6,
+    "wbc": 9230.0,
+    "neutrophils_pct": 78.0,
+    "lymphocytes_pct": 18.0,
+    "mcv": 92.5,
+    "mch": 30.9,
+    "mchc": 33.4,
+    "rdw": 14.5,
+    "platelets": 194000,
+    "esr": 44.0,
+    "hba1c": 6.6
+  },
+  "lab_printed_ranges": {
+    "pcv": [
+      35.0,
+      50.0
+    ],
+    "hemoglobin": [
+      11.5,
+      16.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ],
+    "hba1c": [
+      4.8,
+      5.6
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.02,
+    "urine_ph": 6.0,
+    "urine_protein": 0,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "pcv": "unknown",
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "esr": "unknown",
+    "hba1c": "unknown"
+  },
+  "peripheral_smear": ". RBCs Normocytic normochromic WBCs are normal  in number with  relative  increase in neutrophils  and  normal in morphology. PLATELET are adequate. IMPRESSION NORMOCYTIC  NORMOCHROMIC  BLOOD PICTURE  WITH   RELATIVE  NEUTROPHILIA.",
+  "admission_date": null,
+  "n_reports": 6,
+  "n_labs": 12,
+  "n_urine_fields": 10
+}

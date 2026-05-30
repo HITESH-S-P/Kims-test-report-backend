@@ -1,0 +1,139 @@
+{
+  "text_input": "Patient presented with a 15-day history of high-grade intermittent fever with chills and rigors, and insidious onset abdominal pain in the hypochondriac and epigastric regions radiating to the right flank. Medical history includes systemic hypertension, old pulmonary embolism, SMV thrombosis, and morbid obesity status post sleeve gastrectomy. Physical examination revealed stable vitals with a BP of 130/90 mmHg and pulse of 71 bpm. Investigations showed grade 1 fatty liver, bilateral grade 1 nephropathy, and prostatomegaly on USG. 2D Echo showed a normal LV systolic function with an EF of 58%. Treatment included intravenous antibiotics (Stycef), analgesics (PCT), and continuation of home medications (Telma, Ecosprin Gold).",
+  "demographics": {
+    "age": 65.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 14.2,
+    "platelets": 210000.0,
+    "wbc": 7800.0,
+    "esr": 12.0,
+    "bilirubin_total": 0.8,
+    "albumin": 4.1,
+    "ferritin": 150.0,
+    "serum_iron": 95.0,
+    "creatinine": 0.9,
+    "urea": 28.0,
+    "grbs": 92.0,
+    "bmi": 32.5,
+    "hba1c": 5.4,
+    "tsat": 24.0,
+    "ef_percent": 58.0,
+    "sodium": null,
+    "potassium": null,
+    "chloride": null,
+    "sgot": null,
+    "sgpt": null,
+    "alp": null,
+    "ggt": null,
+    "crp": null,
+    "uric_acid": null,
+    "pcv": null,
+    "mcv": null,
+    "rdw": null,
+    "neutrophils_pct": null,
+    "lymphocytes_pct": null
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 1,
+    "platelets_missing": 1,
+    "wbc_missing": 1,
+    "esr_missing": 1,
+    "bilirubin_total_missing": 1,
+    "albumin_missing": 1,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 1,
+    "urea_missing": 1,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 1,
+    "ef_percent_missing": 0,
+    "sodium_missing": 1,
+    "potassium_missing": 1,
+    "chloride_missing": 1,
+    "sgot_missing": 1,
+    "sgpt_missing": 1,
+    "alp_missing": 1,
+    "ggt_missing": 1,
+    "crp_missing": 1,
+    "uric_acid_missing": 1,
+    "pcv_missing": 1,
+    "mcv_missing": 1,
+    "rdw_missing": 1,
+    "neutrophils_pct_missing": 1,
+    "lymphocytes_pct_missing": 1
+  },
+  "comorbidities": {
+    "diabetes": 0,
+    "hypertension": 1,
+    "cardiac_disease": 1,
+    "respiratory_disease": 1,
+    "renal_disease": 1,
+    "hepatic_disease": 1,
+    "urological_condition": 1,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 98.0,
+    "bp_systolic": 130.0,
+    "bp_diastolic": 90.0,
+    "pulse": 71.0,
+    "respiratory_rate": 18.0,
+    "temperature_afebrile": 0
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 1,
+    "statins": 1
+  },
+  "history": {
+    "known_diabetes": 0,
+    "alcohol": 0,
+    "smoking": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 0
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 0,
+    "gi": 1,
+    "diabetes": 0,
+    "respiratory": 1,
+    "cardiac": 1,
+    "renal": 1,
+    "hepatic": 1
+  },
+  "organ_involvement": {
+    "hepatic": 1,
+    "respiratory": 1,
+    "cardiac": 1,
+    "renal": 1,
+    "gi": 1,
+    "urological": 1
+  },
+  "severity_features": {
+    "age_risk": 1,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "gi",
+  "external_features": {
+    "population_dm_prevalence": 0.535
+  },
+  "label_confidence": 0.667,
+  "targets": {
+    "risk_level": 2,
+    "specialist": 3
+  },
+  "_source_type": "discharge_summary",
+  "_filename": "patient_171_corrected.json"
+}

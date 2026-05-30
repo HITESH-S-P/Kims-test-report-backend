@@ -1,0 +1,144 @@
+{
+  "text_input": "Patient was apparently normal 1 month back, then he developed c/o urinary incontinence since 1 month, which was insidious in onset & gradually progressive, associated with burning micturition and he was admitted in AIMS for the same and was managed conservatively and also given history of increased frequency of micturition since 1 month and now presented with c/o generalized weakness since 1 week,insidious in onset and is gradually progressive.\n\nNo history of fever/chest pain/breathlessness/ PND/ orthopnea \nNo altered mental status/ visual disturbances\nNo focal weakness /vomiting/nausea / signs of dehydration\nNo abdominal pain / hematuria / loose stools",
+  "demographics": {
+    "age": 91.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 9.8,
+    "platelets": 229000,
+    "wbc": 8940.0,
+    "esr": 118.0,
+    "bilirubin_total": 0.5,
+    "albumin": 3.2,
+    "ferritin": null,
+    "serum_iron": null,
+    "creatinine": 2.1,
+    "urea": 35.0,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": 9.4,
+    "tsat": null,
+    "ef_percent": null,
+    "sodium": 134.0,
+    "potassium": 4.4,
+    "chloride": 102.0,
+    "sgot": 13.0,
+    "sgpt": 17.0,
+    "alp": 105.0,
+    "ggt": 42.0,
+    "crp": null,
+    "uric_acid": 3.1,
+    "pcv": 29.5,
+    "mcv": 92.8,
+    "rdw": 13.0,
+    "neutrophils_pct": 81.2,
+    "lymphocytes_pct": 10.9
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 0,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 1,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 1,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 1
+  },
+  "vitals": {
+    "spo2": null,
+    "bp_systolic": 110.0,
+    "bp_diastolic": 80.0,
+    "pulse": null,
+    "respiratory_rate": null,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 1,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 1,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 3,
+    "anemia": 4,
+    "cardiac": 0,
+    "respiratory": 0,
+    "renal": 3,
+    "hepatic": 0,
+    "gi": 2,
+    "diabetes": 4
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 1,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 1,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "anemia",
+  "external_features": {
+    "population_dm_prevalence": 0.1
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 2,
+    "specialist": 6
+  },
+  "_source_patient": "Borelingaiah",
+  "_discharge_file": "KIMS_202604242225953.json",
+  "_n_html_reports": 20,
+  "_admission_labs_used": 20,
+  "_source_type": "matched_pair",
+  "_filename": "Borelingaiah_v3.json"
+}

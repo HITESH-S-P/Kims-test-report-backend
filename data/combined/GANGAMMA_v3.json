@@ -1,0 +1,144 @@
+{
+  "text_input": "Patient was apparently normal till – day ago when  she noticed a streak of blood in her vomiting , scanty and no further episodes noticed , patient had 1 more vomiting episode which was non blood tinged  No c/o breathlessness  No c/o chest pain  No c/o palpitations  No c/o loose stools  No c/o pain abdomen",
+  "demographics": {
+    "age": 68.0,
+    "gender": 0
+  },
+  "lab_features": {
+    "hemoglobin": 12.0,
+    "platelets": 254000,
+    "wbc": 10420.0,
+    "esr": 56.0,
+    "bilirubin_total": 0.4,
+    "albumin": 3.9,
+    "ferritin": null,
+    "serum_iron": null,
+    "creatinine": 0.5,
+    "urea": 20.0,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": 7.0,
+    "tsat": null,
+    "ef_percent": null,
+    "sodium": 134.0,
+    "potassium": 3.8,
+    "chloride": 100.0,
+    "sgot": 21.0,
+    "sgpt": 17.0,
+    "alp": 92.0,
+    "ggt": 18.0,
+    "crp": null,
+    "uric_acid": 3.5,
+    "pcv": 37.2,
+    "mcv": 89.9,
+    "rdw": 13.0,
+    "neutrophils_pct": 54.0,
+    "lymphocytes_pct": 41.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 0,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 1,
+    "cardiac_disease": 0,
+    "respiratory_disease": 1,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 96.0,
+    "bp_systolic": 150.0,
+    "bp_diastolic": 80.0,
+    "pulse": 90.0,
+    "respiratory_rate": null,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 0,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 1,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 0
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 0,
+    "anemia": 0,
+    "cardiac": 0,
+    "respiratory": 3,
+    "renal": 0,
+    "hepatic": 0,
+    "gi": 4,
+    "diabetes": 2
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 1,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 1,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "gi",
+  "external_features": {
+    "population_dm_prevalence": 0.07
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 2,
+    "specialist": 3
+  },
+  "_source_patient": "GANGAMMA",
+  "_discharge_file": "discharge_41.json",
+  "_n_html_reports": 7,
+  "_admission_labs_used": 7,
+  "_source_type": "matched_pair",
+  "_filename": "GANGAMMA_v3.json"
+}

@@ -1,0 +1,109 @@
+{
+  "text_input": "Patient is a 74-year-old male, known case of Type 2 Diabetes Mellitus for 10 years, presenting with cough with whitish mucoid expectoration for 5 days, acute onset shortness of breath (MMRC Grade 1 to 4) for 1 day, easy fatigability, and high-grade fever. Examination revealed tachycardia (106 bpm), SpO2 88% on room air, and bilateral crepitations in infra-scapular and infra-axillary areas. Investigations showed neutrophilic leukocytosis (WBC 19,310), HbA1c 12.2%, and chest X-ray/HRCT confirmed right lower lobe lobar pneumonia. 2D Echo showed LV diastolic dysfunction and EF 55%. USG showed hepatomegaly with fatty changes. Diagnosed with right lower lobe lobar pneumonia in sepsis with Type 1 respiratory failure and Type 2 DM with NPDR. Treated with antibiotics (Microtaz), insulin, and nebulization.",
+  "demographics": {
+    "age": 74.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 12.7,
+    "platelets": 195000.0,
+    "wbc": 19310.0,
+    "esr": 17.0,
+    "bilirubin_total": 0.5,
+    "albumin": 3.9,
+    "ferritin": 150.0,
+    "serum_iron": 80.0,
+    "creatinine": 1.1,
+    "urea": 26.0,
+    "grbs": 303.0,
+    "bmi": 24.5,
+    "hba1c": 12.2,
+    "tsat": 23.5,
+    "ef_percent": 55.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 0,
+    "tsat_missing": 1,
+    "ef_percent_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 0,
+    "cardiac_disease": 1,
+    "respiratory_disease": 1,
+    "renal_disease": 0,
+    "hepatic_disease": 1,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 88.0,
+    "bp_systolic": 130.0,
+    "bp_diastolic": 80.0,
+    "pulse": 106.0,
+    "respiratory_rate": 22.0,
+    "temperature_afebrile": 0
+  },
+  "treatment": {
+    "insulin": 1,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 1,
+    "alcohol": 0,
+    "smoking": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 1,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 0,
+    "gi": 0,
+    "diabetes": 1,
+    "respiratory": 1,
+    "cardiac": 1,
+    "renal": 0,
+    "hepatic": 1
+  },
+  "organ_involvement": {
+    "hepatic": 1,
+    "respiratory": 1,
+    "cardiac": 1,
+    "renal": 0,
+    "gi": 0,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 1,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "respiratory",
+  "external_features": {
+    "population_dm_prevalence": 0.232
+  },
+  "label_confidence": 0.95,
+  "targets": {
+    "risk_level": 4,
+    "specialist": 5
+  }
+}

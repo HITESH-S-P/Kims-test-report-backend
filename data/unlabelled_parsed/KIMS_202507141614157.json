@@ -1,0 +1,91 @@
+{
+  "patient_id": "KIMS_202507141614157",
+  "demographics": {
+    "age": 36,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202507141614157"
+  },
+  "lab_features": {
+    "pcv": 38.4,
+    "platelets": 158000,
+    "hba1c": 5.3,
+    "bilirubin_total": 0.4,
+    "direct_bilirubin": 0.1,
+    "sgot": 33.0,
+    "sgpt": 34.0,
+    "alp": 46.0,
+    "total_protein": 5.9,
+    "albumin": 4.0,
+    "ggt": 20.0
+  },
+  "lab_printed_ranges": {
+    "pcv": [
+      35.0,
+      50.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "hba1c": [
+      4.8,
+      5.6
+    ],
+    "bilirubin_total": [
+      0.2,
+      1.1
+    ],
+    "sgot": [
+      5.0,
+      40.0
+    ],
+    "sgpt": [
+      5.0,
+      40.0
+    ],
+    "alp": [
+      105.0,
+      130.0
+    ],
+    "total_protein": [
+      6.4,
+      8.3
+    ],
+    "albumin": [
+      3.5,
+      5.2
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.03,
+    "urine_ph": 6.0,
+    "urine_protein": 0,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "pcv": "unknown",
+    "platelets": "unknown",
+    "hba1c": "unknown",
+    "bilirubin_total": "unknown",
+    "direct_bilirubin": "unknown",
+    "sgot": "unknown",
+    "sgpt": "unknown",
+    "alp": "unknown",
+    "total_protein": "unknown",
+    "albumin": "unknown",
+    "ggt": "unknown"
+  },
+  "peripheral_smear": null,
+  "admission_date": null,
+  "n_reports": 7,
+  "n_labs": 11,
+  "n_urine_fields": 10
+}

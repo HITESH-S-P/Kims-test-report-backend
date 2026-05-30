@@ -1,0 +1,142 @@
+{
+  "text_input": "Patient is a K/C/O of Pulmonary Tuberculosis and was on SLE regimen and then later changed back to HRZE regimen following which 1 week later she developed redness of skin all over the body and burning sensation. It was not associated with fever ,bleeding or pus from the rash. There is no H/o swelling of the lips ,chest pain, breathing difficulties.",
+  "demographics": {
+    "age": 40.0,
+    "gender": 0
+  },
+  "lab_features": {
+    "hemoglobin": 7.4,
+    "platelets": 215000,
+    "wbc": 6110.0,
+    "esr": 50.0,
+    "bilirubin_total": 1.5,
+    "albumin": 2.5,
+    "ferritin": 2000.0,
+    "serum_iron": 42.0,
+    "creatinine": 0.9,
+    "urea": 15.0,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": null,
+    "tsat": 53.0,
+    "ef_percent": null,
+    "sodium": 136.0,
+    "potassium": 3.2,
+    "chloride": 106.0,
+    "sgot": 26.0,
+    "sgpt": 35.0,
+    "alp": 59.0,
+    "ggt": 142.0,
+    "crp": null,
+    "uric_acid": 2.2,
+    "pcv": 33.2,
+    "mcv": 88.9,
+    "rdw": 22.3,
+    "neutrophils_pct": 68.0,
+    "lymphocytes_pct": 21.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 0,
+    "serum_iron_missing": 0,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 0,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 0,
+    "hypertension": 0,
+    "cardiac_disease": 0,
+    "respiratory_disease": 1,
+    "renal_disease": 0,
+    "hepatic_disease": 1,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 96.0,
+    "bp_systolic": 110.0,
+    "bp_diastolic": 70.0,
+    "pulse": 100.0,
+    "respiratory_rate": 16.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 1,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 0
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 4,
+    "anemia": 5,
+    "cardiac": 0,
+    "respiratory": 3,
+    "renal": 0,
+    "hepatic": 2,
+    "gi": 1,
+    "diabetes": 0
+  },
+  "organ_involvement": {
+    "hepatic": 1,
+    "respiratory": 1,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 0,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 1,
+    "hypoalbuminemia": 1
+  },
+  "primary_condition": "anemia",
+  "external_features": {
+    "population_dm_prevalence": 0.1
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 2,
+    "specialist": 6
+  },
+  "_source_patient": "DEEPASHREE. R",
+  "_discharge_file": "discharge_31.json",
+  "_n_html_reports": 35,
+  "_admission_labs_used": 35
+}

@@ -1,0 +1,109 @@
+{
+  "text_input": "75-year-old female with known COPD, HFpEF, Atrial Fibrillation, CKD, Type 2 Diabetes Mellitus, and Systemic Hypertension presented with shortness of breath insidious in onset, gradually progressive over 3 days, initially on exertion now at rest with PND (NYHA 2 to NYHA 4), cough with whitish mucoid expectoration since 3 days, and bilateral lower limb swelling since 1 week progressed from ankle to knee level. No fever, chest pain, syncope, or burning micturition. On examination: SpO2 critically low at 60% on room air, pulse 120 bpm, BP 130/80 mmHg. Icterus and clubbing present. CVS: S1S2 heard, loud P2, pulse deficit 14. RS: bilateral rhonchi. Previous history of IHD, HFpEF, AF on Apixaban, Concor, Dilzem. T2DM and HTN on Jalra DP and Vogli GM for 10 years.",
+  "demographics": {
+    "age": 75.0,
+    "gender": 0
+  },
+  "lab_features": {
+    "hemoglobin": 10.0,
+    "platelets": 180000.0,
+    "wbc": 9000.0,
+    "esr": 40.0,
+    "bilirubin_total": 1.4,
+    "albumin": 3.2,
+    "ferritin": 80.0,
+    "serum_iron": 65.0,
+    "creatinine": 2.2,
+    "urea": 52.0,
+    "grbs": 160.0,
+    "bmi": 22.0,
+    "hba1c": 8.0,
+    "tsat": 22.0,
+    "ef_percent": 55.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 1,
+    "platelets_missing": 1,
+    "wbc_missing": 1,
+    "esr_missing": 1,
+    "bilirubin_total_missing": 1,
+    "albumin_missing": 1,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 1,
+    "urea_missing": 1,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 1,
+    "cardiac_disease": 1,
+    "respiratory_disease": 1,
+    "renal_disease": 1,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 60.0,
+    "bp_systolic": 130.0,
+    "bp_diastolic": 80.0,
+    "pulse": 120.0,
+    "respiratory_rate": 24.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 0,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 1,
+    "alcohol": 0,
+    "smoking": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 0
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 1,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 0,
+    "gi": 0,
+    "diabetes": 6,
+    "respiratory": 8,
+    "cardiac": 9,
+    "renal": 3,
+    "hepatic": 0
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 1,
+    "cardiac": 1,
+    "renal": 1,
+    "gi": 0,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 1,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "cardiac",
+  "external_features": {
+    "population_dm_prevalence": 0.077
+  },
+  "label_confidence": 0.92,
+  "targets": {
+    "risk_level": 4,
+    "specialist": 1
+  }
+}

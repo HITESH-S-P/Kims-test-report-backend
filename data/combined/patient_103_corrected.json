@@ -1,0 +1,139 @@
+{
+  "text_input": "Patient presented with a 3-day history of fever with chills, followed by acute onset of loose stools (8 episodes/day, watery, non-bloody) and vomiting (8 episodes/day). On admission, the patient was hypotensive (BP 80/30 mmHg) and tachycardic (Pulse 102/min), requiring CCU admission. Investigations revealed dimorphic anemia with thrombocytopenia and mild hyperbilirubinemia (Total Bilirubin 1.6 mg/dL). 2D Echo showed normal cardiac function (EF 58%). The patient was diagnosed with acute gastroenteritis and folic acid deficiency anemia. Treatment included IV antibiotics (Ciplox, Metrogyl), IV fluids, and a PRBC transfusion. The patient improved symptomatically and was discharged on oral medications.",
+  "demographics": {
+    "age": 40.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 7.5,
+    "platelets": 90000.0,
+    "wbc": 12000.0,
+    "esr": 25.0,
+    "bilirubin_total": 1.6,
+    "albumin": 3.2,
+    "ferritin": 45.0,
+    "serum_iron": 40.0,
+    "creatinine": 0.9,
+    "urea": 28.0,
+    "grbs": 92.0,
+    "bmi": 22.0,
+    "hba1c": 5.4,
+    "tsat": 18.0,
+    "ef_percent": 58.0,
+    "sodium": null,
+    "potassium": null,
+    "chloride": null,
+    "sgot": null,
+    "sgpt": null,
+    "alp": null,
+    "ggt": null,
+    "crp": null,
+    "uric_acid": null,
+    "pcv": null,
+    "mcv": null,
+    "rdw": null,
+    "neutrophils_pct": null,
+    "lymphocytes_pct": null
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 1,
+    "platelets_missing": 1,
+    "wbc_missing": 1,
+    "esr_missing": 1,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 1,
+    "urea_missing": 1,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 1,
+    "ef_percent_missing": 0,
+    "sodium_missing": 1,
+    "potassium_missing": 1,
+    "chloride_missing": 1,
+    "sgot_missing": 1,
+    "sgpt_missing": 1,
+    "alp_missing": 1,
+    "ggt_missing": 1,
+    "crp_missing": 1,
+    "uric_acid_missing": 1,
+    "pcv_missing": 1,
+    "mcv_missing": 1,
+    "rdw_missing": 1,
+    "neutrophils_pct_missing": 1,
+    "lymphocytes_pct_missing": 1
+  },
+  "comorbidities": {
+    "diabetes": 0,
+    "hypertension": 0,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 96.0,
+    "bp_systolic": 80.0,
+    "bp_diastolic": 30.0,
+    "pulse": 102.0,
+    "respiratory_rate": 19.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 1,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "alcohol": 0,
+    "smoking": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 1,
+    "gi": 1,
+    "diabetes": 0,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 0,
+    "hepatic": 1
+  },
+  "organ_involvement": {
+    "hepatic": 1,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "gi",
+  "external_features": {
+    "population_dm_prevalence": 0.085
+  },
+  "label_confidence": 0.9,
+  "targets": {
+    "risk_level": 1,
+    "specialist": 3
+  },
+  "_source_type": "discharge_summary",
+  "_filename": "patient_103_corrected.json"
+}

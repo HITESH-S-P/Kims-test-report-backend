@@ -1,0 +1,17 @@
+{
+  "total": 408,
+  "matched_pairs": 260,
+  "discharge_summaries": 59,
+  "augmented_added": 89,
+  "class_distribution": {
+    "infection": 91,
+    "gi": 47,
+    "anemia": 70,
+    "renal": 40,
+    "cardiac": 40,
+    "respiratory": 40,
+    "hepatic": 40,
+    "diabetes": 40
+  },
+  "min_per_class": 40
+}

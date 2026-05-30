@@ -1,0 +1,144 @@
+{
+  "text_input": "Patient is a known case of bronchial asthma with h/o steroid abuse (Tab Prednisone 10mg 0-0-1 for 5 yrs), presented with bilateral lower limb swelling which was insidious in onset, gradually progressed from ankle upto knee, with no aggravating or relieving factors. Patient also c/o facial puffiness which is more in the morning.\nh/o weight gain 20 kg in 3 years.\nNo h/o orthopnea, PND, exertional breathlessness, decreased urine output, frothy urine.\nk/c/o Bronchial Asthma since 6 years.\nsystemic hypertension since 1.5 months on medication TAB CILACAR 10mg 1-0-0",
+  "demographics": {
+    "age": 38.0,
+    "gender": 0
+  },
+  "lab_features": {
+    "hemoglobin": 12.3,
+    "platelets": 270000,
+    "wbc": 9680.0,
+    "esr": 6.0,
+    "bilirubin_total": 0.5,
+    "albumin": 3.9,
+    "ferritin": null,
+    "serum_iron": null,
+    "creatinine": 0.7,
+    "urea": 10.0,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": 6.7,
+    "tsat": null,
+    "ef_percent": null,
+    "sodium": 141.0,
+    "potassium": 3.3,
+    "chloride": 104.0,
+    "sgot": 89.0,
+    "sgpt": 59.0,
+    "alp": 55.0,
+    "ggt": 22.0,
+    "crp": null,
+    "uric_acid": 4.8,
+    "pcv": 40.6,
+    "mcv": 79.3,
+    "rdw": 15.6,
+    "neutrophils_pct": 50.0,
+    "lymphocytes_pct": 31.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 0,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 1,
+    "cardiac_disease": 0,
+    "respiratory_disease": 1,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 96.0,
+    "bp_systolic": 140.0,
+    "bp_diastolic": 90.0,
+    "pulse": 102.0,
+    "respiratory_rate": 18.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 1,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 0,
+    "anemia": 0,
+    "cardiac": 0,
+    "respiratory": 3,
+    "renal": 0,
+    "hepatic": 1,
+    "gi": 1,
+    "diabetes": 2
+  },
+  "organ_involvement": {
+    "hepatic": 1,
+    "respiratory": 1,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 0,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "respiratory",
+  "external_features": {
+    "population_dm_prevalence": 0.12
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 2,
+    "specialist": 5
+  },
+  "_source_patient": "NAGALAKSHMI",
+  "_discharge_file": "KIMS_202604142209407.json",
+  "_n_html_reports": 7,
+  "_admission_labs_used": 7,
+  "_source_type": "matched_pair",
+  "_filename": "NAGALAKSHMI_v3.json"
+}

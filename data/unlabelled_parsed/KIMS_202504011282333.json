@@ -1,0 +1,39 @@
+{
+  "patient_id": "KIMS_202504011282333",
+  "demographics": {
+    "age": 20,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202504011282333"
+  },
+  "lab_features": {
+    "uric_acid": 2.51
+  },
+  "lab_printed_ranges": {
+    "uric_acid": [
+      2.3,
+      6.1
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.005,
+    "urine_ph": 6.5,
+    "urine_protein": 0,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "uric_acid": "unknown"
+  },
+  "peripheral_smear": null,
+  "admission_date": null,
+  "n_reports": 1,
+  "n_labs": 1,
+  "n_urine_fields": 10
+}

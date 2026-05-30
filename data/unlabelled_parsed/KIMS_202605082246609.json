@@ -1,0 +1,28 @@
+{
+  "patient_id": "KIMS_202605082246609",
+  "demographics": {
+    "age": 48,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202605082246609"
+  },
+  "lab_features": {
+    "uric_acid": 4.8
+  },
+  "lab_printed_ranges": {
+    "uric_acid": [
+      2.3,
+      6.1
+    ]
+  },
+  "urine_features": {},
+  "lab_timeline": {},
+  "lab_date_used": {
+    "uric_acid": "unknown"
+  },
+  "peripheral_smear": null,
+  "admission_date": null,
+  "n_reports": 2,
+  "n_labs": 1,
+  "n_urine_fields": 0
+}

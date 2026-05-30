@@ -1,0 +1,135 @@
+{
+  "patient_id": "KIMS_202602192127306",
+  "demographics": {
+    "age": 1,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202602192127306"
+  },
+  "lab_features": {
+    "ferritin": 8.41,
+    "tsat": 3.24,
+    "serum_iron": 12.7,
+    "sodium": 137.0,
+    "potassium": 4.4,
+    "chloride": 105.0,
+    "hemoglobin": 9.8,
+    "wbc": 11640.0,
+    "neutrophils_pct": 19.0,
+    "lymphocytes_pct": 75.0,
+    "pcv": 32.9,
+    "mcv": 61.6,
+    "mch": 18.4,
+    "mchc": 29.8,
+    "rdw": 19.9,
+    "platelets": 313000,
+    "esr": 16.0
+  },
+  "lab_printed_ranges": {
+    "ferritin": [
+      30.0,
+      400.0
+    ],
+    "tsat": [
+      16.0,
+      45.0
+    ],
+    "serum_iron": [
+      37.0,
+      158.0
+    ],
+    "sodium": [
+      136.0,
+      145.0
+    ],
+    "potassium": [
+      3.5,
+      5.1
+    ],
+    "chloride": [
+      98.0,
+      107.0
+    ],
+    "hemoglobin": [
+      11.0,
+      15.0
+    ],
+    "wbc": [
+      5000.0,
+      15000.0
+    ],
+    "neutrophils_pct": [
+      35.0,
+      55.0
+    ],
+    "lymphocytes_pct": [
+      45.0,
+      60.0
+    ],
+    "pcv": [
+      35.0,
+      45.0
+    ],
+    "mcv": [
+      75.0,
+      85.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.01,
+    "urine_ph": 7.0,
+    "urine_protein": 0,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "ferritin": "unknown",
+    "tsat": "unknown",
+    "serum_iron": "unknown",
+    "sodium": "unknown",
+    "potassium": "unknown",
+    "chloride": "unknown",
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "esr": "unknown"
+  },
+  "peripheral_smear": ". RBCs Show mild to moderate anisopoikilocytosis and hypochromia.Seen are microcytes admixed with normocytes.Also seen are elliptocytes and tear drop cells. WBCs are normal in number,distribution and few reactive lymphocytes noted. PLATELET are adequate NO ABNORMAL CELLS SEEN . IMPRESSION MICROCYTIC HYPOCHROMIC ANEMIA NOTE BETA THAL TRAIT POSITIVE",
+  "admission_date": null,
+  "n_reports": 3,
+  "n_labs": 17,
+  "n_urine_fields": 10
+}

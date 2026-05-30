@@ -1,0 +1,146 @@
+{
+  "text_input": "Patient was apparently well 3 days back when she complains of shortness of breath , insidious in onset , gradually progressive over 3 days , initially only on exertion , now present even at rest and associated with PND (NYHA 2 to NYHA 4) Patient complains of cough with expectoration since 3 days , insidious in onset, gradually progressive , sputum whitish in colour, mucous in consistency , non foul smelling , non blood tinged  Patient complains of B/L lower limb swelling since 1 week , insidious in onset , gradually progressive initially was confined till ankle now progressed till knee , no pain , no tenderness associated .  No h/o fever , chest pain , syncope , burning micturition",
+  "demographics": {
+    "age": 75.0,
+    "gender": 0
+  },
+  "lab_features": {
+    "hemoglobin": 10.53,
+    "platelets": 332000,
+    "wbc": 8235.14,
+    "esr": 32.0,
+    "bilirubin_total": 1.0,
+    "albumin": 3.88,
+    "ferritin": 73.0,
+    "serum_iron": 29.0,
+    "creatinine": 1.55,
+    "urea": 64.95,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": null,
+    "tsat": 7.3,
+    "ef_percent": null,
+    "sodium": 145.78,
+    "potassium": 3.31,
+    "chloride": 101.0,
+    "sgot": 27.9,
+    "sgpt": 29.4,
+    "alp": 82.0,
+    "ggt": 25.0,
+    "crp": null,
+    "uric_acid": 8.3,
+    "pcv": 36.3,
+    "mcv": 90.5,
+    "rdw": 14.4,
+    "neutrophils_pct": 88.0,
+    "lymphocytes_pct": 8.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 0,
+    "serum_iron_missing": 0,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 0,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 1,
+    "cardiac_disease": 1,
+    "respiratory_disease": 1,
+    "renal_disease": 1,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 60.0,
+    "bp_systolic": 130.0,
+    "bp_diastolic": 80.0,
+    "pulse": 120.0,
+    "respiratory_rate": null,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 0,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 1,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 0
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 2,
+    "cardiac": 4,
+    "respiratory": 2,
+    "renal": 1,
+    "hepatic": 0,
+    "gi": 1,
+    "diabetes": 2
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 1,
+    "cardiac": 1,
+    "renal": 1,
+    "gi": 0,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 1,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "cardiac",
+  "external_features": {
+    "population_dm_prevalence": 0.2
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 2,
+    "specialist": 1
+  },
+  "_source_patient": "MAHADEVAMMA",
+  "_discharge_file": "discharge_87.json",
+  "_n_html_reports": 32,
+  "_admission_labs_used": 32,
+  "_source_type": "matched_pair",
+  "_filename": "MAHADEVAMMA_v3.json",
+  "_augmented": true,
+  "_aug_source": "MAHADEVAMMA_v3.json"
+}

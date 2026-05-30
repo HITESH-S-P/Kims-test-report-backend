@@ -1,0 +1,140 @@
+{
+  "patient_id": "KIMS_202604292232888",
+  "demographics": {
+    "age": 40,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202604292232888"
+  },
+  "lab_features": {
+    "sodium": 136.0,
+    "potassium": 3.7,
+    "chloride": 100.0,
+    "bilirubin_total": 0.6,
+    "direct_bilirubin": 0.3,
+    "sgot": 22.0,
+    "sgpt": 13.0,
+    "alp": 107.0,
+    "total_protein": 6.9,
+    "albumin": 4.1,
+    "ggt": 20.0,
+    "thyroid_t3": 125.0,
+    "thyroid_t4": 11.0,
+    "thyroid_tsh": 0.143,
+    "urea": 24.0,
+    "creatinine": 0.7,
+    "wbc": 13530.0,
+    "neutrophils_pct": 86.0,
+    "lymphocytes_pct": 11.0,
+    "esr": 28.0,
+    "platelets": 254000
+  },
+  "lab_printed_ranges": {
+    "sodium": [
+      136.0,
+      145.0
+    ],
+    "potassium": [
+      3.5,
+      5.1
+    ],
+    "chloride": [
+      98.0,
+      107.0
+    ],
+    "bilirubin_total": [
+      0.2,
+      1.1
+    ],
+    "sgot": [
+      5.0,
+      40.0
+    ],
+    "sgpt": [
+      5.0,
+      40.0
+    ],
+    "alp": [
+      105.0,
+      130.0
+    ],
+    "total_protein": [
+      6.4,
+      8.3
+    ],
+    "albumin": [
+      3.5,
+      5.2
+    ],
+    "thyroid_t3": [
+      80.0,
+      200.0
+    ],
+    "thyroid_t4": [
+      5.1,
+      14.1
+    ],
+    "thyroid_tsh": [
+      0.27,
+      4.2
+    ],
+    "urea": [
+      17.0,
+      48.0
+    ],
+    "creatinine": [
+      0.5,
+      0.9
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ]
+  },
+  "urine_features": {},
+  "lab_timeline": {},
+  "lab_date_used": {
+    "sodium": "unknown",
+    "potassium": "unknown",
+    "chloride": "unknown",
+    "bilirubin_total": "unknown",
+    "direct_bilirubin": "unknown",
+    "sgot": "unknown",
+    "sgpt": "unknown",
+    "alp": "unknown",
+    "total_protein": "unknown",
+    "albumin": "unknown",
+    "ggt": "unknown",
+    "thyroid_t3": "unknown",
+    "thyroid_t4": "unknown",
+    "thyroid_tsh": "unknown",
+    "urea": "unknown",
+    "creatinine": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "esr": "unknown",
+    "platelets": "unknown"
+  },
+  "peripheral_smear": null,
+  "admission_date": null,
+  "n_reports": 10,
+  "n_labs": 21,
+  "n_urine_fields": 0
+}

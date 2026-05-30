@@ -1,0 +1,163 @@
+{
+  "patient_id": "KIMS_202601122055609",
+  "demographics": {
+    "age": 63,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202601122055609"
+  },
+  "lab_features": {
+    "sodium": 130.0,
+    "potassium": 4.9,
+    "chloride": 102.0,
+    "hba1c": 5.6,
+    "bilirubin_total": 1.3,
+    "direct_bilirubin": 0.5,
+    "sgot": 56.0,
+    "sgpt": 20.0,
+    "alp": 164.0,
+    "total_protein": 7.3,
+    "albumin": 3.4,
+    "ggt": 25.0,
+    "hemoglobin": 14.2,
+    "wbc": 5280.0,
+    "neutrophils_pct": 62.0,
+    "lymphocytes_pct": 30.0,
+    "pcv": 44.1,
+    "mcv": 84.8,
+    "mch": 27.3,
+    "mchc": 32.2,
+    "rdw": 13.4,
+    "platelets": 265000,
+    "esr": 18.0
+  },
+  "lab_printed_ranges": {
+    "sodium": [
+      136.0,
+      145.0
+    ],
+    "potassium": [
+      3.5,
+      5.1
+    ],
+    "chloride": [
+      98.0,
+      107.0
+    ],
+    "hba1c": [
+      4.8,
+      5.6
+    ],
+    "bilirubin_total": [
+      0.2,
+      1.1
+    ],
+    "sgot": [
+      5.0,
+      40.0
+    ],
+    "sgpt": [
+      5.0,
+      40.0
+    ],
+    "alp": [
+      105.0,
+      130.0
+    ],
+    "total_protein": [
+      6.4,
+      8.3
+    ],
+    "albumin": [
+      3.5,
+      5.2
+    ],
+    "hemoglobin": [
+      11.5,
+      16.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "pcv": [
+      35.0,
+      50.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.025,
+    "urine_ph": 5.5,
+    "urine_protein": 0,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "sodium": "unknown",
+    "potassium": "unknown",
+    "chloride": "unknown",
+    "hba1c": "unknown",
+    "bilirubin_total": "unknown",
+    "direct_bilirubin": "unknown",
+    "sgot": "unknown",
+    "sgpt": "unknown",
+    "alp": "unknown",
+    "total_protein": "unknown",
+    "albumin": "unknown",
+    "ggt": "unknown",
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "esr": "unknown"
+  },
+  "peripheral_smear": ". RBCs Normocytic normochromic WBCs Normal in number, distribution and morphology. PLATELET Adequate. NO ABNORMAL CELLS SEEN . IMPRESSION NORMOCYTIC  NORMOCHROMIC  BLOOD  PICTURE.",
+  "admission_date": null,
+  "n_reports": 6,
+  "n_labs": 23,
+  "n_urine_fields": 10
+}

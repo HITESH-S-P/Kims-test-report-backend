@@ -1,0 +1,28 @@
+{
+  "patient_id": "KIMS_202501041060609",
+  "demographics": {
+    "age": 26,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202501041060609"
+  },
+  "lab_features": {
+    "ferritin": 59.5
+  },
+  "lab_printed_ranges": {
+    "ferritin": [
+      10.0,
+      291.0
+    ]
+  },
+  "urine_features": {},
+  "lab_timeline": {},
+  "lab_date_used": {
+    "ferritin": "unknown"
+  },
+  "peripheral_smear": null,
+  "admission_date": null,
+  "n_reports": 3,
+  "n_labs": 1,
+  "n_urine_fields": 0
+}

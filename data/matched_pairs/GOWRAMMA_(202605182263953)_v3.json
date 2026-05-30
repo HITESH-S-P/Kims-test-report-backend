@@ -1,0 +1,142 @@
+{
+  "text_input": "Patient was apparently well 1 days ago when she developed giddiness, spinning sensation, no postural variation,no aggravating or relieving factors .\nNo ℅ ear pain , discharge,ringing sensation in the ear \nNo ℅ headache , neck stiffness \nNo ℅ chest pain , breathlessness, orthopnea ,PND \nNo ℅ decreased appetite, weight loss\nNo ℅ similar complaints in past \nNo h/o LOC , trauma in the head .",
+  "demographics": {
+    "age": 48.0,
+    "gender": 0
+  },
+  "lab_features": {
+    "hemoglobin": null,
+    "platelets": null,
+    "wbc": null,
+    "esr": null,
+    "bilirubin_total": null,
+    "albumin": null,
+    "ferritin": null,
+    "serum_iron": null,
+    "creatinine": 0.5,
+    "urea": 10.0,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": 11.5,
+    "tsat": null,
+    "ef_percent": null,
+    "sodium": 134.0,
+    "potassium": 3.8,
+    "chloride": 97.0,
+    "sgot": null,
+    "sgpt": null,
+    "alp": null,
+    "ggt": null,
+    "crp": null,
+    "uric_acid": 1.9,
+    "pcv": null,
+    "mcv": null,
+    "rdw": null,
+    "neutrophils_pct": null,
+    "lymphocytes_pct": null
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 1,
+    "platelets_missing": 1,
+    "wbc_missing": 1,
+    "esr_missing": 1,
+    "bilirubin_total_missing": 1,
+    "albumin_missing": 1,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 0,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 1,
+    "sgpt_missing": 1,
+    "alp_missing": 1,
+    "ggt_missing": 1,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 1,
+    "mcv_missing": 1,
+    "rdw_missing": 1,
+    "neutrophils_pct_missing": 1,
+    "lymphocytes_pct_missing": 1
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 1,
+    "cardiac_disease": 0,
+    "respiratory_disease": 1,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 1
+  },
+  "vitals": {
+    "spo2": 96.0,
+    "bp_systolic": 140.0,
+    "bp_diastolic": 90.0,
+    "pulse": 95.0,
+    "respiratory_rate": null,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 1,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 1,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 0,
+    "anemia": 0,
+    "cardiac": 0,
+    "respiratory": 0,
+    "renal": 0,
+    "hepatic": 0,
+    "gi": 1,
+    "diabetes": 4
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 0,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 0,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "diabetes",
+  "external_features": {
+    "population_dm_prevalence": 0.25
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 3,
+    "specialist": 7
+  },
+  "_source_patient": "GOWRAMMA (202605182263953)",
+  "_discharge_file": "KIMS_202605182263953.json",
+  "_n_html_reports": 6,
+  "_admission_labs_used": 6
+}

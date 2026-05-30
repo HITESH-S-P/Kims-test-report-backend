@@ -1,0 +1,144 @@
+{
+  "text_input": "Patient was apparently normal five months back when she developed easy fatigability for five months. Sudden in onset, progressive in nature. Progressed from initially developing during one flight of stairs to walking hundred metre distance aggravated on exertion and relieved on rest. ℅ b/l lower limb swelling for one week sudden in onset, progressed from dorsum of foot initially to 10 cm above ankle currently. No ℅ breathlessness, chest pain , palpitation, tingling and numbness sensation.\nPatient has no ℅ reduced urine output, abdominal distension, abdominal pain, vomiting.\nNo ℅ melena, haematemesis, hemoptysis or any bleeding manifestation.",
+  "demographics": {
+    "age": 48.0,
+    "gender": 0
+  },
+  "lab_features": {
+    "hemoglobin": 4.5,
+    "platelets": 389000,
+    "wbc": 4730.0,
+    "esr": 13.0,
+    "bilirubin_total": 0.3,
+    "albumin": 3.8,
+    "ferritin": 3.77,
+    "serum_iron": 6.95,
+    "creatinine": 0.5,
+    "urea": 12.0,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": null,
+    "tsat": null,
+    "ef_percent": null,
+    "sodium": 134.0,
+    "potassium": 4.2,
+    "chloride": 102.0,
+    "sgot": 18.0,
+    "sgpt": 9.0,
+    "alp": 48.0,
+    "ggt": 10.0,
+    "crp": null,
+    "uric_acid": 2.1,
+    "pcv": 26.6,
+    "mcv": 59.5,
+    "rdw": 22.8,
+    "neutrophils_pct": 66.0,
+    "lymphocytes_pct": 30.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 0,
+    "serum_iron_missing": 0,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 1,
+    "cardiac_disease": 0,
+    "respiratory_disease": 1,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 96.0,
+    "bp_systolic": 130.0,
+    "bp_diastolic": 70.0,
+    "pulse": 110.0,
+    "respiratory_rate": null,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 1,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 0,
+    "anemia": 7,
+    "cardiac": 0,
+    "respiratory": 2,
+    "renal": 2,
+    "hepatic": 0,
+    "gi": 2,
+    "diabetes": 2
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 1,
+    "cardiac": 0,
+    "renal": 1,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "anemia",
+  "external_features": {
+    "population_dm_prevalence": 0.1
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 3,
+    "specialist": 6
+  },
+  "_source_patient": "Uma D",
+  "_discharge_file": "KIMS_202604182217192.json",
+  "_n_html_reports": 14,
+  "_admission_labs_used": 14,
+  "_source_type": "matched_pair",
+  "_filename": "Uma_D_v3.json"
+}

@@ -1,0 +1,144 @@
+{
+  "text_input": "Patient was apparently normal until yesterday night following which he developed decreased responsiveness and generalized weakness which was sudden in onset. He was taken to outside hospital where sugars were recorded as 49 \\text{ mg/dL}. 25\\% \\text{ D} correction was given.\nHe was brought to KIMS emergency medicine OPD today morning for further management",
+  "demographics": {
+    "age": 62.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 10.2,
+    "platelets": 215000,
+    "wbc": 8860.0,
+    "esr": 106.0,
+    "bilirubin_total": 0.3,
+    "albumin": 3.3,
+    "ferritin": null,
+    "serum_iron": null,
+    "creatinine": 0.7,
+    "urea": 22.0,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": null,
+    "tsat": null,
+    "ef_percent": null,
+    "sodium": 130.0,
+    "potassium": 4.0,
+    "chloride": 96.0,
+    "sgot": 34.0,
+    "sgpt": 22.0,
+    "alp": 353.0,
+    "ggt": 89.0,
+    "crp": null,
+    "uric_acid": 3.4,
+    "pcv": 30.1,
+    "mcv": 80.9,
+    "rdw": 14.7,
+    "neutrophils_pct": 70.2,
+    "lymphocytes_pct": 22.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 0,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 98.0,
+    "bp_systolic": 110.0,
+    "bp_diastolic": 70.0,
+    "pulse": 63.0,
+    "respiratory_rate": 18.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 1,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 1,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 0,
+    "anemia": 2,
+    "cardiac": 0,
+    "respiratory": 0,
+    "renal": 0,
+    "hepatic": 0,
+    "gi": 1,
+    "diabetes": 2
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 0,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 1,
+    "multi_organ": 0,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "anemia",
+  "external_features": {
+    "population_dm_prevalence": 0.1
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 2,
+    "specialist": 6
+  },
+  "_source_patient": "Krishna S",
+  "_discharge_file": "KIMS_202605152258231.json",
+  "_n_html_reports": 5,
+  "_admission_labs_used": 5,
+  "_source_type": "matched_pair",
+  "_filename": "Krishna_S_v3.json"
+}

@@ -1,0 +1,146 @@
+{
+  "text_input": "Patient was apparently in his normal state of health till 1 year back when he began to feel a sense of generalised weakness and fatigue as well as multiple joint pains. He had consulted a local ayurvedic doctor who had prescribed Diclofenac and Dexamethasone for the same. Following this he consulted at Narayana Hrudayalaya for similar symptoms for which he was diagnosed with iatrogenic Cushing’s syndrome and was prescribed Tab HISONE 5mg 1-0-½ for 2weeks  and later prescribed Tab.OMNACORTIL 10mg 1-0-0 at Vedanta Hospital and patient had not taken medication.",
+  "demographics": {
+    "age": 55.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 12.17,
+    "platelets": 285000,
+    "wbc": 20094.82,
+    "esr": 10.0,
+    "bilirubin_total": 0.4,
+    "albumin": 3.09,
+    "ferritin": null,
+    "serum_iron": null,
+    "creatinine": 0.59,
+    "urea": 25.12,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": 8.9,
+    "tsat": null,
+    "ef_percent": null,
+    "sodium": 143.73,
+    "potassium": 4.01,
+    "chloride": 104.0,
+    "sgot": 25.95,
+    "sgpt": 26.52,
+    "alp": 53.0,
+    "ggt": 41.0,
+    "crp": null,
+    "uric_acid": 7.3,
+    "pcv": 39.2,
+    "mcv": 85.6,
+    "rdw": 17.1,
+    "neutrophils_pct": 78.0,
+    "lymphocytes_pct": 10.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 0,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 1,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 97.0,
+    "bp_systolic": 130.0,
+    "bp_diastolic": 80.0,
+    "pulse": 95.0,
+    "respiratory_rate": null,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 1,
+    "antibiotics": 0,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 1,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 3,
+    "anemia": 0,
+    "cardiac": 0,
+    "respiratory": 0,
+    "renal": 0,
+    "hepatic": 0,
+    "gi": 1,
+    "diabetes": 5
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 0,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 0,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "diabetes",
+  "external_features": {
+    "population_dm_prevalence": 0.25
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 2,
+    "specialist": 7
+  },
+  "_source_patient": "YELLAPPA HARIJAN",
+  "_discharge_file": "discharge_184.json",
+  "_n_html_reports": 10,
+  "_admission_labs_used": 10,
+  "_source_type": "matched_pair",
+  "_filename": "YELLAPPA_HARIJAN_v3.json",
+  "_augmented": true,
+  "_aug_source": "YELLAPPA_HARIJAN_v3.json"
+}

@@ -1,0 +1,105 @@
+{
+  "patient_id": "KIMS_202603302183964",
+  "demographics": {
+    "age": 5,
+    "gender": 1,
+    "patient_type": null,
+    "uhid": "202603302183964"
+  },
+  "lab_features": {
+    "hemoglobin": 9.5,
+    "wbc": 12100.0,
+    "neutrophils_pct": 47.0,
+    "lymphocytes_pct": 45.0,
+    "pcv": 29.9,
+    "mcv": 72.2,
+    "mch": 22.9,
+    "mchc": 31.8,
+    "rdw": 17.0,
+    "platelets": 179000,
+    "esr": 39.0
+  },
+  "lab_printed_ranges": {
+    "hemoglobin": [
+      11.0,
+      15.0
+    ],
+    "wbc": [
+      5000.0,
+      15000.0
+    ],
+    "neutrophils_pct": [
+      35.0,
+      55.0
+    ],
+    "lymphocytes_pct": [
+      45.0,
+      60.0
+    ],
+    "pcv": [
+      35.0,
+      45.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "esr": [
+      0.0,
+      15.0
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.025,
+    "urine_ph": 6.0,
+    "urine_protein": 1,
+    "urine_glucose": 0,
+    "urine_ketones": 1,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0,
+    "urine_pus_cells": 1.0,
+    "urine_epithelial_cells": 1.0,
+    "urine_rbc": 1.0,
+    "urine_casts": 0,
+    "urine_crystals": 0,
+    "urine_bacteria": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "esr": "unknown"
+  },
+  "peripheral_smear": ". RBCs are normocytic normochromic with few microcytes. WBCs Normal in number, distribution and morphology. PLATELET Adequate. NO ABNORMAL CELLS SEEN . IMPRESSION MICROCYTIC HYPOCHROMIC ANEMIA",
+  "admission_date": null,
+  "n_reports": 1,
+  "n_labs": 11,
+  "n_urine_fields": 16
+}

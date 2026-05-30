@@ -1,0 +1,124 @@
+{
+  "patient_id": "KIMS_202605122254306",
+  "demographics": {
+    "age": null,
+    "gender": null,
+    "patient_type": null,
+    "uhid": null
+  },
+  "lab_features": {
+    "albumin": 3.1,
+    "sodium": 141.0,
+    "potassium": 3.8,
+    "chloride": 106.0,
+    "urea": 21.0,
+    "creatinine": 0.5,
+    "uric_acid": 4.6,
+    "hemoglobin": 16.2,
+    "wbc": 9920.0,
+    "neutrophils_pct": 72.0,
+    "lymphocytes_pct": 22.0,
+    "pcv": 47.1,
+    "mcv": 97.5,
+    "mch": 33.5,
+    "mchc": 34.4,
+    "rdw": 16.2,
+    "platelets": 204000
+  },
+  "lab_printed_ranges": {
+    "albumin": [
+      3.5,
+      5.2
+    ],
+    "sodium": [
+      136.0,
+      145.0
+    ],
+    "potassium": [
+      3.5,
+      5.1
+    ],
+    "chloride": [
+      98.0,
+      107.0
+    ],
+    "urea": [
+      17.0,
+      48.0
+    ],
+    "creatinine": [
+      0.7,
+      1.2
+    ],
+    "uric_acid": [
+      3.6,
+      7.0
+    ],
+    "hemoglobin": [
+      13.0,
+      18.0
+    ],
+    "wbc": [
+      9000.0,
+      30000.0
+    ],
+    "neutrophils_pct": [
+      50.0,
+      70.0
+    ],
+    "lymphocytes_pct": [
+      30.0,
+      45.0
+    ],
+    "pcv": [
+      51.0,
+      62.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ]
+  },
+  "urine_features": {},
+  "lab_timeline": {},
+  "lab_date_used": {
+    "albumin": "unknown",
+    "sodium": "unknown",
+    "potassium": "unknown",
+    "chloride": "unknown",
+    "urea": "unknown",
+    "creatinine": "unknown",
+    "uric_acid": "unknown",
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown"
+  },
+  "peripheral_smear": ". RBCs Normocytic normochromic WBCs Normal in number, distribution and morphology. PLATELET Adequate. NO ABNORMAL CELLS SEEN . IMPRESSION NORMOCYTIC  NORMOCHROMIC  BLOOD  PICTURE.",
+  "admission_date": null,
+  "n_reports": 6,
+  "n_labs": 17,
+  "n_urine_fields": 0
+}

@@ -1,0 +1,156 @@
+{
+  "patient_id": "KIMS_202605142256996",
+  "demographics": {
+    "age": 65,
+    "gender": 1,
+    "patient_type": null,
+    "uhid": "202605142256996"
+  },
+  "lab_features": {
+    "hemoglobin": 13.1,
+    "wbc": 9160.0,
+    "neutrophils_pct": 63.8,
+    "lymphocytes_pct": 28.1,
+    "pcv": 36.3,
+    "mcv": 83.4,
+    "mch": 30.1,
+    "mchc": 36.1,
+    "rdw": 13.0,
+    "platelets": 146000,
+    "esr": 49.0,
+    "hba1c": 8.7,
+    "bilirubin_total": 0.5,
+    "direct_bilirubin": 0.1,
+    "sgot": 29.0,
+    "sgpt": 26.0,
+    "alp": 94.0,
+    "total_protein": 5.8,
+    "albumin": 2.9,
+    "ggt": 49.0,
+    "urea": 21.0,
+    "creatinine": 0.9,
+    "uric_acid": 4.2
+  },
+  "lab_printed_ranges": {
+    "hemoglobin": [
+      13.0,
+      18.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "pcv": [
+      40.0,
+      55.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "esr": [
+      0.0,
+      15.0
+    ],
+    "hba1c": [
+      4.8,
+      5.6
+    ],
+    "bilirubin_total": [
+      0.2,
+      1.1
+    ],
+    "direct_bilirubin": [
+      0.0,
+      0.2
+    ],
+    "sgot": [
+      5.0,
+      40.0
+    ],
+    "sgpt": [
+      5.0,
+      40.0
+    ],
+    "alp": [
+      105.0,
+      130.0
+    ],
+    "total_protein": [
+      6.4,
+      8.3
+    ],
+    "albumin": [
+      3.5,
+      5.2
+    ],
+    "urea": [
+      17.0,
+      48.0
+    ],
+    "creatinine": [
+      0.7,
+      1.2
+    ],
+    "uric_acid": [
+      3.6,
+      7.0
+    ]
+  },
+  "urine_features": {},
+  "lab_timeline": {},
+  "lab_date_used": {
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "esr": "unknown",
+    "hba1c": "unknown",
+    "bilirubin_total": "unknown",
+    "direct_bilirubin": "unknown",
+    "sgot": "unknown",
+    "sgpt": "unknown",
+    "alp": "unknown",
+    "total_protein": "unknown",
+    "albumin": "unknown",
+    "ggt": "unknown",
+    "urea": "unknown",
+    "creatinine": "unknown",
+    "uric_acid": "unknown"
+  },
+  "peripheral_smear": ". RBCs Normocytic normochromic WBCs are normal in number,distribution and morphology PLATELET are reduced NO ABNORMAL CELLS SEEN . IMPRESSION NORMOCYTIC  NORMOCHROMIC  BLOOD  PICTURE   WITH  THROMBOCYTOPENIA",
+  "admission_date": null,
+  "n_reports": 4,
+  "n_labs": 23,
+  "n_urine_fields": 0
+}

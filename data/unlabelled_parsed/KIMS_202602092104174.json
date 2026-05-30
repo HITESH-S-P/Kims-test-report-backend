@@ -1,0 +1,117 @@
+{
+  "patient_id": "KIMS_202602092104174",
+  "demographics": {
+    "age": 19,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202602092104174"
+  },
+  "lab_features": {
+    "thyroid_t3": 103.0,
+    "thyroid_t4": 6.55,
+    "thyroid_tsh": 1.83,
+    "hemoglobin": 10.9,
+    "wbc": 10890.0,
+    "neutrophils_pct": 75.0,
+    "lymphocytes_pct": 20.0,
+    "pcv": 37.8,
+    "mcv": 78.8,
+    "mch": 22.7,
+    "mchc": 28.8,
+    "rdw": 15.9,
+    "platelets": 302000,
+    "esr": 18.0
+  },
+  "lab_printed_ranges": {
+    "thyroid_t3": [
+      80.0,
+      200.0
+    ],
+    "thyroid_t4": [
+      5.1,
+      14.1
+    ],
+    "thyroid_tsh": [
+      0.27,
+      4.2
+    ],
+    "hemoglobin": [
+      11.5,
+      16.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "pcv": [
+      35.0,
+      50.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.03,
+    "urine_ph": 5.0,
+    "urine_protein": 0,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "thyroid_t3": "unknown",
+    "thyroid_t4": "unknown",
+    "thyroid_tsh": "unknown",
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "esr": "unknown"
+  },
+  "peripheral_smear": ". RBCs Show mild anisopoikilocytosis.Seen are predominantly normocytes admixed with few microcytes.Also seen are few elliptocytes. WBCs are normal  in number with absolute increase in neutrophils  and  normal in morphology. PLATELET are adequate. NO ABNORMAL CELLS SEEN . IMPRESSION NORMOCYTIC NORMOCHROMIC ANEMIA WITH NEUTROPHILIA",
+  "admission_date": null,
+  "n_reports": 3,
+  "n_labs": 14,
+  "n_urine_fields": 10
+}

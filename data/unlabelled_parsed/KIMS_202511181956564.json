@@ -1,0 +1,117 @@
+{
+  "patient_id": "KIMS_202511181956564",
+  "demographics": {
+    "age": 31,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202511181956564"
+  },
+  "lab_features": {
+    "hemoglobin": 12.0,
+    "wbc": 12200.0,
+    "neutrophils_pct": 76.0,
+    "lymphocytes_pct": 20.0,
+    "pcv": 37.3,
+    "mcv": 81.6,
+    "mch": 26.3,
+    "mchc": 32.2,
+    "rdw": 13.7,
+    "platelets": 434000,
+    "esr": 49.0,
+    "thyroid_t3": 103.0,
+    "thyroid_t4": 7.58,
+    "thyroid_tsh": 1.01
+  },
+  "lab_printed_ranges": {
+    "hemoglobin": [
+      11.5,
+      16.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "pcv": [
+      35.0,
+      50.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ],
+    "thyroid_t3": [
+      80.0,
+      200.0
+    ],
+    "thyroid_t4": [
+      5.1,
+      14.1
+    ],
+    "thyroid_tsh": [
+      0.27,
+      4.2
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.015,
+    "urine_ph": 6.0,
+    "urine_protein": 0,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "esr": "unknown",
+    "thyroid_t3": "unknown",
+    "thyroid_t4": "unknown",
+    "thyroid_tsh": "unknown"
+  },
+  "peripheral_smear": ". RBCs Normocytic normochromic WBCs are increased in number with absolute increase in neutrophils . Few neutrophils show toxic granules. PLATELET are adequate NO ABNORMAL CELLS SEEN . IMPRESSION NORMOCYTIC  NORMOCHROMIC  BLOOD PICTURE   WITH  NEUTROPHILIC   LEUCOCYTOSIS.",
+  "admission_date": null,
+  "n_reports": 7,
+  "n_labs": 14,
+  "n_urine_fields": 10
+}

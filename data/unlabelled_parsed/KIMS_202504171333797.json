@@ -1,0 +1,35 @@
+{
+  "patient_id": "KIMS_202504171333797",
+  "demographics": {
+    "age": 33,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202504171333797"
+  },
+  "lab_features": {},
+  "lab_printed_ranges": {},
+  "urine_features": {
+    "urine_specific_gravity": 1.005,
+    "urine_ph": 6.0,
+    "urine_protein": 0,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0,
+    "urine_pus_cells": 1.0,
+    "urine_epithelial_cells": 1.0,
+    "urine_casts": 0,
+    "urine_crystals": 0,
+    "urine_bacteria": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {},
+  "peripheral_smear": null,
+  "admission_date": null,
+  "n_reports": 0,
+  "n_labs": 0,
+  "n_urine_fields": 15
+}

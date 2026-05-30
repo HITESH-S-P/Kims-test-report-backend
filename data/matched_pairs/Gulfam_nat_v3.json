@@ -1,0 +1,142 @@
+{
+  "text_input": "Patient was apparently normal 3 days back when he developed abdominal pain for 3 days, sudden in onset, progressive in nature, dull aching type, in epigastric region, on & off.\nC/o nausea for 3 days, sudden in onset, progressive in nature with no associated vomiting, abdominal pain.\nC/o difficulty in passing stools for 3 days, sudden in onset, progressive in nature.\nNo c/o difficulty in passing urine / burning micturition.\nNo c/o chest pain, melena, hematemesis, urine output, passing blood in stools.",
+  "demographics": {
+    "age": 35.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 9.2,
+    "platelets": 297000,
+    "wbc": 11260.0,
+    "esr": 17.0,
+    "bilirubin_total": 3.2,
+    "albumin": 4.4,
+    "ferritin": 442.0,
+    "serum_iron": 40.0,
+    "creatinine": 0.7,
+    "urea": 21.0,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": null,
+    "tsat": 19.0,
+    "ef_percent": null,
+    "sodium": 133.0,
+    "potassium": 4.5,
+    "chloride": 100.0,
+    "sgot": 22.0,
+    "sgpt": 16.0,
+    "alp": 74.0,
+    "ggt": 25.0,
+    "crp": null,
+    "uric_acid": 3.4,
+    "pcv": 31.9,
+    "mcv": 59.2,
+    "rdw": 26.2,
+    "neutrophils_pct": 74.0,
+    "lymphocytes_pct": 18.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 0,
+    "serum_iron_missing": 0,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 0,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 1,
+    "cardiac_disease": 1,
+    "respiratory_disease": 0,
+    "renal_disease": 0,
+    "hepatic_disease": 1,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 98.0,
+    "bp_systolic": 120.0,
+    "bp_diastolic": 70.0,
+    "pulse": 90.0,
+    "respiratory_rate": null,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 1,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 1,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 0,
+    "anemia": 4,
+    "cardiac": 1,
+    "respiratory": 0,
+    "renal": 0,
+    "hepatic": 4,
+    "gi": 4,
+    "diabetes": 0
+  },
+  "organ_involvement": {
+    "hepatic": 1,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "anemia",
+  "external_features": {
+    "population_dm_prevalence": 0.1
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 2,
+    "specialist": 6
+  },
+  "_source_patient": "Gulfam nat",
+  "_discharge_file": "KIMS_202604042193753.json",
+  "_n_html_reports": 19,
+  "_admission_labs_used": 19
+}

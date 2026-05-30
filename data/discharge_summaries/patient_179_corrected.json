@@ -1,0 +1,109 @@
+{
+  "text_input": "Patient presented with breathlessness for 5 days, MMRC Grade 3-4, progressing to Grade 5 at rest. Associated with cough and expectoration (scanty, whitish). Known case of COPD on inhalation and home nebulization. Examination revealed SpO2 86% on room air, BP 140/100 mmHg, and bilateral rhonchi. Diagnosed with acute exacerbation of COPD with Type-2 respiratory failure, pancytopenia, and right inguinal hernia.",
+  "demographics": {
+    "age": 73.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 8.7,
+    "platelets": 20000.0,
+    "wbc": 4020.0,
+    "esr": 15.0,
+    "bilirubin_total": 0.3,
+    "albumin": 3.6,
+    "ferritin": 279.0,
+    "serum_iron": 39.4,
+    "creatinine": 0.7,
+    "urea": 24.0,
+    "grbs": 90.0,
+    "bmi": 22.5,
+    "hba1c": 5.1,
+    "tsat": 20.0,
+    "ef_percent": 60.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 1,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 0,
+    "serum_iron_missing": 0,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 0,
+    "tsat_missing": 0,
+    "ef_percent_missing": 1
+  },
+  "comorbidities": {
+    "diabetes": 0,
+    "hypertension": 0,
+    "cardiac_disease": 0,
+    "respiratory_disease": 1,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 1,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 86.0,
+    "bp_systolic": 140.0,
+    "bp_diastolic": 100.0,
+    "pulse": 90.0,
+    "respiratory_rate": 21.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "alcohol": 0,
+    "smoking": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 0
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 1,
+    "gi": 1,
+    "diabetes": 0,
+    "respiratory": 1,
+    "cardiac": 0,
+    "renal": 0,
+    "hepatic": 0
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 1,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 1,
+    "urological": 1
+  },
+  "severity_features": {
+    "age_risk": 1,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "respiratory",
+  "external_features": {
+    "population_dm_prevalence": 0.232
+  },
+  "label_confidence": 0.95,
+  "targets": {
+    "risk_level": 4,
+    "specialist": 5
+  }
+}

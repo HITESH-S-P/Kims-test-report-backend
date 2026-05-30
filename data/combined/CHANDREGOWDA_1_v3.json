@@ -1,0 +1,144 @@
+{
+  "text_input": "Patient was apparently alright 3 days back. Then he started developing c/o fever, high grade, intermittent in nature, associated c/o chills c/o Generalized myalgia, insidious in onset & gradually progressing in nature associated with headache Patient also has complaints of loss of appetite since 3 days and as also complaints of burning micturtion insidious in onsett and gradually progressive not associated with dysuria patient also has complaints of nausea from one day aggravates on having food there is history of loose stools which is blood stained one episode 3 days back No history of chest pain and breathlessness and orthopnea and pnd  No history of abdominal pain dysuria and hematuria",
+  "demographics": {
+    "age": 59.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 13.0,
+    "platelets": 412000,
+    "wbc": 9100.0,
+    "esr": 27.0,
+    "bilirubin_total": 0.6,
+    "albumin": 3.4,
+    "ferritin": null,
+    "serum_iron": null,
+    "creatinine": 1.5,
+    "urea": 54.0,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": null,
+    "tsat": null,
+    "ef_percent": null,
+    "sodium": 137.0,
+    "potassium": 4.4,
+    "chloride": 102.0,
+    "sgot": 33.0,
+    "sgpt": 35.0,
+    "alp": 108.0,
+    "ggt": 34.0,
+    "crp": null,
+    "uric_acid": 6.8,
+    "pcv": 42.7,
+    "mcv": 92.6,
+    "rdw": 14.3,
+    "neutrophils_pct": 67.0,
+    "lymphocytes_pct": 22.7
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 0,
+    "hypertension": 0,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 96.0,
+    "bp_systolic": 90.0,
+    "bp_diastolic": 60.0,
+    "pulse": 76.0,
+    "respiratory_rate": 16.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 1,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 3,
+    "anemia": 0,
+    "cardiac": 0,
+    "respiratory": 0,
+    "renal": 1,
+    "hepatic": 0,
+    "gi": 1,
+    "diabetes": 0
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 1,
+    "gi": 0,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 0,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "infection",
+  "external_features": {
+    "population_dm_prevalence": 0.05
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 2,
+    "specialist": 10
+  },
+  "_source_patient": "CHANDREGOWDA_1",
+  "_discharge_file": "discharge_21.json",
+  "_n_html_reports": 9,
+  "_admission_labs_used": 9,
+  "_source_type": "matched_pair",
+  "_filename": "CHANDREGOWDA_1_v3.json"
+}

@@ -1,0 +1,142 @@
+{
+  "text_input": "Patient was in his usual state of health till 10 days back when he noticed abdominal distension, initially small and gradually progressed to the current size. There is no breathlessness on lying down. Patient also C/O B/L lower limb swelling since past 10 days. C/O reduced appetite × 3 days No C/O altered sleep pattern No C/O reduced urine output H/O fever 4 days back which lasted for 1 day No C/O itching",
+  "demographics": {
+    "age": 46.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 10.5,
+    "platelets": 88000,
+    "wbc": 5050.0,
+    "esr": 39.0,
+    "bilirubin_total": 4.6,
+    "albumin": 2.5,
+    "ferritin": null,
+    "serum_iron": null,
+    "creatinine": 1.0,
+    "urea": 15.0,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": null,
+    "tsat": null,
+    "ef_percent": null,
+    "sodium": 136.0,
+    "potassium": 3.6,
+    "chloride": 106.0,
+    "sgot": 82.0,
+    "sgpt": 38.0,
+    "alp": 74.0,
+    "ggt": 83.0,
+    "crp": null,
+    "uric_acid": 6.6,
+    "pcv": 31.5,
+    "mcv": 102.9,
+    "rdw": 15.5,
+    "neutrophils_pct": 68.0,
+    "lymphocytes_pct": 18.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 0,
+    "hypertension": 1,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 98.0,
+    "bp_systolic": 200.0,
+    "bp_diastolic": 140.0,
+    "pulse": 90.0,
+    "respiratory_rate": 15.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "smoking": 1,
+    "alcohol": 1,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 3,
+    "cardiac": 0,
+    "respiratory": 0,
+    "renal": 0,
+    "hepatic": 5,
+    "gi": 1,
+    "diabetes": 0
+  },
+  "organ_involvement": {
+    "hepatic": 1,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 0,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 0,
+    "hypoalbuminemia": 1
+  },
+  "primary_condition": "hepatic",
+  "external_features": {
+    "population_dm_prevalence": 0.08
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 2,
+    "specialist": 4
+  },
+  "_source_patient": "Chandrashekhar",
+  "_discharge_file": "discharge_19.json",
+  "_n_html_reports": 12,
+  "_admission_labs_used": 12
+}

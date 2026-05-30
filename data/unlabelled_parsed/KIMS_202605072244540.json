@@ -1,0 +1,183 @@
+{
+  "patient_id": "KIMS_202605072244540",
+  "demographics": {
+    "age": 49,
+    "gender": 1,
+    "patient_type": null,
+    "uhid": "202605072244540"
+  },
+  "lab_features": {
+    "hemoglobin": 12.8,
+    "wbc": 11060.0,
+    "neutrophils_pct": 57.3,
+    "lymphocytes_pct": 35.7,
+    "pcv": 41.4,
+    "mcv": 58.7,
+    "mch": 18.2,
+    "mchc": 30.9,
+    "rdw": 17.5,
+    "platelets": 221000,
+    "sodium": 146.0,
+    "potassium": 4.6,
+    "chloride": 102.0,
+    "grbs": 192.0,
+    "hba1c": 9.2,
+    "cholesterol_total": 183.0,
+    "triglycerides": 239.0,
+    "hdl": 38.0,
+    "ldl": 130.0,
+    "urea": 20.0,
+    "creatinine": 0.6,
+    "uric_acid": 3.2,
+    "thyroid_t3": 136.0,
+    "thyroid_t4": 8.35,
+    "thyroid_tsh": 2.99
+  },
+  "lab_printed_ranges": {
+    "hemoglobin": [
+      13.0,
+      18.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "pcv": [
+      40.0,
+      55.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "sodium": [
+      136.0,
+      145.0
+    ],
+    "potassium": [
+      3.5,
+      5.1
+    ],
+    "chloride": [
+      98.0,
+      107.0
+    ],
+    "grbs": [
+      70.0,
+      109.0
+    ],
+    "hba1c": [
+      4.8,
+      5.6
+    ],
+    "cholesterol_total": [
+      125.0,
+      200.0
+    ],
+    "triglycerides": [
+      50.0,
+      150.0
+    ],
+    "hdl": [
+      40.0,
+      60.0
+    ],
+    "ldl": [
+      70.0,
+      130.0
+    ],
+    "urea": [
+      17.0,
+      48.0
+    ],
+    "creatinine": [
+      0.7,
+      1.2
+    ],
+    "uric_acid": [
+      3.6,
+      7.0
+    ],
+    "thyroid_t3": [
+      80.0,
+      200.0
+    ],
+    "thyroid_t4": [
+      5.1,
+      14.1
+    ],
+    "thyroid_tsh": [
+      0.27,
+      4.2
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.005,
+    "urine_ph": 5.0,
+    "urine_protein": 0,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "sodium": "unknown",
+    "potassium": "unknown",
+    "chloride": "unknown",
+    "grbs": "unknown",
+    "hba1c": "unknown",
+    "cholesterol_total": "unknown",
+    "triglycerides": "unknown",
+    "hdl": "unknown",
+    "ldl": "unknown",
+    "urea": "unknown",
+    "creatinine": "unknown",
+    "uric_acid": "unknown",
+    "thyroid_t3": "unknown",
+    "thyroid_t4": "unknown",
+    "thyroid_tsh": "unknown"
+  },
+  "peripheral_smear": null,
+  "admission_date": null,
+  "n_reports": 7,
+  "n_labs": 25,
+  "n_urine_fields": 10
+}

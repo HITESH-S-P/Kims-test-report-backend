@@ -1,0 +1,90 @@
+{
+  "total": 2000,
+  "success": 1948,
+  "errors": 52,
+  "labs_total": 38038,
+  "urine_found": 1518,
+  "error_detail": [
+    {
+      "patient": "KIMS_20240904863633",
+      "error": "no parseable values in any report"
+    },
+    {
+      "patient": "KIMS_20241018934868",
+      "error": "no parseable values in any report"
+    },
+    {
+      "patient": "KIMS_20241116979780",
+      "error": "no parseable values in any report"
+    },
+    {
+      "patient": "KIMS_202412121021665",
+      "error": "no parseable values in any report"
+    },
+    {
+      "patient": "KIMS_202412191033960",
+      "error": "no parseable values in any report"
+    },
+    {
+      "patient": "KIMS_202501151078362",
+      "error": "no parseable values in any report"
+    },
+    {
+      "patient": "KIMS_202501281100047",
+      "error": "no parseable values in any report"
+    },
+    {
+      "patient": "KIMS_202501311107057",
+      "error": "no parseable values in any report"
+    },
+    {
+      "patient": "KIMS_202502131130293",
+      "error": "no parseable values in any report"
+    },
+    {
+      "patient": "KIMS_202502231158233",
+      "error": "no parseable values in any report"
+    },
+    {
+      "patient": "KIMS_202502251165092",
+      "error": "no parseable values in any report"
+    },
+    {
+      "patient": "KIMS_202504071300307",
+      "error": "no parseable values in any report"
+    },
+    {
+      "patient": "KIMS_202504091310277",
+      "error": "no parseable values in any report"
+    },
+    {
+      "patient": "KIMS_202504251356682",
+      "error": "no parseable values in any report"
+    },
+    {
+      "patient": "KIMS_202505151419111",
+      "error": "no parseable values in any report"
+    },
+    {
+      "patient": "KIMS_202506261556074",
+      "error": "no parseable values in any report"
+    },
+    {
+      "patient": "KIMS_202509171821648",
+      "error": "no parseable values in any report"
+    },
+    {
+      "patient": "KIMS_202510251905381",
+      "error": "no parseable values in any report"
+    },
+    {
+      "patient": "KIMS_202510281911369",
+      "error": "no parseable values in any report"
+    },
+    {
+      "patient": "KIMS_202510291915438",
+      "error": "no parseable values in any report"
+    }
+  ],
+  "avg_labs": 19.5
+}

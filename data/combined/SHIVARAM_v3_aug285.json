@@ -1,0 +1,146 @@
+{
+  "text_input": "Patient was apparently normal  1 week ago when he developed fever , insidious in onset ,  aggravated by day everytime , relieved on medication , patient also gives H/o headache 1 week , occipital region , radiating type , no aggravating or relieving factors , patient also gives H/o cough with expectoration since 1 week , white discolouration , aggravated more during evening  No h/o vomiting , loose stools , pain abdomen , dysuria .",
+  "demographics": {
+    "age": 49.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 12.25,
+    "platelets": 537000,
+    "wbc": 10584.51,
+    "esr": 6.0,
+    "bilirubin_total": 0.3,
+    "albumin": 4.48,
+    "ferritin": null,
+    "serum_iron": null,
+    "creatinine": 0.68,
+    "urea": 14.04,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": 5.8,
+    "tsat": null,
+    "ef_percent": null,
+    "sodium": 141.39,
+    "potassium": 4.15,
+    "chloride": 104.0,
+    "sgot": 17.57,
+    "sgpt": 19.7,
+    "alp": 55.0,
+    "ggt": 28.0,
+    "crp": null,
+    "uric_acid": 4.5,
+    "pcv": 39.5,
+    "mcv": 60.7,
+    "rdw": 18.6,
+    "neutrophils_pct": 67.0,
+    "lymphocytes_pct": 26.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 0,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 0,
+    "hypertension": 1,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 96.0,
+    "bp_systolic": 140.0,
+    "bp_diastolic": 90.0,
+    "pulse": 80.0,
+    "respiratory_rate": null,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 0,
+    "analgesics": 1,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 0,
+    "cardiac": 0,
+    "respiratory": 2,
+    "renal": 0,
+    "hepatic": 0,
+    "gi": 2,
+    "diabetes": 0
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 1,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "respiratory",
+  "external_features": {
+    "population_dm_prevalence": 0.12
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 2,
+    "specialist": 5
+  },
+  "_source_patient": "SHIVARAM",
+  "_discharge_file": "discharge_154.json",
+  "_n_html_reports": 8,
+  "_admission_labs_used": 8,
+  "_source_type": "matched_pair",
+  "_filename": "SHIVARAM_v3.json",
+  "_augmented": true,
+  "_aug_source": "SHIVARAM_v3.json"
+}

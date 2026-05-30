@@ -1,0 +1,142 @@
+{
+  "text_input": "Patient was apparently normal 6 days back when developed fever for 6 days intermittent in nature, 3 episodes per day with chills, no rigor, no night sweats. \nassociated with myalgia for 6 days, multiple joint pain, retroorbital pain for 6 days. c/o burning sensation of B/L foot for 2 days, insidious in onset progressive in nature.\nNo c/o throat pain, running nose \nNo c/o tingling sensation of hands & foot \n↑ urination, ↑ thirst, easy fatiguability.",
+  "demographics": {
+    "age": 56.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": null,
+    "platelets": 170000,
+    "wbc": null,
+    "esr": null,
+    "bilirubin_total": 0.3,
+    "albumin": 4.0,
+    "ferritin": null,
+    "serum_iron": null,
+    "creatinine": 0.7,
+    "urea": 22.0,
+    "grbs": 176.0,
+    "bmi": null,
+    "hba1c": 7.9,
+    "tsat": null,
+    "ef_percent": null,
+    "sodium": 136.0,
+    "potassium": 3.8,
+    "chloride": 99.0,
+    "sgot": 44.0,
+    "sgpt": 32.0,
+    "alp": 47.0,
+    "ggt": 74.0,
+    "crp": null,
+    "uric_acid": 4.2,
+    "pcv": 46.9,
+    "mcv": null,
+    "rdw": null,
+    "neutrophils_pct": null,
+    "lymphocytes_pct": null
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 1,
+    "platelets_missing": 0,
+    "wbc_missing": 1,
+    "esr_missing": 1,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 0,
+    "bmi_missing": 1,
+    "hba1c_missing": 0,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 1,
+    "rdw_missing": 1,
+    "neutrophils_pct_missing": 1,
+    "lymphocytes_pct_missing": 1
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 1,
+    "cardiac_disease": 0,
+    "respiratory_disease": 1,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 1
+  },
+  "vitals": {
+    "spo2": 98.0,
+    "bp_systolic": 130.0,
+    "bp_diastolic": 80.0,
+    "pulse": 100.0,
+    "respiratory_rate": null,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 1,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 1,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 6,
+    "anemia": 0,
+    "cardiac": 0,
+    "respiratory": 1,
+    "renal": 0,
+    "hepatic": 0,
+    "gi": 1,
+    "diabetes": 3
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 0,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 0,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "infection",
+  "external_features": {
+    "population_dm_prevalence": 0.05
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 3,
+    "specialist": 10
+  },
+  "_source_patient": "Swamy MS",
+  "_discharge_file": "KIMS_202605122252789.json",
+  "_n_html_reports": 13,
+  "_admission_labs_used": 13
+}

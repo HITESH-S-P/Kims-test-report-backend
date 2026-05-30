@@ -1,0 +1,129 @@
+{
+  "patient_id": "KIMS_202604162212380",
+  "demographics": {
+    "age": 4,
+    "gender": 1,
+    "patient_type": null,
+    "uhid": "202604162212380"
+  },
+  "lab_features": {
+    "hemoglobin": 10.7,
+    "wbc": 9040.0,
+    "neutrophils_pct": 35.0,
+    "lymphocytes_pct": 40.0,
+    "pcv": 31.4,
+    "mcv": 76.8,
+    "mch": 26.2,
+    "mchc": 34.1,
+    "rdw": 13.0,
+    "platelets": 159000,
+    "sodium": 130.0,
+    "potassium": 3.5,
+    "chloride": 96.0,
+    "urea": 23.0,
+    "creatinine": 0.3,
+    "esr": 45.0
+  },
+  "lab_printed_ranges": {
+    "hemoglobin": [
+      11.0,
+      15.0
+    ],
+    "wbc": [
+      5000.0,
+      15000.0
+    ],
+    "neutrophils_pct": [
+      35.0,
+      55.0
+    ],
+    "lymphocytes_pct": [
+      45.0,
+      60.0
+    ],
+    "pcv": [
+      35.0,
+      45.0
+    ],
+    "mcv": [
+      75.0,
+      85.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "sodium": [
+      136.0,
+      145.0
+    ],
+    "potassium": [
+      3.5,
+      5.1
+    ],
+    "chloride": [
+      98.0,
+      107.0
+    ],
+    "urea": [
+      17.0,
+      48.0
+    ],
+    "creatinine": [
+      0.7,
+      1.2
+    ],
+    "esr": [
+      0.0,
+      15.0
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.01,
+    "urine_ph": 6.0,
+    "urine_protein": 0,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "sodium": "unknown",
+    "potassium": "unknown",
+    "chloride": "unknown",
+    "urea": "unknown",
+    "creatinine": "unknown",
+    "esr": "unknown"
+  },
+  "peripheral_smear": ". RBCs Normocytic normochromic WBCs are decreased in number with normal distribution and reactive lymphocytes seen. PLATELET are reduced. IMPRESSION NORMOCYTIC  NORMOCHROMIC  BLOOD  PICTURE  WITH  LEUCOPENIA AND THROMBOCYTOPENIA. PARTIAL THROMBOPLASTIN TIME (APTT) CONTROL (Method-Automated(Mechanical Clot Detection)) 32.7 Sec 35-50 TEST 27.1 Sec 35-50 PROTHROMBIN TIME (PT) CONTROL (Automated(Mechanical Clot Detection)) 14.0 Sec TEST 10.8 Sec INR 0.73 Sec",
+  "admission_date": null,
+  "n_reports": 8,
+  "n_labs": 16,
+  "n_urine_fields": 10
+}

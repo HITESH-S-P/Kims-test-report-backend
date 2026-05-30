@@ -1,0 +1,94 @@
+{
+  "patient_id": "KIMS_202604152210134",
+  "demographics": {
+    "age": 20,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202604152210134"
+  },
+  "lab_features": {
+    "hemoglobin": 10.1,
+    "wbc": 4430.0,
+    "neutrophils_pct": 54.4,
+    "lymphocytes_pct": 35.2,
+    "pcv": 34.2,
+    "mcv": 67.1,
+    "mch": 19.8,
+    "mchc": 29.5,
+    "platelets": 288000,
+    "ferritin": 3.09,
+    "rdw": 22.4,
+    "esr": 7.0
+  },
+  "lab_printed_ranges": {
+    "hemoglobin": [
+      11.5,
+      16.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "pcv": [
+      35.0,
+      50.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "ferritin": [
+      10.0,
+      291.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ]
+  },
+  "urine_features": {},
+  "lab_timeline": {},
+  "lab_date_used": {
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "platelets": "unknown",
+    "ferritin": "unknown",
+    "rdw": "unknown",
+    "esr": "unknown"
+  },
+  "peripheral_smear": ". RBCs shows moderate anisocytosis and hypochromia.Seen are microcytes with normocytes.Also seen are few elliptocytes. WBCs are normal in number,distribution and morphology PLATELET are adequate IMPRESSION MICROCYTIC HYPOCHROMIC ANEMIA",
+  "admission_date": null,
+  "n_reports": 4,
+  "n_labs": 12,
+  "n_urine_fields": 0
+}

@@ -1,0 +1,139 @@
+{
+  "text_input": "Patient presented with a 1-month history of intermittent cough, exacerbated over the last 3 days with scanty expectoration and fever with chills. Diagnosed at a local clinic with a UTI and started on Nitrofurantoin. Reported 2 episodes of loose stools containing food particles, non-bloody and non-foul smelling, associated with nausea. Past medical history includes COPD, Non-Hodgkin's lymphoma (treated with 6 cycles of chemotherapy), and previous admissions for similar complaints. Physical examination revealed bilateral diffuse rhonchi. Investigations showed neutrophilic leucocytosis, thrombocytopenia, and normocytic normochromic anemia. 2D Echo showed borderline LV systolic function (EF 50-55%), LV diastolic dysfunction, and mild pulmonary hypertension. USG abdomen showed cholelithiasis and grade 1 prostatomegaly with significant post-void residue. Diagnosed with infection (UTI and cellulitis) and managed with IV antibiotics (Tufzone, Claribid, Camytaz, Linid) and supportive care.",
+  "demographics": {
+    "age": 70.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 9.5,
+    "platelets": 110000.0,
+    "wbc": 13500.0,
+    "esr": 25.0,
+    "bilirubin_total": 0.7,
+    "albumin": 3.6,
+    "ferritin": 150.0,
+    "serum_iron": 70.0,
+    "creatinine": 0.9,
+    "urea": 25.0,
+    "grbs": 90.0,
+    "bmi": 23.0,
+    "hba1c": 5.4,
+    "tsat": 22.0,
+    "ef_percent": 52.5,
+    "sodium": null,
+    "potassium": null,
+    "chloride": null,
+    "sgot": null,
+    "sgpt": null,
+    "alp": null,
+    "ggt": null,
+    "crp": null,
+    "uric_acid": null,
+    "pcv": null,
+    "mcv": null,
+    "rdw": null,
+    "neutrophils_pct": null,
+    "lymphocytes_pct": null
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 1,
+    "platelets_missing": 1,
+    "wbc_missing": 1,
+    "esr_missing": 1,
+    "bilirubin_total_missing": 1,
+    "albumin_missing": 1,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 1,
+    "urea_missing": 1,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 1,
+    "ef_percent_missing": 0,
+    "sodium_missing": 1,
+    "potassium_missing": 1,
+    "chloride_missing": 1,
+    "sgot_missing": 1,
+    "sgpt_missing": 1,
+    "alp_missing": 1,
+    "ggt_missing": 1,
+    "crp_missing": 1,
+    "uric_acid_missing": 1,
+    "pcv_missing": 1,
+    "mcv_missing": 1,
+    "rdw_missing": 1,
+    "neutrophils_pct_missing": 1,
+    "lymphocytes_pct_missing": 1
+  },
+  "comorbidities": {
+    "diabetes": 0,
+    "hypertension": 0,
+    "cardiac_disease": 1,
+    "respiratory_disease": 1,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 1,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 94.0,
+    "bp_systolic": 110.0,
+    "bp_diastolic": 70.0,
+    "pulse": 88.0,
+    "respiratory_rate": 16.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 1,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "alcohol": 0,
+    "smoking": 1,
+    "diet_vegetarian": 1,
+    "sleep_adequate": 0
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 1,
+    "ef_normal": 0,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 5,
+    "anemia": 3,
+    "gi": 2,
+    "diabetes": 0,
+    "respiratory": 3,
+    "cardiac": 2,
+    "renal": 0,
+    "hepatic": 0
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 1,
+    "cardiac": 1,
+    "renal": 0,
+    "gi": 1,
+    "urological": 1
+  },
+  "severity_features": {
+    "age_risk": 1,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "infection",
+  "external_features": {
+    "population_dm_prevalence": 0.282
+  },
+  "label_confidence": 0.85,
+  "targets": {
+    "risk_level": 2,
+    "specialist": 10
+  },
+  "_source_type": "discharge_summary",
+  "_filename": "patient_148_corrected.json"
+}

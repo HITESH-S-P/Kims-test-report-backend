@@ -1,0 +1,76 @@
+{
+  "patient_id": "KIMS_202603172167118",
+  "demographics": {
+    "age": 38,
+    "gender": 1,
+    "patient_type": null,
+    "uhid": "202603172167118"
+  },
+  "lab_features": {
+    "pcv": 40.8,
+    "platelets": 212000,
+    "sodium": 137.0,
+    "potassium": 4.0,
+    "chloride": 103.0,
+    "urea": 16.0,
+    "creatinine": 0.9,
+    "sgot": 26.0,
+    "sgpt": 35.0
+  },
+  "lab_printed_ranges": {
+    "pcv": [
+      40.0,
+      55.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "sodium": [
+      136.0,
+      145.0
+    ],
+    "potassium": [
+      3.5,
+      5.1
+    ],
+    "chloride": [
+      98.0,
+      107.0
+    ],
+    "urea": [
+      17.0,
+      48.0
+    ],
+    "creatinine": [
+      0.7,
+      1.2
+    ],
+    "sgot": [
+      5.0,
+      40.0
+    ],
+    "sgpt": [
+      5.0,
+      40.0
+    ]
+  },
+  "urine_features": {},
+  "lab_timeline": {},
+  "lab_date_used": {
+    "pcv": "unknown",
+    "platelets": "unknown",
+    "sodium": "unknown",
+    "potassium": "unknown",
+    "chloride": "unknown",
+    "urea": "unknown",
+    "creatinine": "unknown",
+    "sgot": "unknown",
+    "sgpt": "unknown"
+  },
+  "peripheral_smear": null,
+  "admission_date": null,
+  "n_reports": 10,
+  "n_labs": 9,
+  "n_urine_fields": 0
+}

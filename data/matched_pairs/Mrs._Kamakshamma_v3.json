@@ -1,0 +1,142 @@
+{
+  "text_input": "Patient was apparently normal 1 day ago when she developed fever, low grade associated with chills and rigor. Complaints of cough since one day, Not associated with Expectoration And not associated with Blood. History of loose stools 2 episodes since one day. Watery in consistency non foul smelling. History of headache since one day, Diffuse type, Not associated with blurring of vision. No history of chest pain, vomiting and breathlessness. No history of weakness of limbs altered sensorium, No history of burning micturition and pain abdomen.",
+  "demographics": {
+    "age": 55.0,
+    "gender": 0
+  },
+  "lab_features": {
+    "hemoglobin": 8.7,
+    "platelets": 143000,
+    "wbc": 3010.0,
+    "esr": 35.0,
+    "bilirubin_total": 0.3,
+    "albumin": 3.1,
+    "ferritin": 176.0,
+    "serum_iron": 18.4,
+    "creatinine": 0.6,
+    "urea": 15.0,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": 10.3,
+    "tsat": 9.0,
+    "ef_percent": null,
+    "sodium": 135.0,
+    "potassium": 3.6,
+    "chloride": 99.0,
+    "sgot": 42.0,
+    "sgpt": 32.0,
+    "alp": 176.0,
+    "ggt": 101.0,
+    "crp": null,
+    "uric_acid": 3.6,
+    "pcv": 29.5,
+    "mcv": 73.5,
+    "rdw": 15.7,
+    "neutrophils_pct": 24.0,
+    "lymphocytes_pct": 64.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 0,
+    "serum_iron_missing": 0,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 0,
+    "tsat_missing": 0,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 0,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 93.0,
+    "bp_systolic": 80.0,
+    "bp_diastolic": 50.0,
+    "pulse": 116.0,
+    "respiratory_rate": 28.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 1,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 1,
+    "smoking": 1,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 4,
+    "anemia": 6,
+    "cardiac": 0,
+    "respiratory": 2,
+    "renal": 0,
+    "hepatic": 0,
+    "gi": 2,
+    "diabetes": 4
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 1,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "anemia",
+  "external_features": {
+    "population_dm_prevalence": 0.1
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 3,
+    "specialist": 6
+  },
+  "_source_patient": "Mrs. Kamakshamma",
+  "_discharge_file": "discharge_66.json",
+  "_n_html_reports": 28,
+  "_admission_labs_used": 28
+}

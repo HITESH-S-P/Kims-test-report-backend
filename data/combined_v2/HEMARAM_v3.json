@@ -1,0 +1,144 @@
+{
+  "text_input": "Mr. Hemaram 54/M K/C/O CKD on MHD, CLD, was in his usual state of health 2 months back, then he developed abdominal pain, which was insidious in onset and gradually progressive, predominantly in right iliac fossa and right lumbar region, dull aching type, non radiating and partially relieved with medication.\nHe also c/o loose stools since 2 months, intermittent, non bloody, non mucoid, not associated with tenesmus, anorexia & easy fatigability.\n→ Since last 3 days he developed fever, moderate grade, intermittent, associated with worsening abdominal pain.\nThere is no history of vomiting, hematemesis, melena.\nNo c/o blurring of vision / giddiness / chest pain.",
+  "demographics": {
+    "age": 56.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 11.0,
+    "platelets": 205000,
+    "wbc": 7620.0,
+    "esr": 26.0,
+    "bilirubin_total": 0.6,
+    "albumin": 2.9,
+    "ferritin": 2000.0,
+    "serum_iron": 100.0,
+    "creatinine": 3.5,
+    "urea": 37.0,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": 5.1,
+    "tsat": 16.5,
+    "ef_percent": null,
+    "sodium": 141.0,
+    "potassium": 3.6,
+    "chloride": 106.0,
+    "sgot": 38.0,
+    "sgpt": 8.0,
+    "alp": 200.0,
+    "ggt": 147.0,
+    "crp": null,
+    "uric_acid": 4.9,
+    "pcv": 33.9,
+    "mcv": 76.7,
+    "rdw": 19.8,
+    "neutrophils_pct": 73.1,
+    "lymphocytes_pct": 20.7
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 0,
+    "serum_iron_missing": 0,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 0,
+    "tsat_missing": 0,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 0,
+    "hypertension": 1,
+    "cardiac_disease": 1,
+    "respiratory_disease": 1,
+    "renal_disease": 1,
+    "hepatic_disease": 1,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": null,
+    "bp_systolic": 120.0,
+    "bp_diastolic": 70.0,
+    "pulse": 82.0,
+    "respiratory_rate": null,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 1,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 1,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 3,
+    "anemia": 2,
+    "cardiac": 2,
+    "respiratory": 2,
+    "renal": 7,
+    "hepatic": 11,
+    "gi": 2,
+    "diabetes": 0
+  },
+  "organ_involvement": {
+    "hepatic": 1,
+    "respiratory": 1,
+    "cardiac": 1,
+    "renal": 1,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 1,
+    "hypoalbuminemia": 1
+  },
+  "primary_condition": "hepatic",
+  "external_features": {
+    "population_dm_prevalence": 0.08
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 3,
+    "specialist": 4
+  },
+  "_source_patient": "HEMARAM",
+  "_discharge_file": "KIMS_202604102204475.json",
+  "_n_html_reports": 43,
+  "_admission_labs_used": 43,
+  "_source_type": "matched_pair",
+  "_filename": "HEMARAM_v3.json"
+}

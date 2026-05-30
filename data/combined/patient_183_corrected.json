@@ -1,0 +1,139 @@
+{
+  "text_input": "Patient is a 63-year-old female presenting with a one-month history of fever with chills, diffuse abdominal pain, and burning micturition for 15 days. She has a significant past history of alcoholic hepatitis and septic shock three months prior. Physical examination revealed an emaciated build, SpO2 of 92% on room air, and bilateral crepitations in the lungs. Investigations showed normocytic normochromic anemia, elevated HbA1c (7.0%), low serum iron (20.3 mcg/dL), and high ferritin (427 ng/mL). USG abdomen indicated chronic liver parenchymal disease (CLPD) with moderate ascites and small bowel thickening. 2D Echo showed normal LV systolic function (EF 55%) with diastolic dysfunction. Ascitic fluid analysis showed a SAAG of 0.9 and albumin of 1.3 g/dL. She was empirically started on Anti-Tubercular Treatment (ATT) for suspected abdominal tuberculosis and received antibiotics (Taxim, Metronidazole, Doxycycline) and blood transfusion.",
+  "demographics": {
+    "age": 63.0,
+    "gender": 0
+  },
+  "lab_features": {
+    "hemoglobin": 10.5,
+    "platelets": 250000.0,
+    "wbc": 7500.0,
+    "esr": 45.0,
+    "bilirubin_total": 1.0,
+    "albumin": 2.2,
+    "ferritin": 427.0,
+    "serum_iron": 20.3,
+    "creatinine": 0.9,
+    "urea": 30.0,
+    "grbs": 145.0,
+    "bmi": 19.0,
+    "hba1c": 7.0,
+    "tsat": 29.0,
+    "ef_percent": 55.0,
+    "sodium": null,
+    "potassium": null,
+    "chloride": null,
+    "sgot": null,
+    "sgpt": null,
+    "alp": null,
+    "ggt": null,
+    "crp": null,
+    "uric_acid": null,
+    "pcv": null,
+    "mcv": null,
+    "rdw": null,
+    "neutrophils_pct": null,
+    "lymphocytes_pct": null
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 1,
+    "platelets_missing": 1,
+    "wbc_missing": 1,
+    "esr_missing": 1,
+    "bilirubin_total_missing": 1,
+    "albumin_missing": 1,
+    "ferritin_missing": 0,
+    "serum_iron_missing": 0,
+    "creatinine_missing": 1,
+    "urea_missing": 1,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 0,
+    "tsat_missing": 0,
+    "ef_percent_missing": 0,
+    "sodium_missing": 1,
+    "potassium_missing": 1,
+    "chloride_missing": 1,
+    "sgot_missing": 1,
+    "sgpt_missing": 1,
+    "alp_missing": 1,
+    "ggt_missing": 1,
+    "crp_missing": 1,
+    "uric_acid_missing": 1,
+    "pcv_missing": 1,
+    "mcv_missing": 1,
+    "rdw_missing": 1,
+    "neutrophils_pct_missing": 1,
+    "lymphocytes_pct_missing": 1
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 0,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 0,
+    "hepatic_disease": 1,
+    "urological_condition": 1,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 92.0,
+    "bp_systolic": 130.0,
+    "bp_diastolic": 80.0,
+    "pulse": 95.0,
+    "respiratory_rate": 20.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 1,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "alcohol": 1,
+    "smoking": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 1,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 5,
+    "anemia": 3,
+    "gi": 4,
+    "diabetes": 2,
+    "respiratory": 2,
+    "cardiac": 1,
+    "renal": 1,
+    "hepatic": 4
+  },
+  "organ_involvement": {
+    "hepatic": 1,
+    "respiratory": 1,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 1,
+    "urological": 1
+  },
+  "severity_features": {
+    "age_risk": 1,
+    "multi_organ": 1,
+    "hypoalbuminemia": 1
+  },
+  "primary_condition": "infection",
+  "external_features": {
+    "population_dm_prevalence": 0.173
+  },
+  "label_confidence": 0.9,
+  "targets": {
+    "risk_level": 3,
+    "specialist": 10
+  },
+  "_source_type": "discharge_summary",
+  "_filename": "patient_183_corrected.json"
+}

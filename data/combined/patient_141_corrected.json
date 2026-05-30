@@ -1,0 +1,139 @@
+{
+  "text_input": "Patient is a 58-year-old male with a history of chronic decompensated liver disease (CLD) for 4 years, type 2 diabetes mellitus, hypertension, and chronic kidney disease (CKD). He presented with a 3-day history of generalized weakness, fatigue, and increased daytime somnolence. Recent ascetic tapping was CBNAAT positive, leading to a diagnosis of abdominal tuberculosis, for which he is on anti-tubercular therapy (ATT). Physical examination revealed a distended abdomen with shifting dullness and flapping tremors, consistent with hepatic encephalopathy. Laboratory investigations showed anemia (Hb 8.6 g/dL), thrombocytopenia (Platelets 50,000/µL), and renal dysfunction (Creatinine 2.3 mg/dL, Urea 53 mg/dL). LFTs showed hypoalbuminemia (Albumin 2.7 g/dL). He was treated for hepatic encephalopathy and abdominal TB with antibiotics (Taxim, Rifagut), insulin, and diuretics. He showed clinical improvement and was discharged on ATT and supportive care.",
+  "demographics": {
+    "age": 58.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 8.6,
+    "platelets": 50000.0,
+    "wbc": 5310.0,
+    "esr": 15.0,
+    "bilirubin_total": 0.7,
+    "albumin": 2.7,
+    "ferritin": 150.0,
+    "serum_iron": 100.0,
+    "creatinine": 2.3,
+    "urea": 53.0,
+    "grbs": 160.0,
+    "bmi": 22.0,
+    "hba1c": 7.5,
+    "tsat": 22.0,
+    "ef_percent": 60.0,
+    "sodium": null,
+    "potassium": null,
+    "chloride": null,
+    "sgot": null,
+    "sgpt": null,
+    "alp": null,
+    "ggt": null,
+    "crp": null,
+    "uric_acid": null,
+    "pcv": null,
+    "mcv": null,
+    "rdw": null,
+    "neutrophils_pct": null,
+    "lymphocytes_pct": null
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 1,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 1,
+    "potassium_missing": 1,
+    "chloride_missing": 1,
+    "sgot_missing": 1,
+    "sgpt_missing": 1,
+    "alp_missing": 1,
+    "ggt_missing": 1,
+    "crp_missing": 1,
+    "uric_acid_missing": 1,
+    "pcv_missing": 1,
+    "mcv_missing": 1,
+    "rdw_missing": 1,
+    "neutrophils_pct_missing": 1,
+    "lymphocytes_pct_missing": 1
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 1,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 1,
+    "hepatic_disease": 1,
+    "urological_condition": 0,
+    "neurological_condition": 1
+  },
+  "vitals": {
+    "spo2": 97.0,
+    "bp_systolic": 160.0,
+    "bp_diastolic": 90.0,
+    "pulse": 80.0,
+    "respiratory_rate": 18.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 1,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 1,
+    "alcohol": 0,
+    "smoking": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 0
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 1,
+    "gi": 1,
+    "diabetes": 1,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 1,
+    "hepatic": 1
+  },
+  "organ_involvement": {
+    "hepatic": 1,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 1,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 1,
+    "hypoalbuminemia": 1
+  },
+  "primary_condition": "hepatic",
+  "external_features": {
+    "population_dm_prevalence": 0.535
+  },
+  "label_confidence": 0.95,
+  "targets": {
+    "risk_level": 4,
+    "specialist": 9
+  },
+  "_source_type": "discharge_summary",
+  "_filename": "patient_141_corrected.json"
+}

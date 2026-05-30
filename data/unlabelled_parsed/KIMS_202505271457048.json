@@ -1,0 +1,93 @@
+{
+  "patient_id": "KIMS_202505271457048",
+  "demographics": {
+    "age": 63,
+    "gender": 1,
+    "patient_type": null,
+    "uhid": "202505271457048"
+  },
+  "lab_features": {
+    "sodium": 141.0,
+    "potassium": 5.3,
+    "chloride": 105.0,
+    "cholesterol_total": 190.0,
+    "triglycerides": 104.0,
+    "hdl": 59.0,
+    "ldl": 110.0,
+    "thyroid_t3": 114.0,
+    "thyroid_t4": 7.62,
+    "thyroid_tsh": 2.56
+  },
+  "lab_printed_ranges": {
+    "sodium": [
+      136.0,
+      145.0
+    ],
+    "potassium": [
+      3.5,
+      5.1
+    ],
+    "chloride": [
+      98.0,
+      107.0
+    ],
+    "cholesterol_total": [
+      125.0,
+      200.0
+    ],
+    "triglycerides": [
+      50.0,
+      150.0
+    ],
+    "hdl": [
+      40.0,
+      60.0
+    ],
+    "ldl": [
+      70.0,
+      130.0
+    ],
+    "thyroid_t3": [
+      80.0,
+      200.0
+    ],
+    "thyroid_t4": [
+      5.1,
+      14.1
+    ],
+    "thyroid_tsh": [
+      0.27,
+      4.2
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.01,
+    "urine_ph": 5.0,
+    "urine_protein": 0,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "sodium": "unknown",
+    "potassium": "unknown",
+    "chloride": "unknown",
+    "cholesterol_total": "unknown",
+    "triglycerides": "unknown",
+    "hdl": "unknown",
+    "ldl": "unknown",
+    "thyroid_t3": "unknown",
+    "thyroid_t4": "unknown",
+    "thyroid_tsh": "unknown"
+  },
+  "peripheral_smear": null,
+  "admission_date": null,
+  "n_reports": 7,
+  "n_labs": 10,
+  "n_urine_fields": 10
+}

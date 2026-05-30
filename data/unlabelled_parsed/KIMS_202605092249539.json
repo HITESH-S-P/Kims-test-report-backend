@@ -1,0 +1,88 @@
+{
+  "patient_id": "KIMS_202605092249539",
+  "demographics": {
+    "age": 34,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202605092249539"
+  },
+  "lab_features": {
+    "hemoglobin": 11.8,
+    "wbc": 10110.0,
+    "neutrophils_pct": 62.0,
+    "lymphocytes_pct": 24.0,
+    "pcv": 33.6,
+    "mcv": 85.7,
+    "mch": 30.1,
+    "mchc": 35.1,
+    "rdw": 12.5,
+    "platelets": 315000,
+    "esr": 15.0
+  },
+  "lab_printed_ranges": {
+    "hemoglobin": [
+      11.5,
+      16.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "pcv": [
+      35.0,
+      50.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ]
+  },
+  "urine_features": {},
+  "lab_timeline": {},
+  "lab_date_used": {
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "esr": "unknown"
+  },
+  "peripheral_smear": ". RBCs Normocytic normochromic WBCs are normal in number with absolute increase in eosinophils and normal in  morphology. PLATELET are adequate. NO ABNORMAL CELLS SEEN . IMPRESSION NORMOCYTIC NORMOCHROMIC ANEMIA WITH  EOSINOPHILIA",
+  "admission_date": null,
+  "n_reports": 1,
+  "n_labs": 11,
+  "n_urine_fields": 0
+}

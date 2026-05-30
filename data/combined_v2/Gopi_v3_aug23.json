@@ -1,0 +1,146 @@
+{
+  "text_input": "Patient was apparently normal before 6:45 PM when he developed loss of consciousness followed by fall around 6:45 PM, lasting for ~5 minutes a/w Involuntary movements of limbsTongue biteUpward rolling of eyes\nNo history of frothing from mouth / post-ictal confusion.C/O easy fatigability since afternoon (sudden onset, progressive)C/O loss of appetite since afternoon (sudden onset, progressive)H/O tingling sensation in bilateral lower limbs (continuous, from thigh to foot)\nNo c/oweakness of limbsNo ℅ speech disturbanceNo ℅ incontinence of urine or diarrheaNo ℅ fever, headache, vomiting, or blurring of visionNo ℅ trauma",
+  "demographics": {
+    "age": 34.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 14.03,
+    "platelets": 119000,
+    "wbc": 4288.5,
+    "esr": 8.0,
+    "bilirubin_total": 1.0,
+    "albumin": 3.65,
+    "ferritin": null,
+    "serum_iron": null,
+    "creatinine": 0.62,
+    "urea": 13.39,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": null,
+    "tsat": null,
+    "ef_percent": null,
+    "sodium": 142.58,
+    "potassium": 3.69,
+    "chloride": 101.0,
+    "sgot": 121.49,
+    "sgpt": 153.71,
+    "alp": 73.0,
+    "ggt": 404.0,
+    "crp": null,
+    "uric_acid": 7.3,
+    "pcv": 42.8,
+    "mcv": 89.0,
+    "rdw": 13.1,
+    "neutrophils_pct": 70.0,
+    "lymphocytes_pct": 25.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 1,
+    "cardiac_disease": 0,
+    "respiratory_disease": 1,
+    "renal_disease": 0,
+    "hepatic_disease": 1,
+    "urological_condition": 0,
+    "neurological_condition": 1
+  },
+  "vitals": {
+    "spo2": 98.0,
+    "bp_systolic": 120.0,
+    "bp_diastolic": 70.0,
+    "pulse": 90.0,
+    "respiratory_rate": null,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 1,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 2,
+    "anemia": 0,
+    "cardiac": 0,
+    "respiratory": 2,
+    "renal": 0,
+    "hepatic": 3,
+    "gi": 3,
+    "diabetes": 1
+  },
+  "organ_involvement": {
+    "hepatic": 1,
+    "respiratory": 1,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "hepatic",
+  "external_features": {
+    "population_dm_prevalence": 0.08
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 2,
+    "specialist": 4
+  },
+  "_source_patient": "Gopi",
+  "_discharge_file": "KIMS_202604042193715.json",
+  "_n_html_reports": 15,
+  "_admission_labs_used": 15,
+  "_source_type": "matched_pair",
+  "_filename": "Gopi_v3.json",
+  "_augmented": true,
+  "_aug_source": "Gopi_v3.json"
+}

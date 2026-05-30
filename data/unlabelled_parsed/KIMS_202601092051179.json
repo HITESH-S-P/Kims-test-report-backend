@@ -1,0 +1,124 @@
+{
+  "patient_id": "KIMS_202601092051179",
+  "demographics": {
+    "age": 38,
+    "gender": 1,
+    "patient_type": null,
+    "uhid": "202601092051179"
+  },
+  "lab_features": {
+    "uric_acid": 6.7,
+    "sodium": 139.0,
+    "potassium": 4.7,
+    "chloride": 107.0,
+    "urea": 43.0,
+    "creatinine": 1.5,
+    "hemoglobin": 13.9,
+    "wbc": 11300.0,
+    "neutrophils_pct": 74.0,
+    "lymphocytes_pct": 18.0,
+    "pcv": 44.2,
+    "mcv": 78.2,
+    "mch": 24.6,
+    "mchc": 31.4,
+    "rdw": 14.4,
+    "platelets": 263000,
+    "esr": 21.0
+  },
+  "lab_printed_ranges": {
+    "uric_acid": [
+      3.6,
+      7.0
+    ],
+    "sodium": [
+      136.0,
+      145.0
+    ],
+    "potassium": [
+      3.5,
+      5.1
+    ],
+    "chloride": [
+      98.0,
+      107.0
+    ],
+    "urea": [
+      17.0,
+      48.0
+    ],
+    "creatinine": [
+      0.7,
+      1.2
+    ],
+    "hemoglobin": [
+      13.0,
+      18.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "pcv": [
+      40.0,
+      55.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "esr": [
+      0.0,
+      15.0
+    ]
+  },
+  "urine_features": {},
+  "lab_timeline": {},
+  "lab_date_used": {
+    "uric_acid": "unknown",
+    "sodium": "unknown",
+    "potassium": "unknown",
+    "chloride": "unknown",
+    "urea": "unknown",
+    "creatinine": "unknown",
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "esr": "unknown"
+  },
+  "peripheral_smear": ". RBCs Normocytic normochromic WBCs are  increased  in number with absolute increase in neutrophils  and  normal in morphology. PLATELET are adequate. IMPRESSION NORMOCYTIC  NORMOCHROMIC  BLOOD PICTURE   WITH  NEUTROPHILIC   LEUCOCYTOSIS.",
+  "admission_date": null,
+  "n_reports": 4,
+  "n_labs": 17,
+  "n_urine_fields": 0
+}

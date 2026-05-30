@@ -1,0 +1,144 @@
+{
+  "patient_id": "KIMS_202603252176256",
+  "demographics": {
+    "age": 22,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202603252176256"
+  },
+  "lab_features": {
+    "bilirubin_total": 0.2,
+    "direct_bilirubin": 0.1,
+    "sgot": 13.0,
+    "sgpt": 10.0,
+    "alp": 143.0,
+    "total_protein": 6.4,
+    "albumin": 3.4,
+    "ggt": 14.0,
+    "hemoglobin": 10.4,
+    "wbc": 11790.0,
+    "neutrophils_pct": 80.0,
+    "lymphocytes_pct": 15.0,
+    "pcv": 32.5,
+    "mcv": 88.6,
+    "mch": 28.3,
+    "mchc": 32.0,
+    "rdw": 13.5,
+    "platelets": 338000,
+    "esr": 88.0
+  },
+  "lab_printed_ranges": {
+    "bilirubin_total": [
+      0.2,
+      1.1
+    ],
+    "sgot": [
+      5.0,
+      40.0
+    ],
+    "sgpt": [
+      5.0,
+      40.0
+    ],
+    "alp": [
+      105.0,
+      130.0
+    ],
+    "total_protein": [
+      6.4,
+      8.3
+    ],
+    "albumin": [
+      3.5,
+      5.2
+    ],
+    "hemoglobin": [
+      11.5,
+      16.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "pcv": [
+      35.0,
+      50.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.025,
+    "urine_ph": 6.5,
+    "urine_protein": 0,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0,
+    "urine_pus_cells": 2.0,
+    "urine_epithelial_cells": 4.0,
+    "urine_casts": 0,
+    "urine_crystals": 0,
+    "urine_bacteria": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "bilirubin_total": "unknown",
+    "direct_bilirubin": "unknown",
+    "sgot": "unknown",
+    "sgpt": "unknown",
+    "alp": "unknown",
+    "total_protein": "unknown",
+    "albumin": "unknown",
+    "ggt": "unknown",
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "esr": "unknown"
+  },
+  "peripheral_smear": ". RBCs are normocytic  normochromic with few microcytes. WBCs are  increased  in number with absolute increase in neutrophils  and  normal in morphology. PLATELET are adequate. NO ABNORMAL CELLS SEEN . IMPRESSION NORMOCYTIC  NORMOCHROMIC  ANEMIA  WITH  NEUTROPHILIC  LEUCOCYTOSIS",
+  "admission_date": null,
+  "n_reports": 2,
+  "n_labs": 19,
+  "n_urine_fields": 15
+}

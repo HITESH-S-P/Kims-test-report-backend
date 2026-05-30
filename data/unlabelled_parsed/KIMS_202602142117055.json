@@ -1,0 +1,140 @@
+{
+  "patient_id": "KIMS_202602142117055",
+  "demographics": {
+    "age": 12,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202602142117055"
+  },
+  "lab_features": {
+    "hemoglobin": 9.6,
+    "wbc": 10990.0,
+    "neutrophils_pct": 77.0,
+    "lymphocytes_pct": 18.0,
+    "pcv": 31.2,
+    "mcv": 77.0,
+    "mch": 23.7,
+    "mchc": 30.8,
+    "rdw": 13.5,
+    "platelets": 195000,
+    "esr": 30.0,
+    "albumin": 3.4,
+    "sodium": 129.0,
+    "potassium": 4.8,
+    "chloride": 102.0,
+    "urea": 32.0,
+    "creatinine": 0.6
+  },
+  "lab_printed_ranges": {
+    "hemoglobin": [
+      11.5,
+      16.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "pcv": [
+      35.0,
+      50.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ],
+    "albumin": [
+      3.5,
+      5.2
+    ],
+    "sodium": [
+      136.0,
+      145.0
+    ],
+    "potassium": [
+      3.5,
+      5.1
+    ],
+    "chloride": [
+      98.0,
+      107.0
+    ],
+    "urea": [
+      17.0,
+      48.0
+    ],
+    "creatinine": [
+      0.5,
+      0.9
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.02,
+    "urine_ph": 5.5,
+    "urine_protein": 0,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0,
+    "urine_pus_cells": 2.0,
+    "urine_epithelial_cells": 2.0,
+    "urine_casts": 0,
+    "urine_crystals": 0,
+    "urine_bacteria": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "esr": "unknown",
+    "albumin": "unknown",
+    "sodium": "unknown",
+    "potassium": "unknown",
+    "chloride": "unknown",
+    "urea": "unknown",
+    "creatinine": "unknown"
+  },
+  "peripheral_smear": ". RBCs Shows mild anisocytosis.Seen are predominantly  microcytes admixed with normocytes.Also seen are tear drop cells and elliptocytes. WBCs are normal  in number with absolute increase in neutrophils  and  normal in morphology. PLATELET are adequate. NO ABNORMAL CELLS SEEN . IMPRESSION MICROCYTIC HYPOCHROMIC ANEMIA WITH NEUTROPHILIA",
+  "admission_date": null,
+  "n_reports": 6,
+  "n_labs": 17,
+  "n_urine_fields": 15
+}

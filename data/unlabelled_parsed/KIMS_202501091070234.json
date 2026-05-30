@@ -1,0 +1,135 @@
+{
+  "patient_id": "KIMS_202501091070234",
+  "demographics": {
+    "age": 27,
+    "gender": 1,
+    "patient_type": null,
+    "uhid": "202501091070234"
+  },
+  "lab_features": {
+    "sgot": 15.0,
+    "sgpt": 29.0,
+    "urea": 26.0,
+    "creatinine": 1.1,
+    "hemoglobin": 16.3,
+    "wbc": 12150.0,
+    "neutrophils_pct": 68.0,
+    "lymphocytes_pct": 23.7,
+    "pcv": 53.8,
+    "mcv": 78.5,
+    "mch": 23.8,
+    "mchc": 30.3,
+    "rdw": 15.6,
+    "platelets": 359000,
+    "sodium": 136.0,
+    "potassium": 4.5,
+    "chloride": 101.0
+  },
+  "lab_printed_ranges": {
+    "sgot": [
+      5.0,
+      40.0
+    ],
+    "sgpt": [
+      5.0,
+      40.0
+    ],
+    "urea": [
+      17.0,
+      48.0
+    ],
+    "creatinine": [
+      0.7,
+      1.2
+    ],
+    "hemoglobin": [
+      13.0,
+      18.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "pcv": [
+      40.0,
+      55.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "sodium": [
+      136.0,
+      145.0
+    ],
+    "potassium": [
+      3.5,
+      5.1
+    ],
+    "chloride": [
+      98.0,
+      107.0
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.025,
+    "urine_ph": 5.5,
+    "urine_protein": 0,
+    "urine_glucose": 0,
+    "urine_ketones": 1,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "sgot": "unknown",
+    "sgpt": "unknown",
+    "urea": "unknown",
+    "creatinine": "unknown",
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "sodium": "unknown",
+    "potassium": "unknown",
+    "chloride": "unknown"
+  },
+  "peripheral_smear": null,
+  "admission_date": null,
+  "n_reports": 7,
+  "n_labs": 17,
+  "n_urine_fields": 10
+}

@@ -1,0 +1,109 @@
+{
+  "text_input": "Patient presented for a routine checkup for travel purposes. Chest X-ray revealed a right-sided pleural effusion. Patient is asymptomatic with no history of fever, cough, or breathlessness. No known comorbidities such as diabetes, hypertension, or thyroid disorders. Diagnosed with extrapulmonary tuberculosis (pleural fluid CBNAAT positive) and started on anti-tubercular treatment (ATT). Physical examination was unremarkable with normal vitals. Laboratory investigations showed normal renal function. Patient is a smoker for 2 years.",
+  "demographics": {
+    "age": 21.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 14.0,
+    "platelets": 250000.0,
+    "wbc": 7500.0,
+    "esr": 15.0,
+    "bilirubin_total": 0.7,
+    "albumin": 4.0,
+    "ferritin": 150.0,
+    "serum_iron": 100.0,
+    "creatinine": 0.9,
+    "urea": 21.0,
+    "grbs": 90.0,
+    "bmi": 22.0,
+    "hba1c": 5.4,
+    "tsat": 23.0,
+    "ef_percent": 60.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 1,
+    "platelets_missing": 1,
+    "wbc_missing": 1,
+    "esr_missing": 1,
+    "bilirubin_total_missing": 1,
+    "albumin_missing": 1,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1
+  },
+  "comorbidities": {
+    "diabetes": 0,
+    "hypertension": 0,
+    "cardiac_disease": 0,
+    "respiratory_disease": 1,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 98.0,
+    "bp_systolic": 120.0,
+    "bp_diastolic": 80.0,
+    "pulse": 62.0,
+    "respiratory_rate": 16.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "alcohol": 0,
+    "smoking": 1,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 5,
+    "anemia": 0,
+    "gi": 0,
+    "diabetes": 0,
+    "respiratory": 5,
+    "cardiac": 0,
+    "renal": 0,
+    "hepatic": 0
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 1,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 0,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 0,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "infection",
+  "external_features": {
+    "population_dm_prevalence": 0.086
+  },
+  "label_confidence": 0.95,
+  "targets": {
+    "risk_level": 1,
+    "specialist": 10
+  }
+}

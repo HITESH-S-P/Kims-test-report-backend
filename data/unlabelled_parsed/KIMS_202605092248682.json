@@ -1,0 +1,58 @@
+{
+  "patient_id": "KIMS_202605092248682",
+  "demographics": {
+    "age": 39,
+    "gender": 1,
+    "patient_type": null,
+    "uhid": "202605092248682"
+  },
+  "lab_features": {
+    "sodium": 139.0,
+    "potassium": 4.1,
+    "chloride": 103.0,
+    "urea": 39.0,
+    "creatinine": 0.8,
+    "uric_acid": 5.6
+  },
+  "lab_printed_ranges": {
+    "sodium": [
+      136.0,
+      145.0
+    ],
+    "potassium": [
+      3.5,
+      5.1
+    ],
+    "chloride": [
+      98.0,
+      107.0
+    ],
+    "urea": [
+      17.0,
+      48.0
+    ],
+    "creatinine": [
+      0.7,
+      1.2
+    ],
+    "uric_acid": [
+      3.6,
+      7.0
+    ]
+  },
+  "urine_features": {},
+  "lab_timeline": {},
+  "lab_date_used": {
+    "sodium": "unknown",
+    "potassium": "unknown",
+    "chloride": "unknown",
+    "urea": "unknown",
+    "creatinine": "unknown",
+    "uric_acid": "unknown"
+  },
+  "peripheral_smear": null,
+  "admission_date": null,
+  "n_reports": 2,
+  "n_labs": 6,
+  "n_urine_fields": 0
+}

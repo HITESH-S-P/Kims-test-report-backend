@@ -1,0 +1,146 @@
+{
+  "text_input": "Patient was apparently normal 5 days back when he developed abdominal distension for 5 days, insidious in onset, progressive in nature, associated abdominal pain in epigastric region, dull aching, on & off, no radiation.\nNo c/o puffiness of face, vomiting, ↓ urine output, easy fatigability.\nC/o easy fatigability for 4 days, sudden in onset, progressive in nature\nC/o B/L lower limb swelling sudden in onset, progressive in nature for 1 day.\nH/o vomitting 1 week back ,2 episodes non foul smelling, non blood stained .\nNo ℅ malena , hematemesis, diarrhoea, fever .",
+  "demographics": {
+    "age": 45.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 15.43,
+    "platelets": 237000,
+    "wbc": 7539.42,
+    "esr": 5.0,
+    "bilirubin_total": 0.8,
+    "albumin": 3.99,
+    "ferritin": null,
+    "serum_iron": null,
+    "creatinine": 0.78,
+    "urea": 30.38,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": 5.7,
+    "tsat": null,
+    "ef_percent": null,
+    "sodium": 133.61,
+    "potassium": 4.09,
+    "chloride": 100.0,
+    "sgot": 61.79,
+    "sgpt": 67.34,
+    "alp": 64.0,
+    "ggt": 102.0,
+    "crp": null,
+    "uric_acid": 5.0,
+    "pcv": 43.7,
+    "mcv": 97.3,
+    "rdw": 13.8,
+    "neutrophils_pct": 86.0,
+    "lymphocytes_pct": 10.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 0,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 1,
+    "cardiac_disease": 1,
+    "respiratory_disease": 1,
+    "renal_disease": 0,
+    "hepatic_disease": 1,
+    "urological_condition": 0,
+    "neurological_condition": 1
+  },
+  "vitals": {
+    "spo2": 98.0,
+    "bp_systolic": 140.0,
+    "bp_diastolic": 90.0,
+    "pulse": 98.0,
+    "respiratory_rate": null,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 0,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 0,
+    "cardiac": 5,
+    "respiratory": 0,
+    "renal": 0,
+    "hepatic": 2,
+    "gi": 2,
+    "diabetes": 0
+  },
+  "organ_involvement": {
+    "hepatic": 1,
+    "respiratory": 0,
+    "cardiac": 1,
+    "renal": 0,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "cardiac",
+  "external_features": {
+    "population_dm_prevalence": 0.2
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 2,
+    "specialist": 1
+  },
+  "_source_patient": "Mahalingaiah",
+  "_discharge_file": "KIMS_202605102249939.json",
+  "_n_html_reports": 14,
+  "_admission_labs_used": 14,
+  "_source_type": "matched_pair",
+  "_filename": "Mahalingaiah_v3.json",
+  "_augmented": true,
+  "_aug_source": "Mahalingaiah_v3.json"
+}

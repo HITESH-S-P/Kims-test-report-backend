@@ -1,0 +1,109 @@
+{
+  "text_input": "Patient came with complaints of fever from 1 day which was associated with cough from 3-4 months insidious in onset. No h/o burning micturation or pain abdomen. No h/o bleeding manifestations. Cough was associated with sputum, whitish in color, non-foul smelling, non-blood tinged. No h/o evening rise of temperature. C/o generalise weakness since 1 day. K/C/O COPD, chronic calcific pancreatitis, newly detected IHD. Final Diagnosis: Acute exacerbation of COPD with type-1 respiratory failure secondary to bronchopneumonia, ACS-NSTEMI with acute decompensated heart failure HFrEF-30%, Chronic calcific pancreatitis with type 3C Diabetes mellitus.",
+  "demographics": {
+    "age": 60.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 10.7,
+    "platelets": 189000.0,
+    "wbc": 4260.0,
+    "esr": 30.0,
+    "bilirubin_total": 0.3,
+    "albumin": 2.4,
+    "ferritin": 165.0,
+    "serum_iron": 100.0,
+    "creatinine": 0.6,
+    "urea": 34.0,
+    "grbs": 150.0,
+    "bmi": 22.0,
+    "hba1c": 7.5,
+    "tsat": 23.5,
+    "ef_percent": 30.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 1,
+    "ef_percent_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 0,
+    "cardiac_disease": 1,
+    "respiratory_disease": 1,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 86.0,
+    "bp_systolic": 80.0,
+    "bp_diastolic": 70.0,
+    "pulse": 114.0,
+    "respiratory_rate": 22.0,
+    "temperature_afebrile": 0
+  },
+  "treatment": {
+    "insulin": 1,
+    "antibiotics": 1,
+    "analgesics": 1,
+    "statins": 1
+  },
+  "history": {
+    "known_diabetes": 1,
+    "alcohol": 0,
+    "smoking": 1,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 0,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 5,
+    "anemia": 1,
+    "gi": 3,
+    "diabetes": 3,
+    "respiratory": 5,
+    "cardiac": 5,
+    "renal": 0,
+    "hepatic": 0
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 1,
+    "cardiac": 1,
+    "renal": 0,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 1,
+    "multi_organ": 1,
+    "hypoalbuminemia": 1
+  },
+  "primary_condition": "respiratory",
+  "external_features": {
+    "population_dm_prevalence": 0.487
+  },
+  "label_confidence": 0.95,
+  "targets": {
+    "risk_level": 4,
+    "specialist": 5
+  }
+}

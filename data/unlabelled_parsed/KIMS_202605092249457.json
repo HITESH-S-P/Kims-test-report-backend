@@ -1,0 +1,133 @@
+{
+  "patient_id": "KIMS_202605092249457",
+  "demographics": {
+    "age": 43,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202605092249457"
+  },
+  "lab_features": {
+    "grbs": 79.0,
+    "cholesterol_total": 165.0,
+    "triglycerides": 137.0,
+    "hdl": 48.0,
+    "ldl": 115.0,
+    "bilirubin_total": 0.3,
+    "direct_bilirubin": 0.2,
+    "sgot": 36.0,
+    "sgpt": 13.0,
+    "alp": 47.0,
+    "ggt": 20.0,
+    "urea": 11.0,
+    "creatinine": 0.7,
+    "uric_acid": 4.1,
+    "wbc": 6330.0,
+    "neutrophils_pct": 63.4,
+    "lymphocytes_pct": 29.2,
+    "esr": 18.0
+  },
+  "lab_printed_ranges": {
+    "grbs": [
+      70.0,
+      109.0
+    ],
+    "cholesterol_total": [
+      125.0,
+      200.0
+    ],
+    "triglycerides": [
+      50.0,
+      150.0
+    ],
+    "hdl": [
+      40.0,
+      60.0
+    ],
+    "ldl": [
+      70.0,
+      130.0
+    ],
+    "bilirubin_total": [
+      0.2,
+      1.1
+    ],
+    "sgot": [
+      5.0,
+      40.0
+    ],
+    "sgpt": [
+      5.0,
+      40.0
+    ],
+    "alp": [
+      105.0,
+      130.0
+    ],
+    "urea": [
+      17.0,
+      48.0
+    ],
+    "creatinine": [
+      0.5,
+      0.9
+    ],
+    "uric_acid": [
+      2.3,
+      6.1
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.005,
+    "urine_ph": 5.0,
+    "urine_protein": 0,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 1
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "grbs": "unknown",
+    "cholesterol_total": "unknown",
+    "triglycerides": "unknown",
+    "hdl": "unknown",
+    "ldl": "unknown",
+    "bilirubin_total": "unknown",
+    "direct_bilirubin": "unknown",
+    "sgot": "unknown",
+    "sgpt": "unknown",
+    "alp": "unknown",
+    "ggt": "unknown",
+    "urea": "unknown",
+    "creatinine": "unknown",
+    "uric_acid": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "esr": "unknown"
+  },
+  "peripheral_smear": null,
+  "admission_date": null,
+  "n_reports": 5,
+  "n_labs": 18,
+  "n_urine_fields": 10
+}

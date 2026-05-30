@@ -1,0 +1,197 @@
+{
+  "patient_id": "KIMS_202605052241770",
+  "demographics": {
+    "age": 78,
+    "gender": 1,
+    "patient_type": null,
+    "uhid": "202605052241770"
+  },
+  "lab_features": {
+    "sodium": 137.0,
+    "potassium": 4.0,
+    "chloride": 103.0,
+    "urea": 21.0,
+    "creatinine": 0.6,
+    "uric_acid": 3.1,
+    "pcv": 29.5,
+    "platelets": 65000,
+    "hemoglobin": 8.5,
+    "wbc": 10400.0,
+    "neutrophils_pct": 88.0,
+    "lymphocytes_pct": 5.0,
+    "mcv": 70.9,
+    "mch": 23.8,
+    "mchc": 33.6,
+    "rdw": 17.9,
+    "ferritin": 178.0,
+    "serum_iron": 7.0,
+    "tsat": 5.0,
+    "hba1c": 6.3,
+    "bilirubin_total": 0.8,
+    "direct_bilirubin": 0.7,
+    "sgot": 82.0,
+    "sgpt": 50.0,
+    "alp": 139.0,
+    "total_protein": 5.5,
+    "albumin": 2.4,
+    "ggt": 94.0
+  },
+  "lab_printed_ranges": {
+    "sodium": [
+      136.0,
+      145.0
+    ],
+    "potassium": [
+      3.5,
+      5.1
+    ],
+    "chloride": [
+      98.0,
+      107.0
+    ],
+    "urea": [
+      17.0,
+      48.0
+    ],
+    "creatinine": [
+      0.7,
+      1.2
+    ],
+    "uric_acid": [
+      3.6,
+      7.0
+    ],
+    "pcv": [
+      40.0,
+      55.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "hemoglobin": [
+      13.0,
+      18.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "ferritin": [
+      30.0,
+      400.0
+    ],
+    "serum_iron": [
+      37.0,
+      158.0
+    ],
+    "tsat": [
+      16.0,
+      45.0
+    ],
+    "hba1c": [
+      4.8,
+      5.6
+    ],
+    "bilirubin_total": [
+      0.2,
+      1.1
+    ],
+    "direct_bilirubin": [
+      0.0,
+      0.2
+    ],
+    "sgot": [
+      5.0,
+      40.0
+    ],
+    "sgpt": [
+      5.0,
+      40.0
+    ],
+    "alp": [
+      105.0,
+      130.0
+    ],
+    "total_protein": [
+      6.4,
+      8.3
+    ],
+    "albumin": [
+      3.5,
+      5.2
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.025,
+    "urine_ph": 5.0,
+    "urine_protein": 1,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 1,
+    "urine_bilirubin": 1,
+    "urine_blood": 1,
+    "urine_nitrite": 1,
+    "urine_leucocytes": 1
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "sodium": "unknown",
+    "potassium": "unknown",
+    "chloride": "unknown",
+    "urea": "unknown",
+    "creatinine": "unknown",
+    "uric_acid": "unknown",
+    "pcv": "unknown",
+    "platelets": "unknown",
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "ferritin": "unknown",
+    "serum_iron": "unknown",
+    "tsat": "unknown",
+    "hba1c": "unknown",
+    "bilirubin_total": "unknown",
+    "direct_bilirubin": "unknown",
+    "sgot": "unknown",
+    "sgpt": "unknown",
+    "alp": "unknown",
+    "total_protein": "unknown",
+    "albumin": "unknown",
+    "ggt": "unknown"
+  },
+  "peripheral_smear": null,
+  "admission_date": null,
+  "n_reports": 59,
+  "n_labs": 28,
+  "n_urine_fields": 10
+}

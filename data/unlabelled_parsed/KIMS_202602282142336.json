@@ -1,0 +1,135 @@
+{
+  "patient_id": "KIMS_202602282142336",
+  "demographics": {
+    "age": 3,
+    "gender": 1,
+    "patient_type": null,
+    "uhid": "202602282142336"
+  },
+  "lab_features": {
+    "hemoglobin": 10.2,
+    "wbc": 6770.0,
+    "neutrophils_pct": 20.0,
+    "lymphocytes_pct": 68.0,
+    "pcv": 31.5,
+    "mcv": 76.8,
+    "mch": 24.9,
+    "mchc": 32.4,
+    "rdw": 14.0,
+    "platelets": 143000,
+    "albumin": 3.8,
+    "sodium": 139.0,
+    "potassium": 3.5,
+    "chloride": 110.0,
+    "sgot": 218.0,
+    "sgpt": 248.0,
+    "esr": 10.0
+  },
+  "lab_printed_ranges": {
+    "hemoglobin": [
+      11.0,
+      15.0
+    ],
+    "wbc": [
+      5000.0,
+      15000.0
+    ],
+    "neutrophils_pct": [
+      35.0,
+      55.0
+    ],
+    "lymphocytes_pct": [
+      45.0,
+      60.0
+    ],
+    "pcv": [
+      35.0,
+      45.0
+    ],
+    "mcv": [
+      75.0,
+      85.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "albumin": [
+      3.5,
+      5.2
+    ],
+    "sodium": [
+      136.0,
+      145.0
+    ],
+    "potassium": [
+      3.5,
+      5.1
+    ],
+    "chloride": [
+      98.0,
+      107.0
+    ],
+    "sgot": [
+      5.0,
+      40.0
+    ],
+    "sgpt": [
+      5.0,
+      40.0
+    ],
+    "esr": [
+      0.0,
+      15.0
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.025,
+    "urine_ph": 5.5,
+    "urine_protein": 1,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "albumin": "unknown",
+    "sodium": "unknown",
+    "potassium": "unknown",
+    "chloride": "unknown",
+    "sgot": "unknown",
+    "sgpt": "unknown",
+    "esr": "unknown"
+  },
+  "peripheral_smear": ". RBCs are predominantly normocytic  normochromic with few elliptocytes seen WBCs are decreased in number and few reactive lymphocytes seen. PLATELET are reduced NO ABNORMAL CELLS SEEN . IMPRESSION NORMOCYTIC  NORMOCHROMIC  BLOOD  PICTURE  WITH  LEUCOPENIA AND THROMBOCYTOPENIA. GROUPING AND TYPING BLOOD GROUP (Method-Manual(Slide Method)) B RH TYPING (Method-Manual(Slide Method)) POSITIVE",
+  "admission_date": null,
+  "n_reports": 16,
+  "n_labs": 17,
+  "n_urine_fields": 10
+}

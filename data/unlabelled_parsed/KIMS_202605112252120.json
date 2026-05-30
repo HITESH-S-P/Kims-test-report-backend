@@ -1,0 +1,99 @@
+{
+  "patient_id": "KIMS_202605112252120",
+  "demographics": {
+    "age": 45,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202605112252120"
+  },
+  "lab_features": {
+    "uric_acid": 4.4,
+    "hemoglobin": 12.5,
+    "wbc": 8630.0,
+    "neutrophils_pct": 53.1,
+    "lymphocytes_pct": 39.0,
+    "pcv": 35.6,
+    "mcv": 83.8,
+    "mch": 29.4,
+    "mchc": 35.1,
+    "rdw": 12.3,
+    "platelets": 194000
+  },
+  "lab_printed_ranges": {
+    "uric_acid": [
+      2.3,
+      6.1
+    ],
+    "hemoglobin": [
+      11.5,
+      16.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "pcv": [
+      35.0,
+      50.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.015,
+    "urine_ph": 7.0,
+    "urine_protein": 0,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "uric_acid": "unknown",
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown"
+  },
+  "peripheral_smear": null,
+  "admission_date": null,
+  "n_reports": 3,
+  "n_labs": 11,
+  "n_urine_fields": 10
+}

@@ -1,0 +1,144 @@
+{
+  "text_input": "Patient was apparently normal 12 hrs ago when she developed sudden onset weakness of L UL & LL, patient was unable to lift her L UL & LL, no aggravating or relieving factors.\nNo h/o loss of consciousness\nNo h/o involuntary movements of limbs\nNo h/o headache, dizziness, neck stiffness\nNo h/o trauma to the head\nNo h/o fever, projectile vomiting\nNo h/o deviation of angle of mouth, hearing loss, nasal regurgitation of food, blurring of vision, slurring of speech.\nNo h/o similar episodes in the past.",
+  "demographics": {
+    "age": 55.0,
+    "gender": 0
+  },
+  "lab_features": {
+    "hemoglobin": null,
+    "platelets": null,
+    "wbc": 10780.0,
+    "esr": null,
+    "bilirubin_total": null,
+    "albumin": null,
+    "ferritin": 27.0,
+    "serum_iron": 19.1,
+    "creatinine": null,
+    "urea": null,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": 7.3,
+    "tsat": 4.68,
+    "ef_percent": null,
+    "sodium": 135.0,
+    "potassium": 4.1,
+    "chloride": 99.0,
+    "sgot": null,
+    "sgpt": null,
+    "alp": null,
+    "ggt": null,
+    "crp": null,
+    "uric_acid": null,
+    "pcv": null,
+    "mcv": null,
+    "rdw": null,
+    "neutrophils_pct": 56.5,
+    "lymphocytes_pct": 32.5
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 1,
+    "platelets_missing": 1,
+    "wbc_missing": 0,
+    "esr_missing": 1,
+    "bilirubin_total_missing": 1,
+    "albumin_missing": 1,
+    "ferritin_missing": 0,
+    "serum_iron_missing": 0,
+    "creatinine_missing": 1,
+    "urea_missing": 1,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 0,
+    "tsat_missing": 0,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 1,
+    "sgpt_missing": 1,
+    "alp_missing": 1,
+    "ggt_missing": 1,
+    "crp_missing": 1,
+    "uric_acid_missing": 1,
+    "pcv_missing": 1,
+    "mcv_missing": 1,
+    "rdw_missing": 1,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 1,
+    "cardiac_disease": 1,
+    "respiratory_disease": 1,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 1
+  },
+  "vitals": {
+    "spo2": 98.0,
+    "bp_systolic": 130.0,
+    "bp_diastolic": 70.0,
+    "pulse": 85.0,
+    "respiratory_rate": null,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 0,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 1,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 4,
+    "cardiac": 1,
+    "respiratory": 0,
+    "renal": 0,
+    "hepatic": 0,
+    "gi": 2,
+    "diabetes": 2
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 0,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "anemia",
+  "external_features": {
+    "population_dm_prevalence": 0.1
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 2,
+    "specialist": 6
+  },
+  "_source_patient": "Jayamma (202605182263955)",
+  "_discharge_file": "KIMS_202605182263955.json",
+  "_n_html_reports": 4,
+  "_admission_labs_used": 4,
+  "_source_type": "matched_pair",
+  "_filename": "Jayamma_(202605182263955)_v3.json"
+}

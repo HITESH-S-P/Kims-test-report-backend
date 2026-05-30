@@ -1,0 +1,197 @@
+{
+  "patient_id": "KIMS_202604242224247",
+  "demographics": {
+    "age": 60,
+    "gender": 1,
+    "patient_type": null,
+    "uhid": "202604242224247"
+  },
+  "lab_features": {
+    "hemoglobin": 8.4,
+    "wbc": 7870.0,
+    "neutrophils_pct": 61.0,
+    "lymphocytes_pct": 20.0,
+    "pcv": 28.0,
+    "mcv": 76.1,
+    "mch": 22.8,
+    "mchc": 30.0,
+    "rdw": 17.5,
+    "platelets": 87000,
+    "sodium": 137.0,
+    "potassium": 3.5,
+    "chloride": 105.0,
+    "tsat": 19.2,
+    "ferritin": 114.0,
+    "serum_iron": 57.9,
+    "urea": 28.0,
+    "creatinine": 0.9,
+    "uric_acid": 6.1,
+    "bilirubin_total": 0.3,
+    "direct_bilirubin": 0.2,
+    "sgot": 23.0,
+    "sgpt": 11.0,
+    "alp": 77.0,
+    "total_protein": 6.1,
+    "albumin": 3.6,
+    "ggt": 11.0,
+    "esr": 18.0
+  },
+  "lab_printed_ranges": {
+    "hemoglobin": [
+      13.0,
+      18.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "pcv": [
+      40.0,
+      55.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "sodium": [
+      136.0,
+      145.0
+    ],
+    "potassium": [
+      3.5,
+      5.1
+    ],
+    "chloride": [
+      98.0,
+      107.0
+    ],
+    "tsat": [
+      16.0,
+      45.0
+    ],
+    "ferritin": [
+      30.0,
+      400.0
+    ],
+    "serum_iron": [
+      37.0,
+      158.0
+    ],
+    "urea": [
+      17.0,
+      48.0
+    ],
+    "creatinine": [
+      0.7,
+      1.2
+    ],
+    "uric_acid": [
+      3.6,
+      7.0
+    ],
+    "bilirubin_total": [
+      0.2,
+      1.1
+    ],
+    "direct_bilirubin": [
+      0.0,
+      0.2
+    ],
+    "sgot": [
+      5.0,
+      40.0
+    ],
+    "sgpt": [
+      5.0,
+      40.0
+    ],
+    "alp": [
+      105.0,
+      130.0
+    ],
+    "total_protein": [
+      6.4,
+      8.3
+    ],
+    "albumin": [
+      3.5,
+      5.2
+    ],
+    "esr": [
+      0.0,
+      15.0
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.03,
+    "urine_ph": 5.0,
+    "urine_protein": 1,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "sodium": "unknown",
+    "potassium": "unknown",
+    "chloride": "unknown",
+    "tsat": "unknown",
+    "ferritin": "unknown",
+    "serum_iron": "unknown",
+    "urea": "unknown",
+    "creatinine": "unknown",
+    "uric_acid": "unknown",
+    "bilirubin_total": "unknown",
+    "direct_bilirubin": "unknown",
+    "sgot": "unknown",
+    "sgpt": "unknown",
+    "alp": "unknown",
+    "total_protein": "unknown",
+    "albumin": "unknown",
+    "ggt": "unknown",
+    "esr": "unknown"
+  },
+  "peripheral_smear": ". RBCs Show  mild  aniopoikilocytosis and  hypochromia. Seen  are  microcytes  admixed with normocytes.  Also seen are elliptocytes and pencil shaped cells. WBCs are decreased in number with normal distribution and morphology. PLATELET are adequate NO ABNORMAL CELLS SEEN . IMPRESSION MICROCYTIC HYPOCHROMIC ANEMIA WITH  LEUCOPENIA GROUPING AND TYPING BLOOD GROUP (Method-Manual(Slide Method)) A RH TYPING (Method-Manual(Slide Method)) POSITIVE PARTIAL THROMBOPLASTIN TIME (APTT) CONTROL (Method-Automated(Mechanical Clot Detection)) 32.7 Sec 35-50 TEST 30.2 Sec 35-50 PROTHROMBIN TIME (PT) CONTROL (Automated(Mechanical Clot Detection)) 14.0 Sec TEST 16.2 Sec INR 1.19 Sec",
+  "admission_date": null,
+  "n_reports": 25,
+  "n_labs": 28,
+  "n_urine_fields": 10
+}

@@ -1,0 +1,124 @@
+{
+  "patient_id": "KIMS_202604282230898",
+  "demographics": {
+    "age": 23,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202604282230898"
+  },
+  "lab_features": {
+    "thyroid_t3": 143.0,
+    "thyroid_t4": 8.76,
+    "thyroid_tsh": 3.75,
+    "serum_iron": 19.0,
+    "ferritin": 9.37,
+    "tsat": 4.0,
+    "hemoglobin": 7.6,
+    "wbc": 9400.0,
+    "neutrophils_pct": 76.0,
+    "lymphocytes_pct": 19.0,
+    "pcv": 26.3,
+    "mcv": 71.1,
+    "mch": 20.5,
+    "mchc": 28.9,
+    "rdw": 16.8,
+    "platelets": 310000,
+    "esr": 8.0
+  },
+  "lab_printed_ranges": {
+    "thyroid_t3": [
+      80.0,
+      200.0
+    ],
+    "thyroid_t4": [
+      5.1,
+      14.1
+    ],
+    "thyroid_tsh": [
+      0.27,
+      4.2
+    ],
+    "serum_iron": [
+      37.0,
+      158.0
+    ],
+    "ferritin": [
+      30.0,
+      400.0
+    ],
+    "tsat": [
+      16.0,
+      45.0
+    ],
+    "hemoglobin": [
+      11.5,
+      16.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "pcv": [
+      35.0,
+      50.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ]
+  },
+  "urine_features": {},
+  "lab_timeline": {},
+  "lab_date_used": {
+    "thyroid_t3": "unknown",
+    "thyroid_t4": "unknown",
+    "thyroid_tsh": "unknown",
+    "serum_iron": "unknown",
+    "ferritin": "unknown",
+    "tsat": "unknown",
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "esr": "unknown"
+  },
+  "peripheral_smear": ". RBCs Show  mild  anisocytosis  and  hypochromia. Seen  are  microcytes  admixed with normocytes.  Also seen are few elliptocytes. WBCs are normal  in number with  relative  increase in neutrophils  and  normal in morphology. PLATELET are adequate with few large platelets. IMPRESSION MICROCYTIC HYPOCHROMIC ANEMIA WITH RELATIVE NEUTROPHILIA RETICULOCYTE COUNT RETICULOCYTE COUNT (Method-Manual(Supravital staining)) 1.31 % 0.5-2.0",
+  "admission_date": null,
+  "n_reports": 8,
+  "n_labs": 17,
+  "n_urine_fields": 0
+}

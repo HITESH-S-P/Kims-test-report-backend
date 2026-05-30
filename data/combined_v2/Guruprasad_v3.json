@@ -1,0 +1,144 @@
+{
+  "text_input": "Patient was in his usual state of health when he developed complains of easy fatiguability since 1 month , insidious in onset, gradually progressive in nature, relieved on taking rest, also complains of body pain, generalized type , insidious in onset, increased on working and relieved on taking rest associated with pain abdomen on increased working  No h/o fever, cough with expectoration  No h/o vomiting and loose stools  No h/o burning micturition  No h/o headache, dizziness, loss of consciousness",
+  "demographics": {
+    "age": 40.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 5.9,
+    "platelets": 148000,
+    "wbc": 8150.0,
+    "esr": 20.0,
+    "bilirubin_total": 1.8,
+    "albumin": 4.5,
+    "ferritin": 613.0,
+    "serum_iron": 241.0,
+    "creatinine": 0.7,
+    "urea": 17.0,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": null,
+    "tsat": 84.0,
+    "ef_percent": null,
+    "sodium": 135.0,
+    "potassium": 3.4,
+    "chloride": 103.0,
+    "sgot": 40.0,
+    "sgpt": 28.0,
+    "alp": 43.0,
+    "ggt": 11.0,
+    "crp": null,
+    "uric_acid": 7.8,
+    "pcv": 18.9,
+    "mcv": 125.2,
+    "rdw": 29.6,
+    "neutrophils_pct": 62.0,
+    "lymphocytes_pct": 29.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 0,
+    "serum_iron_missing": 0,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 0,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 1,
+    "cardiac_disease": 0,
+    "respiratory_disease": 1,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 1
+  },
+  "vitals": {
+    "spo2": 95.0,
+    "bp_systolic": 140.0,
+    "bp_diastolic": 90.0,
+    "pulse": 90.0,
+    "respiratory_rate": 18.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 1,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 1,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 5,
+    "cardiac": 0,
+    "respiratory": 1,
+    "renal": 1,
+    "hepatic": 0,
+    "gi": 2,
+    "diabetes": 0
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 0,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "anemia",
+  "external_features": {
+    "population_dm_prevalence": 0.1
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 3,
+    "specialist": 6
+  },
+  "_source_patient": "Guruprasad",
+  "_discharge_file": "discharge_52.json",
+  "_n_html_reports": 15,
+  "_admission_labs_used": 15,
+  "_source_type": "matched_pair",
+  "_filename": "Guruprasad_v3.json"
+}

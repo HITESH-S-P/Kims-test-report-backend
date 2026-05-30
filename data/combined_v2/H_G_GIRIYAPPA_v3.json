@@ -1,0 +1,144 @@
+{
+  "text_input": "Mr. Giriyappa, 78y/M, with no known comorbidities was in his usual state of health till 6/04/26. On 6/4/26 at around 2:30pm he sustained a road traffic accident (skid and fall from 2 wheeler). Following the injury:\nThere was history of loss of consciousness around 15-20 mins.\nThere was no history of seizures immediately post trauma.\nThen he was taken to NIMHANS, admitted, imaging revealed traumatic brain injury - left temporal contusion + surrounding edema + midline shift (MLS) present.\nLater patient was referred to multispeciality hospital, subsequently he was shifted to KIMS hospital and admitted under neurosurgery and managed conservatively.\nPatient was serially monitored with CT which showed revolving SAH (Subarachnoid Hemorrhage) and IVH (Intraventricular Hemorrhage).\nPersistent left temporal contusion with surrounding edema, mild mass effect with midline shift which was decreasing.\nOver the last 10 days, patient developed fever which was insidious onset, intermittent, not associated with chills and rigors.\nPatient attendees also gives history of &quot;on and off&quot; episodes of disorientation, altered sleep-wake cycle & history of involuntary passage of stools since 5 days and reduced urine output since 1 day.\nThere was no history of new onset focal limb weakness / seizures / severe headache / vomiting.",
+  "demographics": {
+    "age": 78.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 10.5,
+    "platelets": 234000,
+    "wbc": 10610.0,
+    "esr": 21.0,
+    "bilirubin_total": 1.2,
+    "albumin": 3.2,
+    "ferritin": 402.0,
+    "serum_iron": 50.2,
+    "creatinine": 0.6,
+    "urea": 37.0,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": null,
+    "tsat": 17.5,
+    "ef_percent": null,
+    "sodium": 136.0,
+    "potassium": 3.1,
+    "chloride": 100.0,
+    "sgot": 43.0,
+    "sgpt": 85.0,
+    "alp": 53.0,
+    "ggt": 55.0,
+    "crp": null,
+    "uric_acid": 2.3,
+    "pcv": 30.7,
+    "mcv": 85.8,
+    "rdw": 15.2,
+    "neutrophils_pct": 77.2,
+    "lymphocytes_pct": 8.5
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 0,
+    "serum_iron_missing": 0,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 0,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 0,
+    "hypertension": 1,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 1
+  },
+  "vitals": {
+    "spo2": null,
+    "bp_systolic": 150.0,
+    "bp_diastolic": 80.0,
+    "pulse": 86.0,
+    "respiratory_rate": null,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 2,
+    "cardiac": 0,
+    "respiratory": 0,
+    "renal": 0,
+    "hepatic": 0,
+    "gi": 2,
+    "diabetes": 0
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 1,
+    "multi_organ": 0,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "anemia",
+  "external_features": {
+    "population_dm_prevalence": 0.1
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 2,
+    "specialist": 6
+  },
+  "_source_patient": "H G GIRIYAPPA",
+  "_discharge_file": "KIMS_202604172215866.json",
+  "_n_html_reports": 20,
+  "_admission_labs_used": 20,
+  "_source_type": "matched_pair",
+  "_filename": "H_G_GIRIYAPPA_v3.json"
+}

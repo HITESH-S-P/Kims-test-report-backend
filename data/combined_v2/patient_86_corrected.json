@@ -1,0 +1,139 @@
+{
+  "text_input": "48-year-old female with known hypothyroidism on Thyronorm presented with breathlessness, orthopnea for 10 days, dyspnoea on exertion worsening over 7 days, inability to pass stools for 4 days, and bilateral lower leg swelling for 1 week. Symptoms worsened at night while lying down. Brought to ER on worsening dyspnoea. Newly diagnosed Type 2 Diabetes Mellitus and Pulmonary Hypertension identified on workup. 2D Echo showed EF 55% with moderate mitral regurgitation consistent with Heart Failure with Preserved Ejection Fraction. Iron profile showed low ferritin and low TSAT consistent with iron deficiency. Hospital course revealed anemia secondary to Vitamin B12 deficiency. Symptoms improved with treatment.",
+  "demographics": {
+    "age": 48.0,
+    "gender": 0
+  },
+  "lab_features": {
+    "hemoglobin": 9.5,
+    "platelets": 230000.0,
+    "wbc": 8500.0,
+    "esr": 35.0,
+    "bilirubin_total": 0.6,
+    "albumin": 3.5,
+    "ferritin": 10.5,
+    "serum_iron": 28.2,
+    "creatinine": 0.8,
+    "urea": 22.0,
+    "grbs": 160.0,
+    "bmi": 24.0,
+    "hba1c": 7.2,
+    "tsat": 5.2,
+    "ef_percent": 55.0,
+    "sodium": null,
+    "potassium": null,
+    "chloride": null,
+    "sgot": null,
+    "sgpt": null,
+    "alp": null,
+    "ggt": null,
+    "crp": null,
+    "uric_acid": null,
+    "pcv": null,
+    "mcv": null,
+    "rdw": null,
+    "neutrophils_pct": null,
+    "lymphocytes_pct": null
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 1,
+    "platelets_missing": 1,
+    "wbc_missing": 1,
+    "esr_missing": 1,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 0,
+    "serum_iron_missing": 0,
+    "creatinine_missing": 1,
+    "urea_missing": 1,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 0,
+    "ef_percent_missing": 0,
+    "sodium_missing": 1,
+    "potassium_missing": 1,
+    "chloride_missing": 1,
+    "sgot_missing": 1,
+    "sgpt_missing": 1,
+    "alp_missing": 1,
+    "ggt_missing": 1,
+    "crp_missing": 1,
+    "uric_acid_missing": 1,
+    "pcv_missing": 1,
+    "mcv_missing": 1,
+    "rdw_missing": 1,
+    "neutrophils_pct_missing": 1,
+    "lymphocytes_pct_missing": 1
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 0,
+    "cardiac_disease": 1,
+    "respiratory_disease": 1,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 99.0,
+    "bp_systolic": 110.0,
+    "bp_diastolic": 80.0,
+    "pulse": 95.0,
+    "respiratory_rate": 22.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 1,
+    "alcohol": 0,
+    "smoking": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 0
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 1,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 0,
+    "anemia": 4,
+    "gi": 0,
+    "diabetes": 6,
+    "respiratory": 5,
+    "cardiac": 8,
+    "renal": 1,
+    "hepatic": 0
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 1,
+    "cardiac": 1,
+    "renal": 0,
+    "gi": 0,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "cardiac",
+  "external_features": {
+    "population_dm_prevalence": 0.077
+  },
+  "label_confidence": 0.92,
+  "targets": {
+    "risk_level": 3,
+    "specialist": 1
+  },
+  "_source_type": "discharge_summary",
+  "_filename": "patient_86_corrected.json"
+}

@@ -1,0 +1,28 @@
+{
+  "patient_id": "KIMS_202510141883067",
+  "demographics": {
+    "age": 29,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202510141883067"
+  },
+  "lab_features": {
+    "pcv": 29.4
+  },
+  "lab_printed_ranges": {
+    "pcv": [
+      35.0,
+      50.0
+    ]
+  },
+  "urine_features": {},
+  "lab_timeline": {},
+  "lab_date_used": {
+    "pcv": "unknown"
+  },
+  "peripheral_smear": null,
+  "admission_date": null,
+  "n_reports": 2,
+  "n_labs": 1,
+  "n_urine_fields": 0
+}

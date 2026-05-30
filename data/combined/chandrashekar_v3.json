@@ -1,0 +1,144 @@
+{
+  "text_input": "Patient was apparently normal 6 months back when he developed dyspnea on exertion since 6 months, insidious in onset, progressive in nature, MRC grade 2 (shortness of breath when walking up a slight hill), no C/O orthopnea, platypnea, aggravated on climbing stairs/uphill, relieved on rest.\nC/O B/L lower limb swelling for 15 days, sudden in onset, progressive in nature, in the B/L foot, aggravated on walking.\nOn standing and relieved on lying down flat on rest.\nC/O LEFT LOWER LIMB PAIN for 15 days, sudden in onset, progressive in nature, from foot through to foot, burning type pain.\nNo C/O chest pain, palpitations, hemoptysis, syncope.",
+  "demographics": {
+    "age": 64.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": null,
+    "platelets": null,
+    "wbc": 10040.0,
+    "esr": null,
+    "bilirubin_total": null,
+    "albumin": null,
+    "ferritin": null,
+    "serum_iron": null,
+    "creatinine": null,
+    "urea": null,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": 7.2,
+    "tsat": null,
+    "ef_percent": null,
+    "sodium": 138.0,
+    "potassium": 3.9,
+    "chloride": 100.0,
+    "sgot": null,
+    "sgpt": null,
+    "alp": null,
+    "ggt": null,
+    "crp": null,
+    "uric_acid": null,
+    "pcv": null,
+    "mcv": null,
+    "rdw": null,
+    "neutrophils_pct": 67.5,
+    "lymphocytes_pct": 23.2
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 1,
+    "platelets_missing": 1,
+    "wbc_missing": 0,
+    "esr_missing": 1,
+    "bilirubin_total_missing": 1,
+    "albumin_missing": 1,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 1,
+    "urea_missing": 1,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 0,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 1,
+    "sgpt_missing": 1,
+    "alp_missing": 1,
+    "ggt_missing": 1,
+    "crp_missing": 1,
+    "uric_acid_missing": 1,
+    "pcv_missing": 1,
+    "mcv_missing": 1,
+    "rdw_missing": 1,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 0,
+    "hypertension": 1,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 1
+  },
+  "vitals": {
+    "spo2": 98.0,
+    "bp_systolic": 120.0,
+    "bp_diastolic": 70.0,
+    "pulse": 90.0,
+    "respiratory_rate": null,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 0,
+    "anemia": 0,
+    "cardiac": 0,
+    "respiratory": 0,
+    "renal": 0,
+    "hepatic": 0,
+    "gi": 1,
+    "diabetes": 0
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 0,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 1,
+    "multi_organ": 0,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "gi",
+  "external_features": {
+    "population_dm_prevalence": 0.07
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 2,
+    "specialist": 3
+  },
+  "_source_patient": "chandrashekar",
+  "_discharge_file": "KIMS_202604072198602.json",
+  "_n_html_reports": 9,
+  "_admission_labs_used": 9,
+  "_source_type": "matched_pair",
+  "_filename": "chandrashekar_v3.json"
+}

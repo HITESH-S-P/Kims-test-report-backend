@@ -1,0 +1,45 @@
+{
+  "patient_id": "KIMS_20240927904667",
+  "demographics": {
+    "age": 49,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "20240927904667"
+  },
+  "lab_features": {
+    "ferritin": 6.13,
+    "serum_iron": 14.8
+  },
+  "lab_printed_ranges": {
+    "ferritin": [
+      10.0,
+      291.0
+    ],
+    "serum_iron": [
+      37.0,
+      158.0
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.005,
+    "urine_ph": 5.0,
+    "urine_protein": 0,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "ferritin": "unknown",
+    "serum_iron": "unknown"
+  },
+  "peripheral_smear": null,
+  "admission_date": null,
+  "n_reports": 3,
+  "n_labs": 2,
+  "n_urine_fields": 10
+}

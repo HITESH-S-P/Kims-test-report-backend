@@ -1,0 +1,99 @@
+{
+  "patient_id": "KIMS_202512061989299",
+  "demographics": {
+    "age": 38,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202512061989299"
+  },
+  "lab_features": {
+    "hemoglobin": 11.3,
+    "wbc": 10750.0,
+    "neutrophils_pct": 76.0,
+    "lymphocytes_pct": 22.0,
+    "pcv": 37.2,
+    "mcv": 83.2,
+    "mch": 25.3,
+    "mchc": 30.4,
+    "rdw": 13.3,
+    "platelets": 323000,
+    "esr": 17.0
+  },
+  "lab_printed_ranges": {
+    "hemoglobin": [
+      11.5,
+      16.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "pcv": [
+      35.0,
+      50.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.01,
+    "urine_ph": 7.0,
+    "urine_protein": 0,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "esr": "unknown"
+  },
+  "peripheral_smear": ". RBCs Normocytic normochromic WBCs are normal  in number with  relative  increase in neutrophils  and  normal in morphology. PLATELET Adequate. NO ABNORMAL CELLS SEEN . IMPRESSION NORMOCYTIC  NORMOCHROMIC  ANEMIA  WITH  RELATIVE  NEUTROPHILIA. GROUPING AND TYPING BLOOD GROUP (Method-Manual(Slide Method)) A RH TYPING (Method-Manual(Slide Method)) POSITIVE",
+  "admission_date": null,
+  "n_reports": 2,
+  "n_labs": 11,
+  "n_urine_fields": 10
+}

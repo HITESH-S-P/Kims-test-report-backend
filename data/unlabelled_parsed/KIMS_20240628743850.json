@@ -1,0 +1,34 @@
+{
+  "patient_id": "KIMS_20240628743850",
+  "demographics": {
+    "age": 23,
+    "gender": 1,
+    "patient_type": null,
+    "uhid": "20240628743850"
+  },
+  "lab_features": {
+    "pcv": 46.1,
+    "platelets": 92000
+  },
+  "lab_printed_ranges": {
+    "pcv": [
+      40.0,
+      55.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ]
+  },
+  "urine_features": {},
+  "lab_timeline": {},
+  "lab_date_used": {
+    "pcv": "unknown",
+    "platelets": "unknown"
+  },
+  "peripheral_smear": null,
+  "admission_date": null,
+  "n_reports": 4,
+  "n_labs": 2,
+  "n_urine_fields": 0
+}

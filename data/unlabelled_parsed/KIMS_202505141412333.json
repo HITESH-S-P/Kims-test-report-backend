@@ -1,0 +1,105 @@
+{
+  "patient_id": "KIMS_202505141412333",
+  "demographics": {
+    "age": 28,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202505141412333"
+  },
+  "lab_features": {
+    "hemoglobin": 11.2,
+    "wbc": 10530.0,
+    "neutrophils_pct": 70.0,
+    "lymphocytes_pct": 20.0,
+    "pcv": 35.1,
+    "mcv": 89.8,
+    "mch": 28.6,
+    "mchc": 31.9,
+    "rdw": 14.4,
+    "platelets": 188000,
+    "esr": 43.0,
+    "hba1c": 5.6
+  },
+  "lab_printed_ranges": {
+    "hemoglobin": [
+      11.5,
+      16.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "pcv": [
+      35.0,
+      50.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ],
+    "hba1c": [
+      4.8,
+      5.6
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.02,
+    "urine_ph": 7.0,
+    "urine_protein": 0,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 1
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "esr": "unknown",
+    "hba1c": "unknown"
+  },
+  "peripheral_smear": ". RBCs are normocytic  normochromic. WBCs are normal in number and morphology. Mild shift to left seen. PLATELET are adequate. NO ABNORMAL CELLS SEEN . IMPRESSION NORMOCYTIC NORMOCHROMIC ANEMIA.",
+  "admission_date": null,
+  "n_reports": 5,
+  "n_labs": 12,
+  "n_urine_fields": 10
+}

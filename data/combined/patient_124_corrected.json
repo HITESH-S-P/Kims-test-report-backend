@@ -1,0 +1,139 @@
+{
+  "text_input": "Patient presented with yellowish discolouration of eyes, skin over trunk and abdomen for 7 days, associated with high colored urine, clay colored stool, and itching. Reported loose stools for 4 days (3-4 episodes/day, semi-formed, no blood) and abdominal discomfort in the right upper quadrant. History of DCLD with Portal HTN and esophageal varices (2023). Physical exam revealed icterus and shifting dullness. Diagnosed with Decompensated Chronic Liver Parenchymal Disease, Portal Hypertension, Grade 1 Esophageal Varices, Grade 2 Internal Hemorrhoids, Minimal Hepatic Encephalopathy (resolved), and Acute Kidney Injury (resolved). Chronic alcoholic.",
+  "demographics": {
+    "age": 52.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 12.1,
+    "platelets": 79000.0,
+    "wbc": 8030.0,
+    "esr": 15.0,
+    "bilirubin_total": 4.5,
+    "albumin": 2.5,
+    "ferritin": 150.0,
+    "serum_iron": 80.0,
+    "creatinine": 1.5,
+    "urea": 42.0,
+    "grbs": 90.0,
+    "bmi": 24.0,
+    "hba1c": 5.4,
+    "tsat": 23.0,
+    "ef_percent": 60.0,
+    "sodium": null,
+    "potassium": null,
+    "chloride": null,
+    "sgot": null,
+    "sgpt": null,
+    "alp": null,
+    "ggt": null,
+    "crp": null,
+    "uric_acid": null,
+    "pcv": null,
+    "mcv": null,
+    "rdw": null,
+    "neutrophils_pct": null,
+    "lymphocytes_pct": null
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 1,
+    "bilirubin_total_missing": 1,
+    "albumin_missing": 1,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 1,
+    "ef_percent_missing": 0,
+    "sodium_missing": 1,
+    "potassium_missing": 1,
+    "chloride_missing": 1,
+    "sgot_missing": 1,
+    "sgpt_missing": 1,
+    "alp_missing": 1,
+    "ggt_missing": 1,
+    "crp_missing": 1,
+    "uric_acid_missing": 1,
+    "pcv_missing": 1,
+    "mcv_missing": 1,
+    "rdw_missing": 1,
+    "neutrophils_pct_missing": 1,
+    "lymphocytes_pct_missing": 1
+  },
+  "comorbidities": {
+    "diabetes": 0,
+    "hypertension": 1,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 1,
+    "hepatic_disease": 1,
+    "urological_condition": 0,
+    "neurological_condition": 1
+  },
+  "vitals": {
+    "spo2": 97.0,
+    "bp_systolic": 120.0,
+    "bp_diastolic": 70.0,
+    "pulse": 90.0,
+    "respiratory_rate": 18.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 1,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "alcohol": 1,
+    "smoking": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 0
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 0,
+    "gi": 1,
+    "diabetes": 0,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 1,
+    "hepatic": 1
+  },
+  "organ_involvement": {
+    "hepatic": 1,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 1,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 1,
+    "hypoalbuminemia": 1
+  },
+  "primary_condition": "hepatic",
+  "external_features": {
+    "population_dm_prevalence": 0.445
+  },
+  "label_confidence": 0.95,
+  "targets": {
+    "risk_level": 3,
+    "specialist": 9
+  },
+  "_source_type": "discharge_summary",
+  "_filename": "patient_124_corrected.json"
+}

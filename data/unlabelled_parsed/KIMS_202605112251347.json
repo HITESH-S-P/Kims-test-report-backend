@@ -1,0 +1,75 @@
+{
+  "patient_id": "KIMS_202605112251347",
+  "demographics": {
+    "age": 45,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202605112251347"
+  },
+  "lab_features": {
+    "sodium": 132.0,
+    "potassium": 5.3,
+    "chloride": 101.0,
+    "grbs": 96.0,
+    "hba1c": 8.5,
+    "urea": 24.0,
+    "creatinine": 0.6
+  },
+  "lab_printed_ranges": {
+    "sodium": [
+      136.0,
+      145.0
+    ],
+    "potassium": [
+      3.5,
+      5.1
+    ],
+    "chloride": [
+      98.0,
+      107.0
+    ],
+    "grbs": [
+      70.0,
+      109.0
+    ],
+    "hba1c": [
+      4.8,
+      5.6
+    ],
+    "urea": [
+      17.0,
+      48.0
+    ],
+    "creatinine": [
+      0.5,
+      0.9
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.015,
+    "urine_ph": 6.0,
+    "urine_protein": 0,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 1,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "sodium": "unknown",
+    "potassium": "unknown",
+    "chloride": "unknown",
+    "grbs": "unknown",
+    "hba1c": "unknown",
+    "urea": "unknown",
+    "creatinine": "unknown"
+  },
+  "peripheral_smear": null,
+  "admission_date": null,
+  "n_reports": 4,
+  "n_labs": 7,
+  "n_urine_fields": 10
+}

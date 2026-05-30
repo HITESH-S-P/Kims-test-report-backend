@@ -1,0 +1,111 @@
+{
+  "patient_id": "KIMS_202603252177833",
+  "demographics": {
+    "age": 4,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202603252177833"
+  },
+  "lab_features": {
+    "hemoglobin": 9.7,
+    "wbc": 4470.0,
+    "neutrophils_pct": 60.0,
+    "lymphocytes_pct": 35.0,
+    "pcv": 31.2,
+    "mcv": 66.1,
+    "mch": 20.6,
+    "mchc": 31.1,
+    "rdw": 19.6,
+    "platelets": 177000,
+    "esr": 23.0,
+    "urea": 18.0,
+    "creatinine": 0.4
+  },
+  "lab_printed_ranges": {
+    "hemoglobin": [
+      11.0,
+      15.0
+    ],
+    "wbc": [
+      5000.0,
+      15000.0
+    ],
+    "neutrophils_pct": [
+      35.0,
+      55.0
+    ],
+    "lymphocytes_pct": [
+      45.0,
+      60.0
+    ],
+    "pcv": [
+      35.0,
+      45.0
+    ],
+    "mcv": [
+      75.0,
+      85.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ],
+    "urea": [
+      17.0,
+      48.0
+    ],
+    "creatinine": [
+      0.5,
+      0.9
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.025,
+    "urine_ph": 6.0,
+    "urine_protein": 1,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 1,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "esr": "unknown",
+    "urea": "unknown",
+    "creatinine": "unknown"
+  },
+  "peripheral_smear": ". RBCs Shows moderate anisopoikilocytosis with hypochromia.Seen are microcytes admixed with normocytes.Also seen are target cells and elliptocytes. WBCs are normal in number,distribution and morphology PLATELET are adequate. IMPRESSION MICROCYTIC HYPOCHROMIC ANEMIA NOTE BETA THAL TRAIT POSITIVE",
+  "admission_date": null,
+  "n_reports": 2,
+  "n_labs": 13,
+  "n_urine_fields": 10
+}

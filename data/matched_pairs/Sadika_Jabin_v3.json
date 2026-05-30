@@ -1,0 +1,142 @@
+{
+  "text_input": "Patient was apparently normal 1 month ago when she developed headache, insidious onset, diffuse type, on and off, more over L parietal region. No aggravating or relieving factors. Patient c/o giddiness x 3 days, insidious onset, not associated with photophobia, phonophobia, not also ringing sensation in ears. Patient c/o increased thirst and increase frequency of micturition x 3 days. No aggravating or relieving factors. No c/o fever, chest pain, breathlessness No c/o loss of consciousness No c/o abnormal limb movements No c/o blurring of vision No c/o ear pain, ear discharge No c/o ringing sensation of ears",
+  "demographics": {
+    "age": 49.0,
+    "gender": 0
+  },
+  "lab_features": {
+    "hemoglobin": null,
+    "platelets": null,
+    "wbc": 5890.0,
+    "esr": null,
+    "bilirubin_total": 0.2,
+    "albumin": 4.3,
+    "ferritin": null,
+    "serum_iron": null,
+    "creatinine": 0.4,
+    "urea": 11.0,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": null,
+    "tsat": null,
+    "ef_percent": null,
+    "sodium": 133.0,
+    "potassium": 4.4,
+    "chloride": 98.0,
+    "sgot": 29.0,
+    "sgpt": 21.0,
+    "alp": 56.0,
+    "ggt": 29.0,
+    "crp": null,
+    "uric_acid": 2.4,
+    "pcv": null,
+    "mcv": null,
+    "rdw": null,
+    "neutrophils_pct": 47.5,
+    "lymphocytes_pct": 40.9
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 1,
+    "platelets_missing": 1,
+    "wbc_missing": 0,
+    "esr_missing": 1,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 1,
+    "mcv_missing": 1,
+    "rdw_missing": 1,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 1,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 97.0,
+    "bp_systolic": 160.0,
+    "bp_diastolic": 110.0,
+    "pulse": 90.0,
+    "respiratory_rate": 18.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 1,
+    "antibiotics": 0,
+    "analgesics": 1,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 1,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 0,
+    "cardiac": 0,
+    "respiratory": 0,
+    "renal": 0,
+    "hepatic": 0,
+    "gi": 1,
+    "diabetes": 2
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 0,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 0,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "diabetes",
+  "external_features": {
+    "population_dm_prevalence": 0.25
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 2,
+    "specialist": 7
+  },
+  "_source_patient": "Sadika Jabin",
+  "_discharge_file": "discharge_150.json",
+  "_n_html_reports": 5,
+  "_admission_labs_used": 5
+}

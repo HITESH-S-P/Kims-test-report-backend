@@ -1,0 +1,72 @@
+{
+  "fold_results": [
+    {
+      "condition_f1": 0.6015,
+      "risk_acc": 0.7917,
+      "organ_f1": 0.5678,
+      "health_acc": 0.9898,
+      "sick_recall": 0.9896,
+      "combined": 0.7377
+    },
+    {
+      "condition_f1": 0.6597,
+      "risk_acc": 0.7812,
+      "organ_f1": 0.5352,
+      "health_acc": 1.0,
+      "sick_recall": 1.0,
+      "combined": 0.744
+    },
+    {
+      "condition_f1": 0.5558,
+      "risk_acc": 0.7604,
+      "organ_f1": 0.6505,
+      "health_acc": 1.0,
+      "sick_recall": 1.0,
+      "combined": 0.7417
+    },
+    {
+      "condition_f1": 0.6684,
+      "risk_acc": 0.6562,
+      "organ_f1": 0.57,
+      "health_acc": 1.0,
+      "sick_recall": 1.0,
+      "combined": 0.7237
+    },
+    {
+      "condition_f1": 0.5296,
+      "risk_acc": 0.7053,
+      "organ_f1": 0.5479,
+      "health_acc": 1.0,
+      "sick_recall": 1.0,
+      "combined": 0.6957
+    }
+  ],
+  "average": {
+    "condition_f1": 0.603,
+    "risk_acc": 0.739,
+    "organ_f1": 0.5743,
+    "health_acc": 0.998,
+    "sick_recall": 0.9979,
+    "combined": 0.7286
+  },
+  "std": {
+    "condition_f1": 0.055,
+    "risk_acc": 0.051,
+    "organ_f1": 0.0402,
+    "health_acc": 0.0041,
+    "sick_recall": 0.0042,
+    "combined": 0.0179
+  },
+  "ensemble_metrics": {
+    "condition_f1": 0.7666,
+    "risk_acc": 0.8038,
+    "organ_f1": 0.5896,
+    "health_acc": 1.0,
+    "sick_recall": 1.0,
+    "combined": 0.79
+  },
+  "n_patients": 486,
+  "n_sick": 479,
+  "n_healthy": 7,
+  "input_dim": 85
+}

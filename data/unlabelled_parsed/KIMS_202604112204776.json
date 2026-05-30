@@ -1,0 +1,117 @@
+{
+  "patient_id": "KIMS_202604112204776",
+  "demographics": {
+    "age": 2,
+    "gender": 1,
+    "patient_type": null,
+    "uhid": "202604112204776"
+  },
+  "lab_features": {
+    "hemoglobin": 11.7,
+    "wbc": 3690.0,
+    "neutrophils_pct": 68.0,
+    "lymphocytes_pct": 27.0,
+    "pcv": 34.1,
+    "mcv": 81.6,
+    "mch": 28.0,
+    "mchc": 34.3,
+    "rdw": 12.3,
+    "platelets": 246000,
+    "esr": 4.0,
+    "sodium": 133.0,
+    "potassium": 4.4,
+    "chloride": 103.0
+  },
+  "lab_printed_ranges": {
+    "hemoglobin": [
+      11.0,
+      15.0
+    ],
+    "wbc": [
+      5000.0,
+      15000.0
+    ],
+    "neutrophils_pct": [
+      35.0,
+      55.0
+    ],
+    "lymphocytes_pct": [
+      45.0,
+      60.0
+    ],
+    "pcv": [
+      35.0,
+      45.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "esr": [
+      0.0,
+      15.0
+    ],
+    "sodium": [
+      136.0,
+      145.0
+    ],
+    "potassium": [
+      3.5,
+      5.1
+    ],
+    "chloride": [
+      98.0,
+      107.0
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.03,
+    "urine_ph": 5.0,
+    "urine_protein": 0,
+    "urine_glucose": 0,
+    "urine_ketones": 1,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "esr": "unknown",
+    "sodium": "unknown",
+    "potassium": "unknown",
+    "chloride": "unknown"
+  },
+  "peripheral_smear": ". RBCs Normocytic normochromic WBCs are decreased in number with reactive lymphocytes seen. PLATELET are adequate NO ABNORMAL CELLS SEEN . IMPRESSION NORMOCYTIC  NORMOCHROMIC  BLOOD  PICTURE  WITH  LEUCOPENIA",
+  "admission_date": null,
+  "n_reports": 6,
+  "n_labs": 14,
+  "n_urine_fields": 10
+}

@@ -1,0 +1,69 @@
+{
+  "patient_id": "KIMS_202508061692757",
+  "demographics": {
+    "age": 29,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202508061692757"
+  },
+  "lab_features": {
+    "platelets": 218000,
+    "urea": 10.0,
+    "creatinine": 0.7,
+    "uric_acid": 1.7,
+    "sgot": 24.0,
+    "sgpt": 12.0
+  },
+  "lab_printed_ranges": {
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "urea": [
+      17.0,
+      48.0
+    ],
+    "creatinine": [
+      0.5,
+      0.9
+    ],
+    "uric_acid": [
+      2.3,
+      6.1
+    ],
+    "sgot": [
+      5.0,
+      40.0
+    ],
+    "sgpt": [
+      5.0,
+      40.0
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.02,
+    "urine_ph": 6.0,
+    "urine_protein": 0,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "platelets": "unknown",
+    "urea": "unknown",
+    "creatinine": "unknown",
+    "uric_acid": "unknown",
+    "sgot": "unknown",
+    "sgpt": "unknown"
+  },
+  "peripheral_smear": null,
+  "admission_date": null,
+  "n_reports": 7,
+  "n_labs": 6,
+  "n_urine_fields": 10
+}

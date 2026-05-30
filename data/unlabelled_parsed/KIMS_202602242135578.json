@@ -1,0 +1,141 @@
+{
+  "patient_id": "KIMS_202602242135578",
+  "demographics": {
+    "age": 50,
+    "gender": 1,
+    "patient_type": null,
+    "uhid": "202602242135578"
+  },
+  "lab_features": {
+    "hemoglobin": 10.8,
+    "wbc": 28350.0,
+    "neutrophils_pct": 78.0,
+    "lymphocytes_pct": 11.0,
+    "pcv": 33.6,
+    "mcv": 85.7,
+    "mch": 27.6,
+    "mchc": 32.1,
+    "rdw": 16.4,
+    "platelets": 235000,
+    "sodium": 123.0,
+    "potassium": 5.2,
+    "chloride": 90.0,
+    "urea": 158.0,
+    "creatinine": 1.8,
+    "uric_acid": 10.9,
+    "esr": 103.0
+  },
+  "lab_printed_ranges": {
+    "hemoglobin": [
+      13.0,
+      18.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "pcv": [
+      40.0,
+      55.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "sodium": [
+      136.0,
+      145.0
+    ],
+    "potassium": [
+      3.5,
+      5.1
+    ],
+    "chloride": [
+      98.0,
+      107.0
+    ],
+    "urea": [
+      17.0,
+      48.0
+    ],
+    "creatinine": [
+      0.7,
+      1.2
+    ],
+    "uric_acid": [
+      3.6,
+      7.0
+    ],
+    "esr": [
+      0.0,
+      15.0
+    ]
+  },
+  "urine_features": {
+    "urine_ketones": 0,
+    "urine_specific_gravity": 1.025,
+    "urine_ph": 5.0,
+    "urine_glucose": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_nitrite": 0,
+    "urine_pus_cells": 79.0,
+    "urine_epithelial_cells": 1.0,
+    "urine_rbc": 313.0,
+    "urine_casts": 0,
+    "urine_crystals": 0,
+    "urine_bacteria": 0,
+    "urine_protein": 0,
+    "urine_blood": 0,
+    "urine_leucocytes": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "sodium": "unknown",
+    "potassium": "unknown",
+    "chloride": "unknown",
+    "urea": "unknown",
+    "creatinine": "unknown",
+    "uric_acid": "unknown",
+    "esr": "unknown"
+  },
+  "peripheral_smear": ". RBCs are normocytic  normochromic. WBCs are increased in number with absolute increase in neutrophils . Few neutrophils show toxic granules. PLATELET are adequate NO ABNORMAL CELLS SEEN . IMPRESSION NORMOCYTIC NORMOCHROMIC ANEMIA  WITH NEUTROPHILIC  LEUCOCYTOSIS. GROUPING AND TYPING BLOOD GROUP (Method-Manual(Slide Method)) B RH TYPING (Method-Manual(Slide Method)) POSITIVE",
+  "admission_date": null,
+  "n_reports": 43,
+  "n_labs": 17,
+  "n_urine_fields": 16
+}

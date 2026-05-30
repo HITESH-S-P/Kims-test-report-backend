@@ -1,0 +1,235 @@
+{
+  "patient_id": "KIMS_202604182217230",
+  "demographics": {
+    "age": 55,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202604182217230"
+  },
+  "lab_features": {
+    "sodium": 130.0,
+    "potassium": 3.8,
+    "chloride": 99.0,
+    "pcv": 27.3,
+    "platelets": 24000,
+    "hemoglobin": 8.5,
+    "wbc": 5120.0,
+    "neutrophils_pct": 29.0,
+    "lymphocytes_pct": 41.0,
+    "mcv": 83.6,
+    "mch": 25.8,
+    "mchc": 30.9,
+    "rdw": 17.2,
+    "urea": 10.0,
+    "creatinine": 0.6,
+    "uric_acid": 2.3,
+    "cholesterol_total": 100.0,
+    "triglycerides": 97.0,
+    "hdl": 20.0,
+    "ldl": 65.0,
+    "thyroid_t3": 102.0,
+    "thyroid_t4": 10.1,
+    "thyroid_tsh": 2.18,
+    "serum_iron": 25.0,
+    "ferritin": 433.0,
+    "tsat": 16.0,
+    "bilirubin_total": 0.7,
+    "direct_bilirubin": 0.3,
+    "sgot": 22.0,
+    "sgpt": 21.0,
+    "alp": 84.0,
+    "total_protein": 8.4,
+    "albumin": 2.8,
+    "ggt": 32.0,
+    "esr": 127.0
+  },
+  "lab_printed_ranges": {
+    "sodium": [
+      136.0,
+      145.0
+    ],
+    "potassium": [
+      3.5,
+      5.1
+    ],
+    "chloride": [
+      98.0,
+      107.0
+    ],
+    "pcv": [
+      35.0,
+      50.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "hemoglobin": [
+      11.5,
+      16.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "urea": [
+      17.0,
+      48.0
+    ],
+    "creatinine": [
+      0.5,
+      0.9
+    ],
+    "uric_acid": [
+      2.3,
+      6.1
+    ],
+    "cholesterol_total": [
+      125.0,
+      200.0
+    ],
+    "triglycerides": [
+      50.0,
+      150.0
+    ],
+    "hdl": [
+      40.0,
+      60.0
+    ],
+    "ldl": [
+      70.0,
+      130.0
+    ],
+    "thyroid_t3": [
+      80.0,
+      200.0
+    ],
+    "thyroid_t4": [
+      5.1,
+      14.1
+    ],
+    "thyroid_tsh": [
+      0.27,
+      4.2
+    ],
+    "serum_iron": [
+      37.0,
+      158.0
+    ],
+    "ferritin": [
+      30.0,
+      400.0
+    ],
+    "tsat": [
+      16.0,
+      45.0
+    ],
+    "bilirubin_total": [
+      0.2,
+      1.1
+    ],
+    "sgot": [
+      5.0,
+      40.0
+    ],
+    "sgpt": [
+      5.0,
+      40.0
+    ],
+    "alp": [
+      105.0,
+      130.0
+    ],
+    "total_protein": [
+      6.4,
+      8.3
+    ],
+    "albumin": [
+      3.5,
+      5.2
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.01,
+    "urine_ph": 5.0,
+    "urine_protein": 0,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "sodium": "unknown",
+    "potassium": "unknown",
+    "chloride": "unknown",
+    "pcv": "unknown",
+    "platelets": "unknown",
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "urea": "unknown",
+    "creatinine": "unknown",
+    "uric_acid": "unknown",
+    "cholesterol_total": "unknown",
+    "triglycerides": "unknown",
+    "hdl": "unknown",
+    "ldl": "unknown",
+    "thyroid_t3": "unknown",
+    "thyroid_t4": "unknown",
+    "thyroid_tsh": "unknown",
+    "serum_iron": "unknown",
+    "ferritin": "unknown",
+    "tsat": "unknown",
+    "bilirubin_total": "unknown",
+    "direct_bilirubin": "unknown",
+    "sgot": "unknown",
+    "sgpt": "unknown",
+    "alp": "unknown",
+    "total_protein": "unknown",
+    "albumin": "unknown",
+    "ggt": "unknown",
+    "esr": "unknown"
+  },
+  "peripheral_smear": ". RBCs shows moderate anisopoikilocytosis and hypochromia. Seen are microcytes admixed with normocytes and few macro ovalocytes. Also seen are elliptocytes, taer drop cells, target cells. Few polychromatophilic cells seen. WBCs are normal in number,distribution. Few hyposegmented, hypogranular neutrophils (bilobed neutrophils) noted. PLATELET are reduced, large platelets seen. NO ABNORMAL CELLS SEEN . IMPRESSION DIMORPHIC ANEMIA WITH THROMBOCYTOPENIA. GROUPING AND TYPING BLOOD GROUP (Method-Manual(Slide Method)) \" O \" RH TYPING (Method-Manual(Slide Method)) POSITIVE RETICULOCYTE COUNT RETICULOCYTE COUNT (Method-Manual(Supravital staining)) 3.90 % 0.5-2.0",
+  "admission_date": null,
+  "n_reports": 36,
+  "n_labs": 35,
+  "n_urine_fields": 10
+}

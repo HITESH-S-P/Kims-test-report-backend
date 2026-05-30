@@ -1,0 +1,144 @@
+{
+  "text_input": "Patient was apparently alright 1 month back when she developed pain in left lumbar region, insidious onset, gradually progressive. The pain is described as dull aching in nature, non-radiating and aggravated by changing position and movement, with partial relief on rest.\nThere is no history of trauma, swelling, redness or similar complaints in the past.\nAround 10 days back, patient developed fever with chills. Acute onset, intermittent in nature, high grade, associated with chills but no rigors. Not associated with any diurnal variation and temporarily relieved on taking antipyretics (Dolo).\n\nOne day prior to presentation, patient had 2 episodes of vomiting, non-bilious, non-projectile, containing food particles, not blood-stained and not associated with loose stools.\n1 day back Patient also noticed one episode of passage of fresh blood per rectum, not mixed with stool and Associated with pain during defecation.\nNo h/o cough/expectoration/breathlessness/burning micturition/ increased frequency of urination/hematuria",
+  "demographics": {
+    "age": 74.0,
+    "gender": 0
+  },
+  "lab_features": {
+    "hemoglobin": 8.6,
+    "platelets": 158000,
+    "wbc": 13250.0,
+    "esr": 52.0,
+    "bilirubin_total": 0.4,
+    "albumin": 2.0,
+    "ferritin": 335.0,
+    "serum_iron": 12.0,
+    "creatinine": 1.7,
+    "urea": 36.0,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": null,
+    "tsat": null,
+    "ef_percent": null,
+    "sodium": 133.0,
+    "potassium": 4.0,
+    "chloride": 101.0,
+    "sgot": 92.0,
+    "sgpt": 60.0,
+    "alp": 95.0,
+    "ggt": 114.0,
+    "crp": null,
+    "uric_acid": 6.6,
+    "pcv": 27.0,
+    "mcv": 91.2,
+    "rdw": 15.3,
+    "neutrophils_pct": 80.0,
+    "lymphocytes_pct": 10.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 0,
+    "serum_iron_missing": 0,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 0,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": null,
+    "bp_systolic": null,
+    "bp_diastolic": null,
+    "pulse": 110.0,
+    "respiratory_rate": null,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 1,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 1,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 4,
+    "anemia": 6,
+    "cardiac": 0,
+    "respiratory": 0,
+    "renal": 2,
+    "hepatic": 1,
+    "gi": 6,
+    "diabetes": 0
+  },
+  "organ_involvement": {
+    "hepatic": 1,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 1,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 1,
+    "multi_organ": 1,
+    "hypoalbuminemia": 1
+  },
+  "primary_condition": "anemia",
+  "external_features": {
+    "population_dm_prevalence": 0.1
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 3,
+    "specialist": 6
+  },
+  "_source_patient": "parvathi",
+  "_discharge_file": "KIMS_202604072197260.json",
+  "_n_html_reports": 15,
+  "_admission_labs_used": 15,
+  "_source_type": "matched_pair",
+  "_filename": "parvathi_v3.json"
+}

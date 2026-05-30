@@ -1,0 +1,142 @@
+{
+  "text_input": "Patient was apparently normal 4 days ago then he developed abdominal distension insidious in onset and gradually progressive ,associated with pain and decreased urine output. No aggravating or relieving factors. Patient also complains of loose stools since 4 days insidious onset, small quantity, non blood stained, non mucous stained, semi solid, non foul smelling 5-6 episodes per day, not associated with pain. No aggravating or relieving factors. Patient also complains of vomiting since 4 days, non projectile, watery, non bilious 10 episodes , non blood tinged, non foul smelling . No aggravating and relieving factors. Patient complaints of decreased urination since 1 day insidious onset , progressed from 100-250ml per day on 1st march 2026 to no urine output on 2nd march 2026. Patient was taken to outside hospital and later referred to KIMS, Bangalore . No complaints of abdominal pain No complaints of dysphagia No c/o yellowish discolouration of eyes No c/o of fever  No c/o edema No c/o of chest pain No c/o of breathlessness  No c/o of orthopnea and PND NO c/o of palpitations  No c/o of hemoptysis No c/o of syncope",
+  "demographics": {
+    "age": 36.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 13.6,
+    "platelets": 69000,
+    "wbc": 11860.0,
+    "esr": null,
+    "bilirubin_total": 1.7,
+    "albumin": 3.6,
+    "ferritin": null,
+    "serum_iron": null,
+    "creatinine": 1.0,
+    "urea": 43.0,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": null,
+    "tsat": null,
+    "ef_percent": null,
+    "sodium": 142.0,
+    "potassium": 5.7,
+    "chloride": 108.0,
+    "sgot": 1895.0,
+    "sgpt": 2718.0,
+    "alp": 136.0,
+    "ggt": 211.0,
+    "crp": null,
+    "uric_acid": 11.2,
+    "pcv": 41.2,
+    "mcv": 89.1,
+    "rdw": 17.1,
+    "neutrophils_pct": 60.3,
+    "lymphocytes_pct": 31.2
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 1,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 0,
+    "hypertension": 0,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 98.0,
+    "bp_systolic": 130.0,
+    "bp_diastolic": 60.0,
+    "pulse": 79.0,
+    "respiratory_rate": 18.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "smoking": 0,
+    "alcohol": 1,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 6,
+    "anemia": 1,
+    "cardiac": 0,
+    "respiratory": 0,
+    "renal": 0,
+    "hepatic": 3,
+    "gi": 2,
+    "diabetes": 0
+  },
+  "organ_involvement": {
+    "hepatic": 1,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "infection",
+  "external_features": {
+    "population_dm_prevalence": 0.05
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 3,
+    "specialist": 10
+  },
+  "_source_patient": "DHANANJAYA",
+  "_discharge_file": "discharge_34.json",
+  "_n_html_reports": 19,
+  "_admission_labs_used": 19
+}

@@ -1,0 +1,144 @@
+{
+  "text_input": "Patient was in her usual state of health until today morning after visiting her regular maintained hemodialysis at hospital during dialysis after 3 hours of hemodialysis, patient had ℅ fever with chills and rigor temperature recorded 101 degree F which relieved work I.V antipyretics.  After 1 hour after completion of 4 hours of hemodialysis at around 4pm, patient had sudden onset shortness of breath for noisy breathing for which she was given O2 supplementation via face mask, soon after which patient had sudden onset loss of consciousness for airway protection - intubated and connected to ventilator support - shifted to ICU for future treatment. Patient attenders did not notice any involuntary movement of limbs. But bleed was noticed at site of intubation. Patient then shifted to higher centre for continuation of ICU care- referred for KIMS.",
+  "demographics": {
+    "age": 76.0,
+    "gender": 0
+  },
+  "lab_features": {
+    "hemoglobin": 11.1,
+    "platelets": 46000,
+    "wbc": 6700.0,
+    "esr": 65.0,
+    "bilirubin_total": null,
+    "albumin": 2.7,
+    "ferritin": 1047.0,
+    "serum_iron": 152.0,
+    "creatinine": 2.2,
+    "urea": 21.0,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": null,
+    "tsat": 89.1,
+    "ef_percent": null,
+    "sodium": 139.0,
+    "potassium": 3.2,
+    "chloride": 103.0,
+    "sgot": null,
+    "sgpt": null,
+    "alp": null,
+    "ggt": null,
+    "crp": null,
+    "uric_acid": 2.1,
+    "pcv": 36.3,
+    "mcv": 94.3,
+    "rdw": 17.5,
+    "neutrophils_pct": 70.0,
+    "lymphocytes_pct": 20.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 1,
+    "albumin_missing": 0,
+    "ferritin_missing": 0,
+    "serum_iron_missing": 0,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 0,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 1,
+    "sgpt_missing": 1,
+    "alp_missing": 1,
+    "ggt_missing": 1,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 1,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 1,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 1
+  },
+  "vitals": {
+    "spo2": 100.0,
+    "bp_systolic": 120.0,
+    "bp_diastolic": 70.0,
+    "pulse": 95.0,
+    "respiratory_rate": null,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 0,
+    "analgesics": 1,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 1,
+    "smoking": 1,
+    "alcohol": 1,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 0
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 5,
+    "anemia": 3,
+    "cardiac": 0,
+    "respiratory": 0,
+    "renal": 5,
+    "hepatic": 0,
+    "gi": 1,
+    "diabetes": 2
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 1,
+    "gi": 0,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 1,
+    "multi_organ": 0,
+    "hypoalbuminemia": 1
+  },
+  "primary_condition": "infection",
+  "external_features": {
+    "population_dm_prevalence": 0.05
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 3,
+    "specialist": 10
+  },
+  "_source_patient": "RAMANI",
+  "_discharge_file": "discharge_138.json",
+  "_n_html_reports": 62,
+  "_admission_labs_used": 62,
+  "_source_type": "matched_pair",
+  "_filename": "RAMANI_v3.json"
+}

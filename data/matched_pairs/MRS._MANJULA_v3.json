@@ -1,0 +1,142 @@
+{
+  "text_input": "The patient was apparently alright, 1 month back. Easy fatigability, insidious Onset, gradually progressive, present throughout the day. Increases on doing routine activities. Not relieved on taking rest. No H/O Hematemesis, melena/blood stool, epistasis, chronic diarrhea, gum bleed.  no Abdomen pain.",
+  "demographics": {
+    "age": 52.0,
+    "gender": 0
+  },
+  "lab_features": {
+    "hemoglobin": 2.9,
+    "platelets": 137000,
+    "wbc": 2550.0,
+    "esr": null,
+    "bilirubin_total": 2.9,
+    "albumin": 3.5,
+    "ferritin": 5.29,
+    "serum_iron": 14.5,
+    "creatinine": 0.4,
+    "urea": 9.0,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": 4.8,
+    "tsat": null,
+    "ef_percent": null,
+    "sodium": 134.0,
+    "potassium": 3.7,
+    "chloride": 102.0,
+    "sgot": 56.0,
+    "sgpt": 27.0,
+    "alp": 117.0,
+    "ggt": 37.0,
+    "crp": null,
+    "uric_acid": 4.7,
+    "pcv": 11.7,
+    "mcv": 60.3,
+    "rdw": 22.4,
+    "neutrophils_pct": 58.0,
+    "lymphocytes_pct": 36.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 1,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 0,
+    "serum_iron_missing": 0,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 0,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 0,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 99.0,
+    "bp_systolic": 120.0,
+    "bp_diastolic": 70.0,
+    "pulse": 120.0,
+    "respiratory_rate": 20.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 1,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 1,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 7,
+    "cardiac": 0,
+    "respiratory": 0,
+    "renal": 1,
+    "hepatic": 0,
+    "gi": 2,
+    "diabetes": 2
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 0,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "anemia",
+  "external_features": {
+    "population_dm_prevalence": 0.1
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 3,
+    "specialist": 6
+  },
+  "_source_patient": "MRS. MANJULA",
+  "_discharge_file": "discharge_91.json",
+  "_n_html_reports": 12,
+  "_admission_labs_used": 12
+}

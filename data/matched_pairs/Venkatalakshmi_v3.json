@@ -1,0 +1,142 @@
+{
+  "text_input": "62 y/o, F, was in her usual state of health 2 week ago when she developed burning micturition and increased frequency of micturition 2 weeks ago, insidious in onset associated with nocturia. Patient has history of fever for 1 day, 2 weeks ago, currently no fever spike.\nPatient also complains of joint pain and swelling involving bilateral ankle, knee, wrist, elbow, worsens at night, not associated with local rise in temperature, associated in restriction to walking and other activities\nPatient complains of generalized fatigue, myalgia\nNo h/o chills / nausea / vomiting\nNo h/o abdominal pain\nPatient has taken Ayurvedic medication for 10 days for the UTI complaints from Dharmasthala.",
+  "demographics": {
+    "age": 62.0,
+    "gender": 0
+  },
+  "lab_features": {
+    "hemoglobin": 10.6,
+    "platelets": 265000,
+    "wbc": 6690.0,
+    "esr": 72.0,
+    "bilirubin_total": null,
+    "albumin": null,
+    "ferritin": 49.9,
+    "serum_iron": 41.2,
+    "creatinine": null,
+    "urea": null,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": null,
+    "tsat": 13.0,
+    "ef_percent": null,
+    "sodium": 134.0,
+    "potassium": 3.6,
+    "chloride": 99.0,
+    "sgot": null,
+    "sgpt": null,
+    "alp": null,
+    "ggt": null,
+    "crp": null,
+    "uric_acid": 2.21,
+    "pcv": 31.9,
+    "mcv": 79.8,
+    "rdw": 13.4,
+    "neutrophils_pct": 52.0,
+    "lymphocytes_pct": 36.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 1,
+    "albumin_missing": 1,
+    "ferritin_missing": 0,
+    "serum_iron_missing": 0,
+    "creatinine_missing": 1,
+    "urea_missing": 1,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 0,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 1,
+    "sgpt_missing": 1,
+    "alp_missing": 1,
+    "ggt_missing": 1,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 0,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 97.0,
+    "bp_systolic": 110.0,
+    "bp_diastolic": 80.0,
+    "pulse": 80.0,
+    "respiratory_rate": null,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 1,
+    "antibiotics": 1,
+    "analgesics": 1,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 1,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 6,
+    "anemia": 6,
+    "cardiac": 0,
+    "respiratory": 0,
+    "renal": 0,
+    "hepatic": 0,
+    "gi": 2,
+    "diabetes": 2
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 1,
+    "multi_organ": 0,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "infection",
+  "external_features": {
+    "population_dm_prevalence": 0.05
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 3,
+    "specialist": 10
+  },
+  "_source_patient": "Venkatalakshmi",
+  "_discharge_file": "KIMS_202604222221624.json",
+  "_n_html_reports": 9,
+  "_admission_labs_used": 9
+}

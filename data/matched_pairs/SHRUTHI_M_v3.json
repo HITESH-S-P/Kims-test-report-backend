@@ -1,0 +1,142 @@
+{
+  "text_input": "Patient was apparently normal 1 year back when she started having dysmenorrhoea. On and off symptoms, with regular Cycles of 25-28 days duration with 3-4 days of flow and changing 2-3 pads per day. Associated with passage of clots. Patient also ℅ Pain abdomen since yesterday , insidous in onset , progressive in nature, more over lower part of abdomen , not relieved on taking medication H/o fever and difficulty in micturition and passing stools during menses No ℅ intermenstrual bleeding, dysparunia, mass PV No history of contraceptive use or hormonal pills No history of burning micturition , WDPV , blood in stools , loos of appetite or recent weight loss.",
+  "demographics": {
+    "age": 37.0,
+    "gender": 0
+  },
+  "lab_features": {
+    "hemoglobin": 12.7,
+    "platelets": 268000,
+    "wbc": 12200.0,
+    "esr": null,
+    "bilirubin_total": null,
+    "albumin": null,
+    "ferritin": null,
+    "serum_iron": null,
+    "creatinine": null,
+    "urea": null,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": null,
+    "tsat": null,
+    "ef_percent": null,
+    "sodium": null,
+    "potassium": null,
+    "chloride": null,
+    "sgot": null,
+    "sgpt": null,
+    "alp": null,
+    "ggt": null,
+    "crp": null,
+    "uric_acid": null,
+    "pcv": 37.6,
+    "mcv": 79.7,
+    "rdw": 12.7,
+    "neutrophils_pct": 72.6,
+    "lymphocytes_pct": 20.7
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 1,
+    "bilirubin_total_missing": 1,
+    "albumin_missing": 1,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 1,
+    "urea_missing": 1,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 1,
+    "potassium_missing": 1,
+    "chloride_missing": 1,
+    "sgot_missing": 1,
+    "sgpt_missing": 1,
+    "alp_missing": 1,
+    "ggt_missing": 1,
+    "crp_missing": 1,
+    "uric_acid_missing": 1,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 0,
+    "hypertension": 0,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": null,
+    "bp_systolic": null,
+    "bp_diastolic": null,
+    "pulse": null,
+    "respiratory_rate": null,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 2,
+    "anemia": 0,
+    "cardiac": 0,
+    "respiratory": 0,
+    "renal": 1,
+    "hepatic": 0,
+    "gi": 1,
+    "diabetes": 0
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 0,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 0,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "infection",
+  "external_features": {
+    "population_dm_prevalence": 0.05
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 2,
+    "specialist": 10
+  },
+  "_source_patient": "SHRUTHI M",
+  "_discharge_file": "discharge_203.json",
+  "_n_html_reports": 2,
+  "_admission_labs_used": 2
+}

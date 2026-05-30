@@ -1,0 +1,106 @@
+{
+  "patient_id": "KIMS_20240820836683",
+  "demographics": {
+    "age": 35,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "20240820836683"
+  },
+  "lab_features": {
+    "sodium": 134.0,
+    "potassium": 4.4,
+    "chloride": 100.0,
+    "hemoglobin": 12.9,
+    "wbc": 5240.0,
+    "neutrophils_pct": 85.0,
+    "lymphocytes_pct": 10.0,
+    "pcv": 39.1,
+    "mcv": 89.5,
+    "mch": 29.5,
+    "mchc": 33.0,
+    "rdw": 12.8,
+    "platelets": 334000,
+    "esr": 12.0
+  },
+  "lab_printed_ranges": {
+    "sodium": [
+      136.0,
+      145.0
+    ],
+    "potassium": [
+      3.5,
+      5.1
+    ],
+    "chloride": [
+      98.0,
+      107.0
+    ],
+    "hemoglobin": [
+      11.5,
+      16.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "pcv": [
+      35.0,
+      50.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ]
+  },
+  "urine_features": {},
+  "lab_timeline": {},
+  "lab_date_used": {
+    "sodium": "unknown",
+    "potassium": "unknown",
+    "chloride": "unknown",
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "esr": "unknown"
+  },
+  "peripheral_smear": ". RBCs are normocytic  normochromic. WBCs are normal  in number with  relative  increase in neutrophils  and show toxic granules. PLATELET are adequate. IMPRESSION NORMOCYTIC NORMOCHROMIC BLOOD PICTURE  WITH RELATIVE  NEUTROPHILIA",
+  "admission_date": null,
+  "n_reports": 2,
+  "n_labs": 14,
+  "n_urine_fields": 0
+}

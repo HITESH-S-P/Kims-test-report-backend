@@ -1,0 +1,142 @@
+{
+  "text_input": "Patient was apparently alright 2 days back then developed fever which was of low grade ,sudden in onset, continuous type not associated with chills or rigors which relieved on taking medications (paracetamol) Patient also complaints of loose stools since 1 day which was sudden in onset 5 episodes/day,watery in nature , yellow in colour,non foul smelling,non blood tinged , non greasy associated with abdominal pain  No h/o burning micturition  No h/o outside food consumption  No h/o chest pain/ breathlessness/palpitation No h/o reduced urine output  No h/o hematuria",
+  "demographics": {
+    "age": 74.0,
+    "gender": 0
+  },
+  "lab_features": {
+    "hemoglobin": 11.5,
+    "platelets": 186000,
+    "wbc": 10240.0,
+    "esr": 32.0,
+    "bilirubin_total": 1.1,
+    "albumin": 3.2,
+    "ferritin": null,
+    "serum_iron": null,
+    "creatinine": 0.8,
+    "urea": 25.0,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": 9.7,
+    "tsat": null,
+    "ef_percent": null,
+    "sodium": 135.0,
+    "potassium": 4.1,
+    "chloride": 108.0,
+    "sgot": 28.0,
+    "sgpt": 16.0,
+    "alp": 123.0,
+    "ggt": 28.0,
+    "crp": null,
+    "uric_acid": 1.6,
+    "pcv": 37.3,
+    "mcv": 91.0,
+    "rdw": 14.4,
+    "neutrophils_pct": 40.0,
+    "lymphocytes_pct": 35.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 0,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 1,
+    "cardiac_disease": 1,
+    "respiratory_disease": 0,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 96.0,
+    "bp_systolic": 112.0,
+    "bp_diastolic": 76.0,
+    "pulse": 74.0,
+    "respiratory_rate": null,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 1,
+    "antibiotics": 0,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 1,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 3,
+    "anemia": 0,
+    "cardiac": 3,
+    "respiratory": 0,
+    "renal": 1,
+    "hepatic": 0,
+    "gi": 1,
+    "diabetes": 4
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 0,
+    "cardiac": 1,
+    "renal": 0,
+    "gi": 0,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 1,
+    "multi_organ": 0,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "diabetes",
+  "external_features": {
+    "population_dm_prevalence": 0.25
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 2,
+    "specialist": 7
+  },
+  "_source_patient": "Mrs Mumtaz begum",
+  "_discharge_file": "discharge_99.json",
+  "_n_html_reports": 12,
+  "_admission_labs_used": 12
+}

@@ -1,0 +1,28 @@
+{
+  "patient_id": "KIMS_202505101403068",
+  "demographics": {
+    "age": 20,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202505101403068"
+  },
+  "lab_features": {
+    "hba1c": 5.4
+  },
+  "lab_printed_ranges": {
+    "hba1c": [
+      4.8,
+      5.6
+    ]
+  },
+  "urine_features": {},
+  "lab_timeline": {},
+  "lab_date_used": {
+    "hba1c": "unknown"
+  },
+  "peripheral_smear": null,
+  "admission_date": null,
+  "n_reports": 2,
+  "n_labs": 1,
+  "n_urine_fields": 0
+}

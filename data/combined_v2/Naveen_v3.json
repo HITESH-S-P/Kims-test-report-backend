@@ -1,0 +1,144 @@
+{
+  "text_input": "35 y/o, M, auto driver by occupation, was in his usual state of health 20 days ago when he developed fever lasting for 1 week, associated with headache, myalgia, arthralgia, reduced appetite, intermittent, relieved on antipyretic, was diagnosed with dengue (outside) IgG(+) 9/4/26 for which he was managed at home.\nPlatelet monitoring was done 11/4 1.05 -> 21/4 1.93.\nPatient was symptom free for 2 days following which he developed multiple joint pains, insidious in onset, severe in intensity, involving bilateral ankle, knee, wrist, elbow, aggravated during mornings, relieved on taking analgesics, associated with difficulty in movement\nNO h/o swelling / redness / warmth in joints.\nNO h/o current fever / chills / headache / cough / cold / chest pain / loose stools / vomiting / abdominal pain / burning micturition / increased frequency of micturition.\nPatient c/o high coloured urine since 20 days, no reduced urine output.\nPatient has observed rash over abdomen since last 5 days..",
+  "demographics": {
+    "age": 35.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 11.6,
+    "platelets": 183000,
+    "wbc": 7430.0,
+    "esr": 65.0,
+    "bilirubin_total": 0.8,
+    "albumin": 3.9,
+    "ferritin": null,
+    "serum_iron": null,
+    "creatinine": 0.6,
+    "urea": 29.0,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": 4.8,
+    "tsat": null,
+    "ef_percent": null,
+    "sodium": 134.0,
+    "potassium": 4.0,
+    "chloride": 100.0,
+    "sgot": 50.0,
+    "sgpt": 72.0,
+    "alp": 149.0,
+    "ggt": 218.0,
+    "crp": null,
+    "uric_acid": 5.3,
+    "pcv": 33.2,
+    "mcv": 90.2,
+    "rdw": 12.9,
+    "neutrophils_pct": 55.0,
+    "lymphocytes_pct": 38.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 0,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 0,
+    "hypertension": 0,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": null,
+    "bp_systolic": null,
+    "bp_diastolic": null,
+    "pulse": 110.0,
+    "respiratory_rate": null,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 0,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 4,
+    "anemia": 0,
+    "cardiac": 0,
+    "respiratory": 0,
+    "renal": 1,
+    "hepatic": 0,
+    "gi": 2,
+    "diabetes": 0
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 0,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "infection",
+  "external_features": {
+    "population_dm_prevalence": 0.05
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 2,
+    "specialist": 10
+  },
+  "_source_patient": "Naveen",
+  "_discharge_file": "KIMS_202604252227036.json",
+  "_n_html_reports": 14,
+  "_admission_labs_used": 14,
+  "_source_type": "matched_pair",
+  "_filename": "Naveen_v3.json"
+}

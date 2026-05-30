@@ -1,0 +1,88 @@
+{
+  "patient_id": "KIMS_20241015929916",
+  "demographics": {
+    "age": 23,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "20241015929916"
+  },
+  "lab_features": {
+    "pcv": 40.1,
+    "platelets": 192000,
+    "hemoglobin": 13.0,
+    "wbc": 4260.0,
+    "neutrophils_pct": 60.0,
+    "lymphocytes_pct": 33.0,
+    "mcv": 87.8,
+    "mch": 27.8,
+    "mchc": 31.6,
+    "rdw": 13.4,
+    "esr": 9.0
+  },
+  "lab_printed_ranges": {
+    "pcv": [
+      35.0,
+      50.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "hemoglobin": [
+      11.5,
+      16.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ]
+  },
+  "urine_features": {},
+  "lab_timeline": {},
+  "lab_date_used": {
+    "pcv": "unknown",
+    "platelets": "unknown",
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "esr": "unknown"
+  },
+  "peripheral_smear": ". RBCs NORMOCYTIC NORMOCHROMIC BLOOD PICTURE. WBCs are normal in number, distribution and morphology. PLATELET are adequate. NO ABNORMAL CELLS SEEN . IMPRESSION NORMOCYTIC NORMOCHROMIC BLOOD PICTURE.",
+  "admission_date": null,
+  "n_reports": 3,
+  "n_labs": 11,
+  "n_urine_fields": 0
+}

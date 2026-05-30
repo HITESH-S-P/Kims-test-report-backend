@@ -1,0 +1,116 @@
+{
+  "patient_id": "KIMS_202508131714304",
+  "demographics": {
+    "age": 34,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202508131714304"
+  },
+  "lab_features": {
+    "hemoglobin": 11.0,
+    "wbc": 12550.0,
+    "neutrophils_pct": 64.0,
+    "lymphocytes_pct": 29.0,
+    "pcv": 33.9,
+    "mcv": 83.3,
+    "mch": 27.0,
+    "mchc": 32.4,
+    "rdw": 16.8,
+    "platelets": 278000,
+    "esr": 66.0,
+    "uric_acid": 4.3,
+    "hba1c": 5.9
+  },
+  "lab_printed_ranges": {
+    "hemoglobin": [
+      11.5,
+      16.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "pcv": [
+      35.0,
+      50.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ],
+    "uric_acid": [
+      2.3,
+      6.1
+    ],
+    "hba1c": [
+      4.8,
+      5.6
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.005,
+    "urine_ph": 5.5,
+    "urine_protein": 0,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0,
+    "urine_pus_cells": 1.0,
+    "urine_epithelial_cells": 2.0,
+    "urine_casts": 0,
+    "urine_crystals": 0,
+    "urine_bacteria": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "esr": "unknown",
+    "uric_acid": "unknown",
+    "hba1c": "unknown"
+  },
+  "peripheral_smear": ". RBCs Normocytic normochromic WBCs Are  increased  in  number  with  normal  distribution  and  morphology. PLATELET are adequate NO ABNORMAL CELLS SEEN . IMPRESSION NORMOCYTIC  NORMOCHROMIC  ANEMIA  WITH   LEUCOCYTOSIS.",
+  "admission_date": null,
+  "n_reports": 8,
+  "n_labs": 13,
+  "n_urine_fields": 15
+}

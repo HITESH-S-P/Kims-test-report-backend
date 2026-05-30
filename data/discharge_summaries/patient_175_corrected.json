@@ -1,0 +1,109 @@
+{
+  "text_input": "Patient is a 20-year-old male who presented with a 15-day history of cough, occasional with white mucoid expectoration and chest pain. Symptoms exacerbated over the last 4 days with continuous low-grade fever, sore throat, headache, and 3 episodes of non-bilious vomiting. Past history includes atopy (inhaler use until age 17) and recurrent tonsillitis. Physical examination revealed a blood pressure of 200/140 mmHg and pulse of 90 bpm. Systemic examination was largely normal. Investigations showed erythrocytosis and absolute neutrophilia on CBC, and Grade 1 fatty liver on USG. 2D Echo was normal with an EF of 62%. Diagnosed with acute bronchitis and acute pharyngitis with grade 1 tonsillitis. Treated with antibiotics (Tufzone, Azee), analgesics (Calpol), and nebulization.",
+  "demographics": {
+    "age": 20.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 14.5,
+    "platelets": 250000.0,
+    "wbc": 11500.0,
+    "esr": 15.0,
+    "bilirubin_total": 0.8,
+    "albumin": 4.2,
+    "ferritin": 150.0,
+    "serum_iron": 100.0,
+    "creatinine": 0.9,
+    "urea": 25.0,
+    "grbs": 95.0,
+    "bmi": 22.5,
+    "hba1c": 5.4,
+    "tsat": 25.0,
+    "ef_percent": 62.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 1,
+    "platelets_missing": 1,
+    "wbc_missing": 1,
+    "esr_missing": 1,
+    "bilirubin_total_missing": 1,
+    "albumin_missing": 1,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 1,
+    "urea_missing": 1,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 1,
+    "ef_percent_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 0,
+    "hypertension": 0,
+    "cardiac_disease": 0,
+    "respiratory_disease": 1,
+    "renal_disease": 0,
+    "hepatic_disease": 1,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 98.0,
+    "bp_systolic": 200.0,
+    "bp_diastolic": 140.0,
+    "pulse": 90.0,
+    "respiratory_rate": 15.0,
+    "temperature_afebrile": 0
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 1,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "alcohol": 0,
+    "smoking": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 0
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 0,
+    "gi": 1,
+    "diabetes": 0,
+    "respiratory": 1,
+    "cardiac": 0,
+    "renal": 0,
+    "hepatic": 1
+  },
+  "organ_involvement": {
+    "hepatic": 1,
+    "respiratory": 1,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "infection",
+  "external_features": {
+    "population_dm_prevalence": 0.029
+  },
+  "label_confidence": 0.85,
+  "targets": {
+    "risk_level": 2,
+    "specialist": 5
+  }
+}

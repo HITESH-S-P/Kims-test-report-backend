@@ -1,0 +1,179 @@
+{
+  "patient_id": "KIMS_202506181529171",
+  "demographics": {
+    "age": 41,
+    "gender": 1,
+    "patient_type": null,
+    "uhid": "202506181529171"
+  },
+  "lab_features": {
+    "lymphocytes_pct": 20.0,
+    "wbc": 8300.0,
+    "neutrophils_pct": 69.3,
+    "pcv": 45.6,
+    "platelets": 324000,
+    "sodium": 130.0,
+    "potassium": 3.7,
+    "chloride": 97.0,
+    "urea": 11.0,
+    "creatinine": 0.8,
+    "uric_acid": 5.1,
+    "hemoglobin": 15.1,
+    "mcv": 91.3,
+    "mch": 30.6,
+    "mchc": 33.5,
+    "rdw": 13.2,
+    "esr": 61.0,
+    "bilirubin_total": 0.3,
+    "direct_bilirubin": 0.1,
+    "sgot": 19.0,
+    "sgpt": 16.0,
+    "alp": 88.0,
+    "total_protein": 7.7,
+    "albumin": 4.1,
+    "ggt": 38.0
+  },
+  "lab_printed_ranges": {
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "pcv": [
+      40.0,
+      55.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "sodium": [
+      136.0,
+      145.0
+    ],
+    "potassium": [
+      3.5,
+      5.1
+    ],
+    "chloride": [
+      98.0,
+      107.0
+    ],
+    "urea": [
+      17.0,
+      48.0
+    ],
+    "creatinine": [
+      0.7,
+      1.2
+    ],
+    "uric_acid": [
+      3.6,
+      7.0
+    ],
+    "hemoglobin": [
+      13.0,
+      18.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "esr": [
+      0.0,
+      15.0
+    ],
+    "bilirubin_total": [
+      0.2,
+      1.1
+    ],
+    "direct_bilirubin": [
+      0.0,
+      0.2
+    ],
+    "sgot": [
+      5.0,
+      40.0
+    ],
+    "sgpt": [
+      5.0,
+      40.0
+    ],
+    "alp": [
+      105.0,
+      130.0
+    ],
+    "total_protein": [
+      6.4,
+      8.3
+    ],
+    "albumin": [
+      3.5,
+      5.2
+    ],
+    "ggt": [
+      5.0,
+      40.0
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.01,
+    "urine_ph": 5.5,
+    "urine_protein": 0,
+    "urine_glucose": 0,
+    "urine_ketones": 1,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "lymphocytes_pct": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "pcv": "unknown",
+    "platelets": "unknown",
+    "sodium": "unknown",
+    "potassium": "unknown",
+    "chloride": "unknown",
+    "urea": "unknown",
+    "creatinine": "unknown",
+    "uric_acid": "unknown",
+    "hemoglobin": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "esr": "unknown",
+    "bilirubin_total": "unknown",
+    "direct_bilirubin": "unknown",
+    "sgot": "unknown",
+    "sgpt": "unknown",
+    "alp": "unknown",
+    "total_protein": "unknown",
+    "albumin": "unknown",
+    "ggt": "unknown"
+  },
+  "peripheral_smear": ". RBCs Normocytic normochromic WBCs Normal in number, distribution and morphology. PLATELET Adequate. NO ABNORMAL CELLS SEEN . IMPRESSION NORMOCYTIC  NORMOCHROMIC  BLOOD  PICTURE. GROUPING AND TYPING BLOOD GROUP (Method-Manual(Slide Method)) O RH TYPING (Method-Manual(Slide Method)) POSITIVE",
+  "admission_date": null,
+  "n_reports": 17,
+  "n_labs": 25,
+  "n_urine_fields": 10
+}

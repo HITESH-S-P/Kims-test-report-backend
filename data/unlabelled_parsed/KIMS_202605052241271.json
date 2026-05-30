@@ -1,0 +1,82 @@
+{
+  "patient_id": "KIMS_202605052241271",
+  "demographics": {
+    "age": 7,
+    "gender": 1,
+    "patient_type": null,
+    "uhid": "202605052241271"
+  },
+  "lab_features": {
+    "hemoglobin": 11.6,
+    "wbc": 7510.0,
+    "neutrophils_pct": 28.0,
+    "lymphocytes_pct": 61.0,
+    "pcv": 34.1,
+    "mcv": 67.1,
+    "mch": 22.8,
+    "mchc": 34.0,
+    "rdw": 13.9,
+    "platelets": 283000
+  },
+  "lab_printed_ranges": {
+    "hemoglobin": [
+      12.0,
+      15.0
+    ],
+    "wbc": [
+      4500.0,
+      14000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      60.0
+    ],
+    "lymphocytes_pct": [
+      35.0,
+      45.0
+    ],
+    "pcv": [
+      35.0,
+      45.0
+    ],
+    "mcv": [
+      77.0,
+      85.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ]
+  },
+  "urine_features": {},
+  "lab_timeline": {},
+  "lab_date_used": {
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown"
+  },
+  "peripheral_smear": null,
+  "admission_date": null,
+  "n_reports": 2,
+  "n_labs": 10,
+  "n_urine_fields": 0
+}

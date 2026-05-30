@@ -1,0 +1,144 @@
+{
+  "patient_id": "KIMS_202604072196406",
+  "demographics": {
+    "age": 58,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202604072196406"
+  },
+  "lab_features": {
+    "sodium": 135.0,
+    "potassium": 4.6,
+    "chloride": 99.0,
+    "urea": 19.0,
+    "creatinine": 0.5,
+    "uric_acid": 2.9,
+    "thyroid_t3": 132.0,
+    "thyroid_t4": 8.1,
+    "thyroid_tsh": 1.15,
+    "hemoglobin": 11.9,
+    "wbc": 8290.0,
+    "neutrophils_pct": 68.0,
+    "lymphocytes_pct": 27.0,
+    "pcv": 37.7,
+    "mcv": 77.3,
+    "mch": 24.4,
+    "mchc": 31.6,
+    "rdw": 15.2,
+    "platelets": 224000,
+    "esr": 22.0
+  },
+  "lab_printed_ranges": {
+    "sodium": [
+      136.0,
+      145.0
+    ],
+    "potassium": [
+      3.5,
+      5.1
+    ],
+    "chloride": [
+      98.0,
+      107.0
+    ],
+    "urea": [
+      17.0,
+      48.0
+    ],
+    "creatinine": [
+      0.5,
+      0.9
+    ],
+    "uric_acid": [
+      2.3,
+      6.1
+    ],
+    "thyroid_t3": [
+      80.0,
+      200.0
+    ],
+    "thyroid_t4": [
+      5.1,
+      14.1
+    ],
+    "thyroid_tsh": [
+      0.27,
+      4.2
+    ],
+    "hemoglobin": [
+      11.5,
+      16.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "pcv": [
+      35.0,
+      50.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ]
+  },
+  "urine_features": {
+    "urine_ketones": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "sodium": "unknown",
+    "potassium": "unknown",
+    "chloride": "unknown",
+    "urea": "unknown",
+    "creatinine": "unknown",
+    "uric_acid": "unknown",
+    "thyroid_t3": "unknown",
+    "thyroid_t4": "unknown",
+    "thyroid_tsh": "unknown",
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "esr": "unknown"
+  },
+  "peripheral_smear": ". RBCs Normocytic normochromic WBCs are normal in number,distribution and morphology PLATELET are adequate. IMPRESSION NORMOCYTIC NORMOCHROMIC ANEMIA GROUPING AND TYPING BLOOD GROUP (Method-Manual(Slide Method)) \"O\" RH TYPING (Method-Manual(Slide Method)) POSITIVE PARTIAL THROMBOPLASTIN TIME (APTT) CONTROL (Method-Automated(Mechanical Clot Detection)) 32.7 Sec 35-50 TEST 30.5 Sec 35-50 PROTHROMBIN TIME (PT) CONTROL (Automated(Mechanical Clot Detection)) 14.0 Sec TEST 12.5 Sec INR 0.87 Sec",
+  "admission_date": null,
+  "n_reports": 10,
+  "n_labs": 20,
+  "n_urine_fields": 1
+}

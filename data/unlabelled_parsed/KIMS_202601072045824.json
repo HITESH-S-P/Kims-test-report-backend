@@ -1,0 +1,105 @@
+{
+  "patient_id": "KIMS_202601072045824",
+  "demographics": {
+    "age": 20,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202601072045824"
+  },
+  "lab_features": {
+    "hemoglobin": 11.6,
+    "wbc": 11500.0,
+    "neutrophils_pct": 71.0,
+    "lymphocytes_pct": 20.0,
+    "pcv": 36.1,
+    "mcv": 84.3,
+    "mch": 27.1,
+    "mchc": 32.1,
+    "rdw": 17.7,
+    "platelets": 226000,
+    "esr": 33.0
+  },
+  "lab_printed_ranges": {
+    "hemoglobin": [
+      11.5,
+      16.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "pcv": [
+      35.0,
+      50.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.005,
+    "urine_ph": 6.0,
+    "urine_protein": 0,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 1,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 1,
+    "urine_pus_cells": 30.0,
+    "urine_epithelial_cells": 4.0,
+    "urine_rbc": 2.0,
+    "urine_casts": 0,
+    "urine_crystals": 0,
+    "urine_bacteria": 1
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "esr": "unknown"
+  },
+  "peripheral_smear": ". RBCs Normocytic normochromic WBCs are  increased  in number with absolute increase in neutrophils  and  mild shift to left noted. PLATELET are adequate NO ABNORMAL CELLS SEEN . IMPRESSION NORMOCYTIC  NORMOCHROMIC  ANEMIA  WITH  NEUTROPHILIC  LEUCOCYTOSIS.",
+  "admission_date": null,
+  "n_reports": 3,
+  "n_labs": 11,
+  "n_urine_fields": 16
+}

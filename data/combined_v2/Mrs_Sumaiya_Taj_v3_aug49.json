@@ -1,0 +1,146 @@
+{
+  "text_input": "Patient was initially found to have umbilical hernia and consulted at Kanakapura General Hospital in view of surgery. And later reports done on 10/12/25 revealed raised counts as well as thrombocytopenia and was referred to medicine for further evaluation.",
+  "demographics": {
+    "age": 26.0,
+    "gender": 0
+  },
+  "lab_features": {
+    "hemoglobin": 12.05,
+    "platelets": 304000,
+    "wbc": 12563.72,
+    "esr": 37.0,
+    "bilirubin_total": 0.3,
+    "albumin": 3.77,
+    "ferritin": null,
+    "serum_iron": null,
+    "creatinine": 0.29,
+    "urea": 11.99,
+    "grbs": 84.0,
+    "bmi": null,
+    "hba1c": null,
+    "tsat": null,
+    "ef_percent": null,
+    "sodium": 131.96,
+    "potassium": 4.09,
+    "chloride": 102.0,
+    "sgot": 21.44,
+    "sgpt": 11.23,
+    "alp": 89.0,
+    "ggt": 18.0,
+    "crp": null,
+    "uric_acid": 4.4,
+    "pcv": 37.4,
+    "mcv": 81.1,
+    "rdw": 14.6,
+    "neutrophils_pct": 62.0,
+    "lymphocytes_pct": 29.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 0,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 0,
+    "hypertension": 0,
+    "cardiac_disease": 0,
+    "respiratory_disease": 1,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 99.0,
+    "bp_systolic": 110.0,
+    "bp_diastolic": 80.0,
+    "pulse": 90.0,
+    "respiratory_rate": null,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 2,
+    "anemia": 0,
+    "cardiac": 0,
+    "respiratory": 3,
+    "renal": 0,
+    "hepatic": 0,
+    "gi": 1,
+    "diabetes": 0
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 1,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 0,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 0,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "respiratory",
+  "external_features": {
+    "population_dm_prevalence": 0.12
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 2,
+    "specialist": 5
+  },
+  "_source_patient": "Mrs Sumaiya Taj",
+  "_discharge_file": "discharge_166.json",
+  "_n_html_reports": 12,
+  "_admission_labs_used": 12,
+  "_source_type": "matched_pair",
+  "_filename": "Mrs_Sumaiya_Taj_v3.json",
+  "_augmented": true,
+  "_aug_source": "Mrs_Sumaiya_Taj_v3.json"
+}

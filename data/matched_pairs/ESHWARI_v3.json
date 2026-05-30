@@ -1,0 +1,142 @@
+{
+  "text_input": "Patient was apparently normal 5 days ago when she c/o vomiting, 4–5 episodes per day, non-bilious, non-projectile, food particles, no aggravating or relieving factors.\nPatient also c/o fever, high grade, intermittent type, associated with chills & rigors, also arthralgia & myalgia. No aggravating or relieving factors.\nPatient is a postpartum female – 15/4/2026.\nPatient is c/o bleeding per vagina since 5 days, changes about 2 pads/day.\nNo c/o white discharge PV\nPatient c/o abdominal pain × 1 day, over L & R inguinal region & hypogastric region, insidious onset, gradually progressive, associated with burning micturition. No aggravating or relieving factors.\nNo c/o flank pain\nNo c/o decreased urine output\nNo c/o facial puffiness\nNo c/o B/L lower limb swelling",
+  "demographics": {
+    "age": 21.0,
+    "gender": 0
+  },
+  "lab_features": {
+    "hemoglobin": 11.7,
+    "platelets": 109000,
+    "wbc": 5410.0,
+    "esr": 6.0,
+    "bilirubin_total": 0.3,
+    "albumin": 3.8,
+    "ferritin": null,
+    "serum_iron": null,
+    "creatinine": 0.6,
+    "urea": 14.0,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": null,
+    "tsat": null,
+    "ef_percent": null,
+    "sodium": 135.0,
+    "potassium": 3.2,
+    "chloride": 100.0,
+    "sgot": 422.0,
+    "sgpt": 164.0,
+    "alp": 57.0,
+    "ggt": 22.0,
+    "crp": null,
+    "uric_acid": null,
+    "pcv": 33.7,
+    "mcv": 83.4,
+    "rdw": 12.9,
+    "neutrophils_pct": 28.0,
+    "lymphocytes_pct": 67.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 1,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 0,
+    "hypertension": 0,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 0,
+    "hepatic_disease": 1,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": null,
+    "bp_systolic": null,
+    "bp_diastolic": null,
+    "pulse": null,
+    "respiratory_rate": null,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 1,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 5,
+    "anemia": 0,
+    "cardiac": 0,
+    "respiratory": 0,
+    "renal": 0,
+    "hepatic": 5,
+    "gi": 2,
+    "diabetes": 0
+  },
+  "organ_involvement": {
+    "hepatic": 1,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "infection",
+  "external_features": {
+    "population_dm_prevalence": 0.05
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 2,
+    "specialist": 10
+  },
+  "_source_patient": "ESHWARI",
+  "_discharge_file": "KIMS_202605182262980.json",
+  "_n_html_reports": 12,
+  "_admission_labs_used": 12
+}

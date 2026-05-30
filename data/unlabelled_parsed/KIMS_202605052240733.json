@@ -1,0 +1,129 @@
+{
+  "patient_id": "KIMS_202605052240733",
+  "demographics": {
+    "age": 30,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202605052240733"
+  },
+  "lab_features": {
+    "albumin": 3.6,
+    "thyroid_t3": 99.6,
+    "thyroid_t4": 6.16,
+    "thyroid_tsh": 15.7,
+    "urea": 15.0,
+    "creatinine": 0.5,
+    "hemoglobin": 11.9,
+    "wbc": 5340.0,
+    "neutrophils_pct": 47.9,
+    "lymphocytes_pct": 41.4,
+    "pcv": 35.4,
+    "mcv": 80.6,
+    "mch": 27.1,
+    "mchc": 33.6,
+    "rdw": 13.3,
+    "platelets": 247000
+  },
+  "lab_printed_ranges": {
+    "albumin": [
+      3.5,
+      5.2
+    ],
+    "thyroid_t3": [
+      80.0,
+      200.0
+    ],
+    "thyroid_t4": [
+      5.1,
+      14.1
+    ],
+    "thyroid_tsh": [
+      0.27,
+      4.2
+    ],
+    "urea": [
+      17.0,
+      48.0
+    ],
+    "creatinine": [
+      0.5,
+      0.9
+    ],
+    "hemoglobin": [
+      11.5,
+      16.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "pcv": [
+      35.0,
+      50.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.02,
+    "urine_ph": 5.0,
+    "urine_protein": 0,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "albumin": "unknown",
+    "thyroid_t3": "unknown",
+    "thyroid_t4": "unknown",
+    "thyroid_tsh": "unknown",
+    "urea": "unknown",
+    "creatinine": "unknown",
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown"
+  },
+  "peripheral_smear": null,
+  "admission_date": null,
+  "n_reports": 4,
+  "n_labs": 16,
+  "n_urine_fields": 10
+}

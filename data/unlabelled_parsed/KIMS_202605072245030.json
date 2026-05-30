@@ -1,0 +1,112 @@
+{
+  "patient_id": "KIMS_202605072245030",
+  "demographics": {
+    "age": 50,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202605072245030"
+  },
+  "lab_features": {
+    "serum_iron": 11.0,
+    "ferritin": 5.7,
+    "tsat": 2.0,
+    "uric_acid": 3.0,
+    "hemoglobin": 8.7,
+    "wbc": 6170.0,
+    "neutrophils_pct": 49.0,
+    "lymphocytes_pct": 45.0,
+    "pcv": 27.5,
+    "mcv": 69.4,
+    "mch": 22.0,
+    "mchc": 31.6,
+    "rdw": 15.2,
+    "platelets": 312000,
+    "esr": 20.0
+  },
+  "lab_printed_ranges": {
+    "serum_iron": [
+      37.0,
+      158.0
+    ],
+    "ferritin": [
+      30.0,
+      400.0
+    ],
+    "tsat": [
+      16.0,
+      45.0
+    ],
+    "uric_acid": [
+      2.3,
+      6.1
+    ],
+    "hemoglobin": [
+      11.5,
+      16.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "pcv": [
+      35.0,
+      50.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ]
+  },
+  "urine_features": {},
+  "lab_timeline": {},
+  "lab_date_used": {
+    "serum_iron": "unknown",
+    "ferritin": "unknown",
+    "tsat": "unknown",
+    "uric_acid": "unknown",
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "esr": "unknown"
+  },
+  "peripheral_smear": ". RBCs shows mild anisopoikilocytosis with hypochromia. Seen are microcytes admixed with normocytes. Also seen are elliptocytes. WBCs are normal in number,distribution and morphology PLATELET are adequate. NO ABNORMAL CELLS SEEN . IMPRESSION MICROCYTIC HYPOCHROMIC ANEMIA",
+  "admission_date": null,
+  "n_reports": 7,
+  "n_labs": 15,
+  "n_urine_fields": 0
+}

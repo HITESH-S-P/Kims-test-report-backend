@@ -1,0 +1,109 @@
+{
+  "text_input": "Patient presented with fever and easy fatiguability for 3 days. History of urosepsis secondary to bilateral pyelonephritis, uncontrolled Type 2 Diabetes Mellitus with bilateral moderate NPDR, Ischemic Heart Disease s/p CAG, systemic hypertension, and iron deficiency anemia. Physical exam showed pallor. Vitals were stable. Investigations revealed HbA1c of 11.3% and FBS of 153 mg/dL. USG showed hepatomegaly and bilateral bulky kidneys. Treated with IV antibiotics (Tazocet), insulin, and antihypertensives. Discharged after completion of antibiotic course.",
+  "demographics": {
+    "age": 55.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 10.5,
+    "platelets": 250000.0,
+    "wbc": 12000.0,
+    "esr": 45.0,
+    "bilirubin_total": 0.8,
+    "albumin": 3.2,
+    "ferritin": 20.0,
+    "serum_iron": 40.0,
+    "creatinine": 1.1,
+    "urea": 35.0,
+    "grbs": 153.0,
+    "bmi": 24.5,
+    "hba1c": 11.3,
+    "tsat": 15.0,
+    "ef_percent": 55.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 1,
+    "platelets_missing": 1,
+    "wbc_missing": 1,
+    "esr_missing": 1,
+    "bilirubin_total_missing": 1,
+    "albumin_missing": 1,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 1,
+    "urea_missing": 1,
+    "grbs_missing": 0,
+    "bmi_missing": 1,
+    "hba1c_missing": 0,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 1,
+    "cardiac_disease": 1,
+    "respiratory_disease": 0,
+    "renal_disease": 1,
+    "hepatic_disease": 1,
+    "urological_condition": 1,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 96.0,
+    "bp_systolic": 130.0,
+    "bp_diastolic": 80.0,
+    "pulse": 82.0,
+    "respiratory_rate": 18.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 1,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 1
+  },
+  "history": {
+    "known_diabetes": 1,
+    "alcohol": 0,
+    "smoking": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 1,
+    "gi": 0,
+    "diabetes": 1,
+    "respiratory": 0,
+    "cardiac": 1,
+    "renal": 1,
+    "hepatic": 1
+  },
+  "organ_involvement": {
+    "hepatic": 1,
+    "respiratory": 0,
+    "cardiac": 1,
+    "renal": 1,
+    "gi": 0,
+    "urological": 1
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "infection",
+  "external_features": {
+    "population_dm_prevalence": 0.724
+  },
+  "label_confidence": 0.85,
+  "targets": {
+    "risk_level": 3,
+    "specialist": 10
+  }
+}

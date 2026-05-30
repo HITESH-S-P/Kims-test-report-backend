@@ -1,0 +1,255 @@
+{
+  "patient_id": "KIMS_202505161424449",
+  "demographics": {
+    "age": 78,
+    "gender": 1,
+    "patient_type": null,
+    "uhid": "202505161424449"
+  },
+  "lab_features": {
+    "sodium": 130.0,
+    "potassium": 4.0,
+    "chloride": 96.0,
+    "bilirubin_total": 1.5,
+    "direct_bilirubin": 1.4,
+    "sgot": 17.0,
+    "sgpt": 28.0,
+    "alp": 482.0,
+    "total_protein": 4.9,
+    "albumin": 2.6,
+    "ggt": 359.0,
+    "urea": 21.0,
+    "creatinine": 0.7,
+    "uric_acid": 1.5,
+    "wbc": 9750.0,
+    "neutrophils_pct": 85.1,
+    "lymphocytes_pct": 8.4,
+    "serum_iron": 32.2,
+    "tsat": 19.6,
+    "ferritin": 2000.0,
+    "cholesterol_total": 136.0,
+    "triglycerides": 302.0,
+    "hdl": 15.0,
+    "ldl": 19.0,
+    "thyroid_t3": 52.6,
+    "thyroid_t4": 6.65,
+    "thyroid_tsh": 1.23,
+    "hemoglobin": 10.5,
+    "pcv": 32.6,
+    "mcv": 83.8,
+    "mch": 27.0,
+    "mchc": 32.2,
+    "rdw": 13.6,
+    "platelets": 168000,
+    "esr": 74.0,
+    "hba1c": 13.8
+  },
+  "lab_printed_ranges": {
+    "sodium": [
+      136.0,
+      145.0
+    ],
+    "potassium": [
+      3.5,
+      5.1
+    ],
+    "chloride": [
+      98.0,
+      107.0
+    ],
+    "bilirubin_total": [
+      0.2,
+      1.1
+    ],
+    "direct_bilirubin": [
+      0.0,
+      0.2
+    ],
+    "sgot": [
+      5.0,
+      40.0
+    ],
+    "sgpt": [
+      5.0,
+      40.0
+    ],
+    "alp": [
+      105.0,
+      130.0
+    ],
+    "total_protein": [
+      6.4,
+      8.3
+    ],
+    "albumin": [
+      3.5,
+      5.2
+    ],
+    "ggt": [
+      5.0,
+      40.0
+    ],
+    "urea": [
+      17.0,
+      48.0
+    ],
+    "creatinine": [
+      0.7,
+      1.2
+    ],
+    "uric_acid": [
+      3.6,
+      7.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "serum_iron": [
+      37.0,
+      158.0
+    ],
+    "tsat": [
+      16.0,
+      45.0
+    ],
+    "ferritin": [
+      30.0,
+      400.0
+    ],
+    "cholesterol_total": [
+      125.0,
+      200.0
+    ],
+    "triglycerides": [
+      50.0,
+      150.0
+    ],
+    "hdl": [
+      40.0,
+      60.0
+    ],
+    "ldl": [
+      70.0,
+      130.0
+    ],
+    "thyroid_t3": [
+      80.0,
+      200.0
+    ],
+    "thyroid_t4": [
+      5.1,
+      14.1
+    ],
+    "thyroid_tsh": [
+      0.27,
+      4.2
+    ],
+    "hemoglobin": [
+      13.0,
+      18.0
+    ],
+    "pcv": [
+      40.0,
+      55.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "esr": [
+      0.0,
+      15.0
+    ],
+    "hba1c": [
+      4.8,
+      5.6
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.02,
+    "urine_ph": 7.0,
+    "urine_protein": 1,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 1,
+    "urine_blood": 1,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0,
+    "urine_pus_cells": 1.0,
+    "urine_epithelial_cells": 1.0,
+    "urine_rbc": 25.0,
+    "urine_casts": 0,
+    "urine_crystals": 0,
+    "urine_bacteria": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "sodium": "unknown",
+    "potassium": "unknown",
+    "chloride": "unknown",
+    "bilirubin_total": "unknown",
+    "direct_bilirubin": "unknown",
+    "sgot": "unknown",
+    "sgpt": "unknown",
+    "alp": "unknown",
+    "total_protein": "unknown",
+    "albumin": "unknown",
+    "ggt": "unknown",
+    "urea": "unknown",
+    "creatinine": "unknown",
+    "uric_acid": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "serum_iron": "unknown",
+    "tsat": "unknown",
+    "ferritin": "unknown",
+    "cholesterol_total": "unknown",
+    "triglycerides": "unknown",
+    "hdl": "unknown",
+    "ldl": "unknown",
+    "thyroid_t3": "unknown",
+    "thyroid_t4": "unknown",
+    "thyroid_tsh": "unknown",
+    "hemoglobin": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "esr": "unknown",
+    "hba1c": "unknown"
+  },
+  "peripheral_smear": ". RBCs Normocytic normochromic WBCs are normal in number with absolute increase in neutrophils . Few neutrophils show toxic granules. PLATELET Adequate. NO ABNORMAL CELLS SEEN . IMPRESSION NORMOCYTIC  NORMOCHROMIC  ANEMIA  WITH  ABSOLUTE   NEUTROPHILIA. GROUPING AND TYPING BLOOD GROUP (Method-Manual(Slide Method)) \" B \" RH TYPING (Method-Manual(Slide Method)) POSIITVE",
+  "admission_date": null,
+  "n_reports": 25,
+  "n_labs": 36,
+  "n_urine_fields": 16
+}

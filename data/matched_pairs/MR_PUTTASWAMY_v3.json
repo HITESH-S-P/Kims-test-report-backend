@@ -1,0 +1,142 @@
+{
+  "text_input": "Patient was in his usual state since morning, then he started developing c/o shortness of breath, insidious in onset and gradually progressive in nature. Then he was taken to a local hospital where he was treated for the same and referred to KIMS Hospital for further evaluation and management.  Patient also had c/o cough with expectoration since 5 days which was insidious in onset and gradually progressive, with yellowish sputum, scanty in amount, non-foul smelling, mucoid in nature, which is non-blood stained. No diurnal variation or positional variation.  Also had c/o fever, low grade, intermittent type, associated with chills. He also has c/o burning micturition since 3 days, insidious in onset and gradually progressive. Patient also c/o tightness of chest. Initially he was able to walk about 100 m, but later on progressed to a point where he wasn’t able to walk even a few steps due to breathing difficulty. No H/o chest pain/ palpitation/ hemoptysis/orthopnea/decreased urine output.",
+  "demographics": {
+    "age": 70.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 11.8,
+    "platelets": 276000,
+    "wbc": 7940.0,
+    "esr": null,
+    "bilirubin_total": null,
+    "albumin": null,
+    "ferritin": null,
+    "serum_iron": null,
+    "creatinine": 0.8,
+    "urea": 41.0,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": null,
+    "tsat": null,
+    "ef_percent": null,
+    "sodium": 139.0,
+    "potassium": 4.1,
+    "chloride": 101.0,
+    "sgot": null,
+    "sgpt": null,
+    "alp": null,
+    "ggt": null,
+    "crp": null,
+    "uric_acid": 4.6,
+    "pcv": 38.5,
+    "mcv": 86.5,
+    "rdw": 14.4,
+    "neutrophils_pct": 88.2,
+    "lymphocytes_pct": 8.6
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 1,
+    "bilirubin_total_missing": 1,
+    "albumin_missing": 1,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 1,
+    "sgpt_missing": 1,
+    "alp_missing": 1,
+    "ggt_missing": 1,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 1,
+    "cardiac_disease": 0,
+    "respiratory_disease": 1,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 88.0,
+    "bp_systolic": 140.0,
+    "bp_diastolic": 80.0,
+    "pulse": 98.0,
+    "respiratory_rate": 16.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 1,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 1,
+    "smoking": 1,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 7,
+    "anemia": 0,
+    "cardiac": 0,
+    "respiratory": 4,
+    "renal": 0,
+    "hepatic": 0,
+    "gi": 2,
+    "diabetes": 2
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 1,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 1,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "infection",
+  "external_features": {
+    "population_dm_prevalence": 0.05
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 3,
+    "specialist": 10
+  },
+  "_source_patient": "MR PUTTASWAMY",
+  "_discharge_file": "discharge_131.json",
+  "_n_html_reports": 2,
+  "_admission_labs_used": 2
+}

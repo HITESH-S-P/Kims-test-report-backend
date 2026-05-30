@@ -1,0 +1,109 @@
+{
+  "text_input": "Patient was in her usual state of health till 1 week back when she developed sore throat which was associated with irritation and pain while swallowing. Pain was initially mild and exacerbated since 1 day. Patient also c/o fever, high grade since yesterday night, associated with chills and night sweats not relieved on taking medication. c/o headache since yesterday night occurring mainly over frontal and occipital head, with no postural variation associated with nausea, no blurring of vision. c/o cough since yesterday night associated with expectoration which was yellowish in consistency. c/o joint pain affecting all the large joints & upper as well as lumbar pain. c/o generalized weakness. No c/o pain abdomen / loose stools / vomiting. No c/o burning micturition. Physical examination revealed petechiae on bilateral upper limbs. Systemic examination was normal except for tachycardia.",
+  "demographics": {
+    "age": 24.0,
+    "gender": 0
+  },
+  "lab_features": {
+    "hemoglobin": 12.5,
+    "platelets": 95000.0,
+    "wbc": 12500.0,
+    "esr": 15.0,
+    "bilirubin_total": 0.7,
+    "albumin": 4.2,
+    "ferritin": 100.0,
+    "serum_iron": 80.0,
+    "creatinine": 0.8,
+    "urea": 24.0,
+    "grbs": 111.0,
+    "bmi": 22.0,
+    "hba1c": 5.4,
+    "tsat": 24.0,
+    "ef_percent": 60.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 1,
+    "platelets_missing": 1,
+    "wbc_missing": 1,
+    "esr_missing": 1,
+    "bilirubin_total_missing": 1,
+    "albumin_missing": 1,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 0,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1
+  },
+  "comorbidities": {
+    "diabetes": 0,
+    "hypertension": 0,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 98.0,
+    "bp_systolic": 130.0,
+    "bp_diastolic": 80.0,
+    "pulse": 124.0,
+    "respiratory_rate": 16.0,
+    "temperature_afebrile": 0
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 1,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "alcohol": 0,
+    "smoking": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 0
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 0,
+    "gi": 0,
+    "diabetes": 0,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 0,
+    "hepatic": 0
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 0,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 0,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "infection",
+  "external_features": {
+    "population_dm_prevalence": 0.036
+  },
+  "label_confidence": 0.85,
+  "targets": {
+    "risk_level": 1,
+    "specialist": 10
+  }
+}

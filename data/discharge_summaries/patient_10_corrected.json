@@ -1,0 +1,109 @@
+{
+    "text_input": "Patient presented to KIMS General Medicine OPD on 14/5/2025 with complaints of lower limb swelling since 15 days and yellowish discolouration of eyes since 1 day and was admitted to Male Medicine Ward under Unit 3.",
+    "demographics": {
+        "age": 65.0,
+        "gender": 1
+    },
+    "lab_features": {
+        "hemoglobin": 9.5,
+        "platelets": 90000.0,
+        "wbc": 7000.0,
+        "esr": 40.0,
+        "bilirubin_total": 4.0,
+        "albumin": 2.5,
+        "ferritin": 100.0,
+        "serum_iron": 70.0,
+        "creatinine": 1.5,
+        "urea": 35.0,
+        "grbs": 95.0,
+        "bmi": 22.0,
+        "hba1c": 5.4,
+        "tsat": 25.0,
+        "ef_percent": 58.0
+    },
+    "lab_missing_mask": {
+        "hemoglobin_missing": 1,
+        "platelets_missing": 1,
+        "wbc_missing": 1,
+        "esr_missing": 1,
+        "bilirubin_total_missing": 1,
+        "albumin_missing": 1,
+        "ferritin_missing": 1,
+        "serum_iron_missing": 1,
+        "creatinine_missing": 1,
+        "urea_missing": 1,
+        "grbs_missing": 1,
+        "bmi_missing": 1,
+        "hba1c_missing": 1,
+        "tsat_missing": 1,
+        "ef_percent_missing": 0
+    },
+    "comorbidities": {
+        "diabetes": 0,
+        "hypertension": 0,
+        "cardiac_disease": 0,
+        "respiratory_disease": 0,
+        "renal_disease": 1,
+        "hepatic_disease": 1,
+        "urological_condition": 0,
+        "neurological_condition": 0
+    },
+    "vitals": {
+        "spo2": 97.0,
+        "bp_systolic": 102.0,
+        "bp_diastolic": 60.0,
+        "pulse": 100.0,
+        "respiratory_rate": 18.0,
+        "temperature_afebrile": 1
+    },
+    "treatment": {
+        "insulin": 0,
+        "antibiotics": 1,
+        "analgesics": 0,
+        "statins": 0
+    },
+    "history": {
+        "known_diabetes": 0,
+        "alcohol": 1,
+        "smoking": 0,
+        "diet_vegetarian": 0,
+        "sleep_adequate": 1
+    },
+    "cardiac_findings": {
+        "lv_diastolic_dysfunction": 0,
+        "ef_normal": 1,
+        "murmur": 1
+    },
+    "condition_scores": {
+        "infection": 0,
+        "anemia": 2,
+        "gi": 8,
+        "diabetes": 0,
+        "respiratory": 0,
+        "cardiac": 1,
+        "renal": 0,
+        "hepatic": 3
+    },
+    "organ_involvement": {
+        "hepatic": 1,
+        "respiratory": 0,
+        "cardiac": 0,
+        "renal": 1,
+        "gi": 1,
+        "urological": 0
+    },
+    "severity_features": {
+        "age_risk": 1,
+        "multi_organ": 1,
+        "hypoalbuminemia": 1
+    },
+    "primary_condition": "hepatic",
+    "external_features": {
+        "population_dm_prevalence": 0.535
+    },
+    "label_confidence": 0.95,
+    "targets": {
+        "risk_level": 4,
+        "specialist": 9
+    }
+}

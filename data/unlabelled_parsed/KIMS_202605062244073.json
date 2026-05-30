@@ -1,0 +1,106 @@
+{
+  "patient_id": "KIMS_202605062244073",
+  "demographics": {
+    "age": 31,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202605062244073"
+  },
+  "lab_features": {
+    "thyroid_t3": 124.0,
+    "thyroid_t4": 9.58,
+    "thyroid_tsh": 1.48,
+    "hemoglobin": 12.9,
+    "wbc": 8010.0,
+    "neutrophils_pct": 66.0,
+    "lymphocytes_pct": 26.0,
+    "pcv": 38.2,
+    "mcv": 87.0,
+    "mch": 29.4,
+    "mchc": 33.8,
+    "rdw": 13.1,
+    "platelets": 283000,
+    "esr": 3.0
+  },
+  "lab_printed_ranges": {
+    "thyroid_t3": [
+      80.0,
+      200.0
+    ],
+    "thyroid_t4": [
+      5.1,
+      14.1
+    ],
+    "thyroid_tsh": [
+      0.27,
+      4.2
+    ],
+    "hemoglobin": [
+      11.5,
+      16.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "pcv": [
+      35.0,
+      50.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ]
+  },
+  "urine_features": {},
+  "lab_timeline": {},
+  "lab_date_used": {
+    "thyroid_t3": "unknown",
+    "thyroid_t4": "unknown",
+    "thyroid_tsh": "unknown",
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "esr": "unknown"
+  },
+  "peripheral_smear": ". RBCs Normocytic normochromic WBCs are normal in number,distribution and morphology PLATELET are adequate. IMPRESSION NORMOCYTIC NORMOCHROMIC BLOOD PICTURE",
+  "admission_date": null,
+  "n_reports": 3,
+  "n_labs": 14,
+  "n_urine_fields": 0
+}

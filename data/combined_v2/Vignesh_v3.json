@@ -1,0 +1,144 @@
+{
+  "text_input": "Patient was apparently normal 3 months back when he developed easy fatigability in the form of unable to do day to day activities like climbing stairs, taking bath.\nAlso decrease in appetite since 3 months.\nc/o exertional dyspnea × 1 month\nc/o difficulty in passing stools × 1 month with 3–4 times black stools passage\nNo h/o orthopnea / PND\nNo h/o fever / rash / joint pain\nNo h/o walking barefoot\nNo h/o syncope\nNo h/o decrease in urine output / frothy urine\nNo h/o cough / hematemesis / hemoptysis / epistaxis\nNo h/o hematochezia\nNo h/o blood in stools\nNo h/o any bleeding manifestations\nNo h/o abdominal distension / lower limb swelling & pain",
+  "demographics": {
+    "age": 25.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 5.8,
+    "platelets": 262000,
+    "wbc": 5420.0,
+    "esr": 1.0,
+    "bilirubin_total": 0.9,
+    "albumin": 4.4,
+    "ferritin": 2.97,
+    "serum_iron": 11.4,
+    "creatinine": 0.7,
+    "urea": 13.0,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": null,
+    "tsat": null,
+    "ef_percent": null,
+    "sodium": 138.0,
+    "potassium": 3.8,
+    "chloride": 105.0,
+    "sgot": 12.0,
+    "sgpt": 8.0,
+    "alp": 28.0,
+    "ggt": 11.0,
+    "crp": null,
+    "uric_acid": 2.4,
+    "pcv": 23.2,
+    "mcv": 60.9,
+    "rdw": 23.1,
+    "neutrophils_pct": 55.0,
+    "lymphocytes_pct": 38.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 0,
+    "serum_iron_missing": 0,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 1,
+    "cardiac_disease": 0,
+    "respiratory_disease": 1,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 98.0,
+    "bp_systolic": 120.0,
+    "bp_diastolic": 80.0,
+    "pulse": 120.0,
+    "respiratory_rate": 18.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 8,
+    "cardiac": 0,
+    "respiratory": 1,
+    "renal": 1,
+    "hepatic": 0,
+    "gi": 3,
+    "diabetes": 0
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 0,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "anemia",
+  "external_features": {
+    "population_dm_prevalence": 0.1
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 3,
+    "specialist": 6
+  },
+  "_source_patient": "Vignesh",
+  "_discharge_file": "KIMS_202604022189829.json",
+  "_n_html_reports": 12,
+  "_admission_labs_used": 12,
+  "_source_type": "matched_pair",
+  "_filename": "Vignesh_v3.json"
+}

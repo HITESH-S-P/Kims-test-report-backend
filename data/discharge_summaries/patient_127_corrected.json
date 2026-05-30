@@ -1,0 +1,109 @@
+{
+  "text_input": "Patient presented with a 4-month history of easy fatigability and weight loss (4 kg). She reported reduced appetite for one week and a foreign body sensation in the throat for three months. Physical examination was unremarkable except for being afebrile with stable vitals (BP 110/80, Pulse 95, SpO2 99%). Investigations revealed iron deficiency anemia (Ferritin 9.92 ng/mL, Serum Iron 20.01 \u00b5g/dL, TSAT 5.2%). USG abdomen showed Grade 1 fatty liver and a bulky uterus with a fibroid. 2D Echo was normal (EF 55%). The patient was diagnosed with iron deficiency anemia secondary to menorrhagia from a fibroid uterus and was advised to follow up with a gynecologist.",
+  "demographics": {
+    "age": 40.0,
+    "gender": 0
+  },
+  "lab_features": {
+    "hemoglobin": 8.5,
+    "platelets": 250000.0,
+    "wbc": 7500.0,
+    "esr": 15.0,
+    "bilirubin_total": 0.6,
+    "albumin": 4.2,
+    "ferritin": 9.92,
+    "serum_iron": 20.01,
+    "creatinine": 0.8,
+    "urea": 25.0,
+    "grbs": 90.0,
+    "bmi": 22.5,
+    "hba1c": 5.4,
+    "tsat": 5.2,
+    "ef_percent": 55.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 1,
+    "platelets_missing": 1,
+    "wbc_missing": 1,
+    "esr_missing": 1,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 0,
+    "serum_iron_missing": 0,
+    "creatinine_missing": 1,
+    "urea_missing": 1,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 0,
+    "ef_percent_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 0,
+    "hypertension": 0,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 0,
+    "hepatic_disease": 1,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 99.0,
+    "bp_systolic": 110.0,
+    "bp_diastolic": 80.0,
+    "pulse": 95.0,
+    "respiratory_rate": 18.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 0,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "alcohol": 0,
+    "smoking": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 0,
+    "anemia": 1,
+    "gi": 1,
+    "diabetes": 0,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 0,
+    "hepatic": 1
+  },
+  "organ_involvement": {
+    "hepatic": 1,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "anemia",
+  "external_features": {
+    "population_dm_prevalence": 0.085
+  },
+  "label_confidence": 0.833,
+  "targets": {
+    "risk_level": 1,
+    "specialist": 6
+  }
+}

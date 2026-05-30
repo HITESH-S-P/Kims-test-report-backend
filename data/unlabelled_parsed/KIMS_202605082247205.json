@@ -1,0 +1,52 @@
+{
+  "patient_id": "KIMS_202605082247205",
+  "demographics": {
+    "age": 45,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202605082247205"
+  },
+  "lab_features": {
+    "uric_acid": 3.6,
+    "wbc": 7400.0,
+    "neutrophils_pct": 61.0,
+    "lymphocytes_pct": 27.8,
+    "esr": 13.0
+  },
+  "lab_printed_ranges": {
+    "uric_acid": [
+      2.3,
+      6.1
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ]
+  },
+  "urine_features": {},
+  "lab_timeline": {},
+  "lab_date_used": {
+    "uric_acid": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "esr": "unknown"
+  },
+  "peripheral_smear": null,
+  "admission_date": null,
+  "n_reports": 3,
+  "n_labs": 5,
+  "n_urine_fields": 0
+}

@@ -1,0 +1,142 @@
+{
+  "text_input": "Patient is k/c/o type 2 diabetes mellitus now came with c/o cough with expectoration since 5days. Sputum is whitish in color, mucoid in consistency,non blood tinged,non foul smelling, minimal in amount. Also c/o shortness of breath from 1 day  which was acute onset, progressed from MMRC grade 1 to MMRC grade 4 ,not a/w orthopnea not a/w paroxysmal nocturnal dyspnoea. Pt also c/o easy fatiguability since 1 day and 1 spike of fever last night which was high grade nature, not a/w chills and rigors, no aggravating or relieving factors. No c/o chest pain. No c/o vomiting/loose stools. No c/o pain abdomen. No c/o passage of black coloured stools. No c/o increased frequency of micturition or burning micturition.",
+  "demographics": {
+    "age": 74.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 12.7,
+    "platelets": 195000,
+    "wbc": 17630.0,
+    "esr": 17.0,
+    "bilirubin_total": 0.5,
+    "albumin": 3.9,
+    "ferritin": null,
+    "serum_iron": null,
+    "creatinine": 1.1,
+    "urea": 26.0,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": 12.2,
+    "tsat": null,
+    "ef_percent": null,
+    "sodium": 134.0,
+    "potassium": 3.8,
+    "chloride": 97.0,
+    "sgot": 16.0,
+    "sgpt": 13.0,
+    "alp": 81.0,
+    "ggt": 32.0,
+    "crp": null,
+    "uric_acid": 5.9,
+    "pcv": 38.5,
+    "mcv": 95.1,
+    "rdw": 14.6,
+    "neutrophils_pct": 85.0,
+    "lymphocytes_pct": 12.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 0,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 1,
+    "cardiac_disease": 0,
+    "respiratory_disease": 1,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 1
+  },
+  "vitals": {
+    "spo2": 88.0,
+    "bp_systolic": 130.0,
+    "bp_diastolic": 80.0,
+    "pulse": 106.0,
+    "respiratory_rate": null,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 1,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 1,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 6,
+    "anemia": 0,
+    "cardiac": 0,
+    "respiratory": 5,
+    "renal": 0,
+    "hepatic": 0,
+    "gi": 2,
+    "diabetes": 5
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 1,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 1,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "infection",
+  "external_features": {
+    "population_dm_prevalence": 0.05
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 3,
+    "specialist": 10
+  },
+  "_source_patient": "NARAYANAPPA",
+  "_discharge_file": "discharge_114.json",
+  "_n_html_reports": 14,
+  "_admission_labs_used": 14
+}

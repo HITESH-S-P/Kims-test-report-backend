@@ -1,0 +1,105 @@
+{
+  "patient_id": "KIMS_202506171523868",
+  "demographics": {
+    "age": 22,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202506171523868"
+  },
+  "lab_features": {
+    "uric_acid": 2.0,
+    "hemoglobin": 10.7,
+    "wbc": 11060.0,
+    "neutrophils_pct": 77.0,
+    "lymphocytes_pct": 16.0,
+    "pcv": 35.6,
+    "mcv": 75.3,
+    "mch": 22.6,
+    "mchc": 30.1,
+    "rdw": 20.7,
+    "platelets": 249000,
+    "esr": 25.0
+  },
+  "lab_printed_ranges": {
+    "uric_acid": [
+      2.3,
+      6.1
+    ],
+    "hemoglobin": [
+      11.5,
+      16.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "pcv": [
+      35.0,
+      50.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.005,
+    "urine_ph": 6.5,
+    "urine_protein": 0,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "uric_acid": "unknown",
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "esr": "unknown"
+  },
+  "peripheral_smear": ". RBCs Show mild to moderate degree of anisocytosis with hypochromia.Seen are microcytes admixed with normocytes.Also seen are elliptocytes and few tear drop cells. WBCs are increased in number with absolute increase in neutrophils  and  normal in morphology. PLATELET are adequate. NO ABNORMAL CELLS SEEN . IMPRESSION MICROCYTIC HYPOCHROMIC ANEMIA WITH NEUTROPHILIC LEUCOCYTOSIS.",
+  "admission_date": null,
+  "n_reports": 7,
+  "n_labs": 12,
+  "n_urine_fields": 10
+}

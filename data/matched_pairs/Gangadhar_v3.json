@@ -1,0 +1,142 @@
+{
+  "text_input": "Patient was apparently normal 2 days back, when she complained of loose stools, 2–3 episodes per day, watery in content, non-mucoid, non-blood stained, associated with 2–3 episodes of vomiting per day, non-projectile, non-blood stained, had food particles, and patient had 1 episode of fever, low grade, persistent for few hours, associated with fatigue and reduced appetite.Later in the afternoon, patient attended to head in the bathroom, as per the patient, when the patient was little drowsy and brought to ER, who which decreased sensorium and GCS was found to be low, and consciousness improved after IV fluids.\nNo h/o outside food intake / abd pain / burning micturition\nNo h/o limb weakness",
+  "demographics": {
+    "age": 46.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 10.7,
+    "platelets": 275000,
+    "wbc": 10440.0,
+    "esr": 98.0,
+    "bilirubin_total": 0.2,
+    "albumin": 3.3,
+    "ferritin": 860.0,
+    "serum_iron": 18.0,
+    "creatinine": 0.7,
+    "urea": 16.0,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": 6.0,
+    "tsat": null,
+    "ef_percent": null,
+    "sodium": 134.0,
+    "potassium": 4.0,
+    "chloride": 101.0,
+    "sgot": 38.0,
+    "sgpt": 18.0,
+    "alp": 70.0,
+    "ggt": 91.0,
+    "crp": null,
+    "uric_acid": 4.2,
+    "pcv": 32.4,
+    "mcv": 91.5,
+    "rdw": 14.8,
+    "neutrophils_pct": 64.0,
+    "lymphocytes_pct": 29.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 0,
+    "serum_iron_missing": 0,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 0,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 1,
+    "cardiac_disease": 1,
+    "respiratory_disease": 0,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 98.0,
+    "bp_systolic": 150.0,
+    "bp_diastolic": 90.0,
+    "pulse": 90.0,
+    "respiratory_rate": null,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 4,
+    "cardiac": 3,
+    "respiratory": 0,
+    "renal": 0,
+    "hepatic": 0,
+    "gi": 2,
+    "diabetes": 0
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 0,
+    "cardiac": 1,
+    "renal": 0,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "anemia",
+  "external_features": {
+    "population_dm_prevalence": 0.1
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 2,
+    "specialist": 6
+  },
+  "_source_patient": "Gangadhar",
+  "_discharge_file": "KIMS_202603282183402.json",
+  "_n_html_reports": 11,
+  "_admission_labs_used": 11
+}

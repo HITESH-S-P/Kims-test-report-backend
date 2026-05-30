@@ -1,0 +1,110 @@
+{
+  "patient_id": "KIMS_202602242134006",
+  "demographics": {
+    "age": 26,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202602242134006"
+  },
+  "lab_features": {
+    "hba1c": 5.4,
+    "hemoglobin": 10.7,
+    "wbc": 18490.0,
+    "neutrophils_pct": 84.0,
+    "lymphocytes_pct": 14.0,
+    "pcv": 34.3,
+    "mcv": 84.5,
+    "mch": 26.4,
+    "mchc": 31.2,
+    "rdw": 14.3,
+    "platelets": 267000,
+    "esr": 48.0
+  },
+  "lab_printed_ranges": {
+    "hba1c": [
+      4.8,
+      5.6
+    ],
+    "hemoglobin": [
+      11.5,
+      16.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "pcv": [
+      35.0,
+      50.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.03,
+    "urine_ph": 5.5,
+    "urine_protein": 0,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0,
+    "urine_pus_cells": 1.0,
+    "urine_epithelial_cells": 3.0,
+    "urine_casts": 0,
+    "urine_crystals": 0,
+    "urine_bacteria": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "hba1c": "unknown",
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "esr": "unknown"
+  },
+  "peripheral_smear": ". RBCs Normocytic normochromic WBCs are  increased  in number with absolute increase in neutrophils  and  normal in morphology. PLATELET are adequate IMPRESSION NORMOCYTIC  NORMOCHROMIC  ANEMIA  WITH  NEUTROPHILIC  LEUCOCYTOSIS.",
+  "admission_date": null,
+  "n_reports": 3,
+  "n_labs": 12,
+  "n_urine_fields": 15
+}

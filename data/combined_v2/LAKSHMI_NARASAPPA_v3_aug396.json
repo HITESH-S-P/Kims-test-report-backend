@@ -1,0 +1,146 @@
+{
+  "text_input": "Patient was apparently normal 20 days back when he first developed vomiting, which was non-bilious, non-blood tinged, non-projectile.\n10-15 episodes a day\nPatient also had multiple episodes of loose stools, watery in consistency, non-foul smelling non blood tinged.\nAt around the same time, patient had developed fever which was episodic in nature, relieved on taking medication not associated with chills.\nPatient was initially taken to Shridevi Institute where he was evaluated and was dialysed on the day of admission. Patient underwent daily dialysis however there was no significant improvement in urine output and was thus advised to undergo biopsy which the attendees refused and wished to be treated at KIMS.\nOn arrival, patient had c/o dyspnoea which was associated with cough & expectoration. Patient had no more complaints of vomiting / loose stools.",
+  "demographics": {
+    "age": 75.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 8.22,
+    "platelets": 77000,
+    "wbc": 8970.99,
+    "esr": 39.0,
+    "bilirubin_total": 2.5,
+    "albumin": 3.29,
+    "ferritin": null,
+    "serum_iron": null,
+    "creatinine": 3.78,
+    "urea": 43.5,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": null,
+    "tsat": null,
+    "ef_percent": null,
+    "sodium": 139.17,
+    "potassium": 3.63,
+    "chloride": 98.0,
+    "sgot": 43.14,
+    "sgpt": 25.73,
+    "alp": 72.0,
+    "ggt": 72.0,
+    "crp": null,
+    "uric_acid": 4.4,
+    "pcv": 29.9,
+    "mcv": 85.7,
+    "rdw": 15.9,
+    "neutrophils_pct": 79.0,
+    "lymphocytes_pct": 11.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 0,
+    "hypertension": 1,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 1,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 98.0,
+    "bp_systolic": 120.0,
+    "bp_diastolic": 70.0,
+    "pulse": 82.0,
+    "respiratory_rate": 18.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 3,
+    "cardiac": 0,
+    "respiratory": 0,
+    "renal": 4,
+    "hepatic": 0,
+    "gi": 2,
+    "diabetes": 0
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 1,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 1,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "renal",
+  "external_features": {
+    "population_dm_prevalence": 0.15
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 3,
+    "specialist": 2
+  },
+  "_source_patient": "LAKSHMI NARASAPPA",
+  "_discharge_file": "KIMS_202605112252245.json",
+  "_n_html_reports": 17,
+  "_admission_labs_used": 17,
+  "_source_type": "matched_pair",
+  "_filename": "LAKSHMI_NARASAPPA_v3.json",
+  "_augmented": true,
+  "_aug_source": "LAKSHMI_NARASAPPA_v3.json"
+}

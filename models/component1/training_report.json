@@ -1,0 +1,63 @@
+{
+  "fold_results": [
+    {
+      "condition_f1": 0.5975,
+      "risk_acc": 0.7195,
+      "organ_f1": 0.5401,
+      "combined": 0.6191
+    },
+    {
+      "condition_f1": 0.6419,
+      "risk_acc": 0.8049,
+      "organ_f1": 0.6135,
+      "combined": 0.6868
+    },
+    {
+      "condition_f1": 0.5508,
+      "risk_acc": 0.7195,
+      "organ_f1": 0.5893,
+      "combined": 0.6199
+    },
+    {
+      "condition_f1": 0.6079,
+      "risk_acc": 0.7284,
+      "organ_f1": 0.5321,
+      "combined": 0.6228
+    },
+    {
+      "condition_f1": 0.7003,
+      "risk_acc": 0.679,
+      "organ_f1": 0.6763,
+      "combined": 0.6852
+    }
+  ],
+  "average": {
+    "condition_f1": 0.6197,
+    "risk_acc": 0.7303,
+    "organ_f1": 0.5903,
+    "combined": 0.6468
+  },
+  "std": {
+    "condition_f1": 0.0497,
+    "risk_acc": 0.0411,
+    "organ_f1": 0.0526,
+    "combined": 0.0321
+  },
+  "ensemble_metrics": {
+    "condition_f1": 0.8467,
+    "risk_acc": 0.8309,
+    "organ_f1": 0.6175,
+    "combined": 0.765
+  },
+  "n_patients": 408,
+  "input_dim": 85,
+  "config": {
+    "lr": 0.001,
+    "dropout": 0.4,
+    "weight_decay": 0.0005,
+    "epochs": 200,
+    "label_smoothing": 0.1,
+    "scheduler": "OneCycleLR",
+    "class_weights": "inv_sqrt"
+  }
+}

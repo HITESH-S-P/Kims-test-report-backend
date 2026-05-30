@@ -1,0 +1,110 @@
+{
+  "patient_id": "KIMS_202602242135628",
+  "demographics": {
+    "age": 32,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202602242135628"
+  },
+  "lab_features": {
+    "sodium": 133.0,
+    "potassium": 4.4,
+    "chloride": 104.0,
+    "bilirubin_total": 0.2,
+    "direct_bilirubin": 0.1,
+    "sgot": 48.0,
+    "sgpt": 17.0,
+    "alp": 82.0,
+    "total_protein": 8.1,
+    "albumin": 4.2,
+    "ggt": 12.0,
+    "urea": 15.0,
+    "creatinine": 0.9,
+    "uric_acid": 3.8,
+    "pcv": 36.8,
+    "platelets": 228000
+  },
+  "lab_printed_ranges": {
+    "sodium": [
+      136.0,
+      145.0
+    ],
+    "potassium": [
+      3.5,
+      5.1
+    ],
+    "chloride": [
+      98.0,
+      107.0
+    ],
+    "bilirubin_total": [
+      0.2,
+      1.1
+    ],
+    "sgot": [
+      5.0,
+      40.0
+    ],
+    "sgpt": [
+      5.0,
+      40.0
+    ],
+    "alp": [
+      105.0,
+      130.0
+    ],
+    "total_protein": [
+      6.4,
+      8.3
+    ],
+    "albumin": [
+      3.5,
+      5.2
+    ],
+    "urea": [
+      17.0,
+      48.0
+    ],
+    "creatinine": [
+      0.5,
+      0.9
+    ],
+    "uric_acid": [
+      2.3,
+      6.1
+    ],
+    "pcv": [
+      35.0,
+      50.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ]
+  },
+  "urine_features": {},
+  "lab_timeline": {},
+  "lab_date_used": {
+    "sodium": "unknown",
+    "potassium": "unknown",
+    "chloride": "unknown",
+    "bilirubin_total": "unknown",
+    "direct_bilirubin": "unknown",
+    "sgot": "unknown",
+    "sgpt": "unknown",
+    "alp": "unknown",
+    "total_protein": "unknown",
+    "albumin": "unknown",
+    "ggt": "unknown",
+    "urea": "unknown",
+    "creatinine": "unknown",
+    "uric_acid": "unknown",
+    "pcv": "unknown",
+    "platelets": "unknown"
+  },
+  "peripheral_smear": null,
+  "admission_date": null,
+  "n_reports": 7,
+  "n_labs": 16,
+  "n_urine_fields": 0
+}

@@ -1,0 +1,109 @@
+{
+  "text_input": "72-year-old male presented with a 3-day history of cough with mucoid expectoration and sudden onset breathlessness (MMRC Grade 4). Known case of Type 2 Diabetes Mellitus (4 years), Pancreatic Carcinoma (Stage IV) with hepatic and peritoneal metastasis (post 6 cycles chemotherapy), and Ischemic Heart Disease with Heart Failure. Examination revealed pallor, clubbing, bilateral rhonchi, and an ejection systolic murmur. Investigations showed Hemoglobin 8.9 g/dL, WBC 9610/\u00b5L, Platelets 379,000/\u00b5L, and ESR 37 mm/hr. 2D Echo indicated Dilated Cardiomyopathy with EF 35-40% and severe aortic stenosis. Diagnosed with Bronchopneumonia and acute exacerbation of heart failure. Treated with IV antibiotics (Veotaz, Claribid), insulin, and cardiac medications. Referred to a higher center for cardiac intervention (AVR/Angiography).",
+  "demographics": {
+    "age": 72.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 8.9,
+    "platelets": 379000.0,
+    "wbc": 9610.0,
+    "esr": 37.0,
+    "bilirubin_total": 0.8,
+    "albumin": 3.2,
+    "ferritin": 250.0,
+    "serum_iron": 80.0,
+    "creatinine": 0.7,
+    "urea": 27.0,
+    "grbs": 140.0,
+    "bmi": 22.0,
+    "hba1c": 7.5,
+    "tsat": 22.0,
+    "ef_percent": 37.5
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 1,
+    "albumin_missing": 1,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 1,
+    "ef_percent_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 0,
+    "cardiac_disease": 1,
+    "respiratory_disease": 1,
+    "renal_disease": 0,
+    "hepatic_disease": 1,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 85.0,
+    "bp_systolic": 110.0,
+    "bp_diastolic": 70.0,
+    "pulse": 100.0,
+    "respiratory_rate": 22.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 1,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 1
+  },
+  "history": {
+    "known_diabetes": 1,
+    "alcohol": 0,
+    "smoking": 0,
+    "diet_vegetarian": 1,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 1,
+    "ef_normal": 0,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 1,
+    "gi": 1,
+    "diabetes": 1,
+    "respiratory": 1,
+    "cardiac": 1,
+    "renal": 0,
+    "hepatic": 1
+  },
+  "organ_involvement": {
+    "hepatic": 1,
+    "respiratory": 1,
+    "cardiac": 1,
+    "renal": 0,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 1,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "respiratory",
+  "external_features": {
+    "population_dm_prevalence": 0.408
+  },
+  "label_confidence": 0.95,
+  "targets": {
+    "risk_level": 4,
+    "specialist": 5
+  }
+}

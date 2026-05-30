@@ -1,0 +1,117 @@
+{
+  "patient_id": "KIMS_202603262178985",
+  "demographics": {
+    "age": 37,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202603262178985"
+  },
+  "lab_features": {
+    "thyroid_t3": 156.0,
+    "thyroid_t4": 8.84,
+    "thyroid_tsh": 1.54,
+    "hemoglobin": 13.1,
+    "wbc": 10330.0,
+    "neutrophils_pct": 70.0,
+    "lymphocytes_pct": 23.0,
+    "pcv": 38.9,
+    "mcv": 87.0,
+    "mch": 29.3,
+    "mchc": 33.7,
+    "rdw": 13.3,
+    "platelets": 293000,
+    "esr": 22.0
+  },
+  "lab_printed_ranges": {
+    "thyroid_t3": [
+      80.0,
+      200.0
+    ],
+    "thyroid_t4": [
+      5.1,
+      14.1
+    ],
+    "thyroid_tsh": [
+      0.27,
+      4.2
+    ],
+    "hemoglobin": [
+      11.5,
+      16.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "pcv": [
+      35.0,
+      50.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.02,
+    "urine_ph": 5.5,
+    "urine_protein": 0,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "thyroid_t3": "unknown",
+    "thyroid_t4": "unknown",
+    "thyroid_tsh": "unknown",
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "esr": "unknown"
+  },
+  "peripheral_smear": ". RBCs Normocytic normochromic WBCs are normal in number,distribution and morphology PLATELET are adequate. IMPRESSION NORMOCYTIC NORMOCHROMIC BLOOD PICTURE",
+  "admission_date": null,
+  "n_reports": 2,
+  "n_labs": 14,
+  "n_urine_fields": 10
+}

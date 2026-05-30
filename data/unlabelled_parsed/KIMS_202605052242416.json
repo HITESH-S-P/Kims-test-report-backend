@@ -1,0 +1,118 @@
+{
+  "patient_id": "KIMS_202605052242416",
+  "demographics": {
+    "age": 70,
+    "gender": 1,
+    "patient_type": null,
+    "uhid": "202605052242416"
+  },
+  "lab_features": {
+    "pcv": 27.6,
+    "hemoglobin": 7.7,
+    "wbc": 7900.0,
+    "neutrophils_pct": 72.2,
+    "lymphocytes_pct": 18.9,
+    "mcv": 86.2,
+    "mch": 28.0,
+    "mchc": 32.5,
+    "rdw": 16.9,
+    "platelets": 339000,
+    "sodium": 133.0,
+    "potassium": 4.7,
+    "chloride": 99.0,
+    "urea": 75.0,
+    "creatinine": 6.2,
+    "uric_acid": 6.0
+  },
+  "lab_printed_ranges": {
+    "pcv": [
+      40.0,
+      55.0
+    ],
+    "hemoglobin": [
+      13.0,
+      18.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "sodium": [
+      136.0,
+      145.0
+    ],
+    "potassium": [
+      3.5,
+      5.1
+    ],
+    "chloride": [
+      98.0,
+      107.0
+    ],
+    "urea": [
+      17.0,
+      48.0
+    ],
+    "creatinine": [
+      0.7,
+      1.2
+    ],
+    "uric_acid": [
+      3.6,
+      7.0
+    ]
+  },
+  "urine_features": {},
+  "lab_timeline": {},
+  "lab_date_used": {
+    "pcv": "unknown",
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "sodium": "unknown",
+    "potassium": "unknown",
+    "chloride": "unknown",
+    "urea": "unknown",
+    "creatinine": "unknown",
+    "uric_acid": "unknown"
+  },
+  "peripheral_smear": null,
+  "admission_date": null,
+  "n_reports": 15,
+  "n_labs": 16,
+  "n_urine_fields": 0
+}

@@ -1,0 +1,209 @@
+{
+  "patient_id": "KIMS_202605092249705",
+  "demographics": {
+    "age": 62,
+    "gender": 1,
+    "patient_type": null,
+    "uhid": "202605092249705"
+  },
+  "lab_features": {
+    "sodium": 130.0,
+    "potassium": 4.9,
+    "chloride": 95.0,
+    "hba1c": 10.2,
+    "bilirubin_total": 1.0,
+    "direct_bilirubin": 0.8,
+    "sgot": 21.0,
+    "sgpt": 17.0,
+    "alp": 172.0,
+    "total_protein": 5.5,
+    "albumin": 3.0,
+    "ggt": 42.0,
+    "urea": 25.0,
+    "creatinine": 0.8,
+    "uric_acid": 4.4,
+    "hemoglobin": 11.7,
+    "wbc": 13460.0,
+    "neutrophils_pct": 85.0,
+    "lymphocytes_pct": 10.0,
+    "pcv": 32.6,
+    "mcv": 92.9,
+    "mch": 33.3,
+    "mchc": 35.9,
+    "rdw": 13.2,
+    "platelets": 234000,
+    "esr": 87.0,
+    "cholesterol_total": 131.0,
+    "triglycerides": 135.0,
+    "hdl": 19.0,
+    "ldl": 59.0
+  },
+  "lab_printed_ranges": {
+    "sodium": [
+      136.0,
+      145.0
+    ],
+    "potassium": [
+      3.5,
+      5.1
+    ],
+    "chloride": [
+      98.0,
+      107.0
+    ],
+    "hba1c": [
+      4.8,
+      5.6
+    ],
+    "bilirubin_total": [
+      0.2,
+      1.1
+    ],
+    "direct_bilirubin": [
+      0.0,
+      0.2
+    ],
+    "sgot": [
+      5.0,
+      40.0
+    ],
+    "sgpt": [
+      5.0,
+      40.0
+    ],
+    "alp": [
+      105.0,
+      130.0
+    ],
+    "total_protein": [
+      6.4,
+      8.3
+    ],
+    "albumin": [
+      3.5,
+      5.2
+    ],
+    "urea": [
+      17.0,
+      48.0
+    ],
+    "creatinine": [
+      0.7,
+      1.2
+    ],
+    "uric_acid": [
+      3.6,
+      7.0
+    ],
+    "hemoglobin": [
+      13.0,
+      18.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "pcv": [
+      40.0,
+      55.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "esr": [
+      0.0,
+      15.0
+    ],
+    "cholesterol_total": [
+      125.0,
+      200.0
+    ],
+    "triglycerides": [
+      50.0,
+      150.0
+    ],
+    "hdl": [
+      40.0,
+      60.0
+    ],
+    "ldl": [
+      70.0,
+      130.0
+    ]
+  },
+  "urine_features": {
+    "urine_ketones": 0,
+    "urine_specific_gravity": 1.005,
+    "urine_ph": 5.0,
+    "urine_protein": 0,
+    "urine_glucose": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "sodium": "unknown",
+    "potassium": "unknown",
+    "chloride": "unknown",
+    "hba1c": "unknown",
+    "bilirubin_total": "unknown",
+    "direct_bilirubin": "unknown",
+    "sgot": "unknown",
+    "sgpt": "unknown",
+    "alp": "unknown",
+    "total_protein": "unknown",
+    "albumin": "unknown",
+    "ggt": "unknown",
+    "urea": "unknown",
+    "creatinine": "unknown",
+    "uric_acid": "unknown",
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "esr": "unknown",
+    "cholesterol_total": "unknown",
+    "triglycerides": "unknown",
+    "hdl": "unknown",
+    "ldl": "unknown"
+  },
+  "peripheral_smear": ". RBCs are normocytic  normochromic with few microcytes. WBCs are increased in number with absolute increase in neutrophils . Few neutrophils show toxic granules. PLATELET are adequate NO ABNORMAL CELLS SEEN . IMPRESSION NORMOCYTIC  NORMOCHROMIC  ANEMIA  WITH  NEUTROPHILIC  LEUCOCYTOSIS GROUPING AND TYPING BLOOD GROUP (Method-Manual(Slide Method)) \"A\" RH TYPING (Method-Manual(Slide Method)) POSITIVE PARTIAL THROMBOPLASTIN TIME (APTT) CONTROL (Method-Automated(Mechanical Clot Detection)) 32.7 Sec 35-50 TEST 27.2 Sec 35-50 PROTHROMBIN TIME (PT) CONTROL (Automated(Mechanical Clot Detection)) 14.0 TEST : 14.7 Sec INR 1.06 Sec",
+  "admission_date": null,
+  "n_reports": 12,
+  "n_labs": 30,
+  "n_urine_fields": 10
+}

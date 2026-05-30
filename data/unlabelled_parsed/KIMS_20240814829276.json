@@ -1,0 +1,117 @@
+{
+  "patient_id": "KIMS_20240814829276",
+  "demographics": {
+    "age": 33,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "20240814829276"
+  },
+  "lab_features": {
+    "hba1c": 5.2,
+    "hemoglobin": 12.9,
+    "wbc": 9140.0,
+    "neutrophils_pct": 67.0,
+    "lymphocytes_pct": 30.0,
+    "pcv": 39.7,
+    "mcv": 83.9,
+    "mch": 27.3,
+    "mchc": 32.5,
+    "rdw": 13.0,
+    "platelets": 353000,
+    "esr": 10.0,
+    "grbs": 71.0
+  },
+  "lab_printed_ranges": {
+    "hba1c": [
+      4.8,
+      5.6
+    ],
+    "hemoglobin": [
+      11.5,
+      16.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "pcv": [
+      35.0,
+      50.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ],
+    "grbs": [
+      70.0,
+      109.0
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.01,
+    "urine_ph": 7.0,
+    "urine_protein": 0,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0,
+    "urine_pus_cells": 1.0,
+    "urine_epithelial_cells": 2.0,
+    "urine_rbc": 1.0,
+    "urine_casts": 0,
+    "urine_crystals": 0,
+    "urine_bacteria": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "hba1c": "unknown",
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "esr": "unknown",
+    "grbs": "unknown"
+  },
+  "peripheral_smear": ". RBCs Normocytic normochromic. WBCs are normal in number, distribution and morphology. PLATELET are adequate. NO ABNORMAL CELLS SEEN . IMPRESSION NORMOCYTIC NORMOCHROMIC BLOOD PICTURE. GROUPING AND TYPING BLOOD GROUP (Method-Manual(Slide Method)) B RH TYPING (Method-Manual(Slide Method)) POSITIVE",
+  "admission_date": null,
+  "n_reports": 8,
+  "n_labs": 13,
+  "n_urine_fields": 16
+}

@@ -1,0 +1,144 @@
+{
+  "text_input": "Patient was apparently normal 1 week back when he developed abdominal distension * 1 week ago , gradually progressive , no aggravating or relieving factors , patient also gives h/o B/L lower limb swelling since 1 week , extends upto knee , no aggravating or relieving factors , patient also give H/o cough with expectoration since 1 week , aggravated during evening , no relieving factors  No h/o fever , vomiting, loose stools , pain abdomen",
+  "demographics": {
+    "age": 64.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 9.8,
+    "platelets": 278000,
+    "wbc": 11640.0,
+    "esr": 59.0,
+    "bilirubin_total": 0.4,
+    "albumin": 3.0,
+    "ferritin": null,
+    "serum_iron": null,
+    "creatinine": 0.7,
+    "urea": 31.0,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": 9.5,
+    "tsat": null,
+    "ef_percent": null,
+    "sodium": 129.0,
+    "potassium": 4.6,
+    "chloride": 100.0,
+    "sgot": 33.0,
+    "sgpt": 41.0,
+    "alp": 124.0,
+    "ggt": 147.0,
+    "crp": null,
+    "uric_acid": 5.8,
+    "pcv": 31.5,
+    "mcv": 84.2,
+    "rdw": 13.3,
+    "neutrophils_pct": 91.0,
+    "lymphocytes_pct": 7.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 0,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 1,
+    "cardiac_disease": 0,
+    "respiratory_disease": 1,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 96.0,
+    "bp_systolic": 140.0,
+    "bp_diastolic": 90.0,
+    "pulse": 80.0,
+    "respiratory_rate": null,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 1,
+    "antibiotics": 0,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 1,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 1,
+    "sleep_adequate": 0
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 2,
+    "cardiac": 0,
+    "respiratory": 1,
+    "renal": 0,
+    "hepatic": 4,
+    "gi": 2,
+    "diabetes": 4
+  },
+  "organ_involvement": {
+    "hepatic": 1,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 1,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "hepatic",
+  "external_features": {
+    "population_dm_prevalence": 0.08
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 2,
+    "specialist": 4
+  },
+  "_source_patient": "NAGARAJU",
+  "_discharge_file": "discharge_108.json",
+  "_n_html_reports": 6,
+  "_admission_labs_used": 6,
+  "_source_type": "matched_pair",
+  "_filename": "NAGARAJU_v3.json"
+}

@@ -1,0 +1,118 @@
+{
+  "patient_id": "KIMS_202512152002817",
+  "demographics": {
+    "age": 26,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202512152002817"
+  },
+  "lab_features": {
+    "sodium": 139.0,
+    "potassium": 4.7,
+    "chloride": 104.0,
+    "urea": 12.0,
+    "creatinine": 0.5,
+    "hemoglobin": 14.1,
+    "wbc": 8180.0,
+    "neutrophils_pct": 70.0,
+    "lymphocytes_pct": 25.0,
+    "pcv": 45.5,
+    "mcv": 70.4,
+    "mch": 21.8,
+    "mchc": 31.0,
+    "rdw": 15.5,
+    "platelets": 257000,
+    "esr": 7.0
+  },
+  "lab_printed_ranges": {
+    "sodium": [
+      136.0,
+      145.0
+    ],
+    "potassium": [
+      3.5,
+      5.1
+    ],
+    "chloride": [
+      98.0,
+      107.0
+    ],
+    "urea": [
+      17.0,
+      48.0
+    ],
+    "creatinine": [
+      0.5,
+      0.9
+    ],
+    "hemoglobin": [
+      11.5,
+      16.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "pcv": [
+      35.0,
+      50.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ]
+  },
+  "urine_features": {},
+  "lab_timeline": {},
+  "lab_date_used": {
+    "sodium": "unknown",
+    "potassium": "unknown",
+    "chloride": "unknown",
+    "urea": "unknown",
+    "creatinine": "unknown",
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "esr": "unknown"
+  },
+  "peripheral_smear": ". RBCs are normocytic  normochromic. with erythrocytosis. WBCs are normal in number, distribution and morphology. PLATELET are adequate. NO ABNORMAL CELLS SEEN . IMPRESSION NORMOCYTIC NORMOCHROMIC BLOOD PICTURE. NOTE Suggested clinical correlation in view of erythrocytosis.",
+  "admission_date": null,
+  "n_reports": 3,
+  "n_labs": 16,
+  "n_urine_fields": 0
+}

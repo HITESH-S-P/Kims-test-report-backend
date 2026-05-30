@@ -1,0 +1,52 @@
+{
+  "patient_id": "KIMS_202605092249423",
+  "demographics": {
+    "age": 47,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202605092249423"
+  },
+  "lab_features": {
+    "grbs": 133.0,
+    "hba1c": 6.7,
+    "thyroid_t3": 87.2,
+    "thyroid_t4": 7.11,
+    "thyroid_tsh": 12.4
+  },
+  "lab_printed_ranges": {
+    "grbs": [
+      70.0,
+      109.0
+    ],
+    "hba1c": [
+      4.8,
+      5.6
+    ],
+    "thyroid_t3": [
+      80.0,
+      200.0
+    ],
+    "thyroid_t4": [
+      5.1,
+      14.1
+    ],
+    "thyroid_tsh": [
+      0.27,
+      4.2
+    ]
+  },
+  "urine_features": {},
+  "lab_timeline": {},
+  "lab_date_used": {
+    "grbs": "unknown",
+    "hba1c": "unknown",
+    "thyroid_t3": "unknown",
+    "thyroid_t4": "unknown",
+    "thyroid_tsh": "unknown"
+  },
+  "peripheral_smear": null,
+  "admission_date": null,
+  "n_reports": 3,
+  "n_labs": 5,
+  "n_urine_fields": 0
+}

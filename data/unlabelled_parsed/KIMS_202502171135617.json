@@ -1,0 +1,66 @@
+{
+  "patient_id": "KIMS_202502171135617",
+  "demographics": {
+    "age": 34,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202502171135617"
+  },
+  "lab_features": {
+    "bilirubin_total": 0.3,
+    "direct_bilirubin": 0.2,
+    "sgot": 14.0,
+    "sgpt": 10.0,
+    "alp": 97.0,
+    "total_protein": 6.4,
+    "albumin": 3.4,
+    "ggt": 8.0
+  },
+  "lab_printed_ranges": {
+    "bilirubin_total": [
+      0.2,
+      1.1
+    ],
+    "sgot": [
+      5.0,
+      40.0
+    ],
+    "sgpt": [
+      5.0,
+      40.0
+    ],
+    "alp": [
+      105.0,
+      130.0
+    ],
+    "total_protein": [
+      6.4,
+      8.3
+    ],
+    "albumin": [
+      3.5,
+      5.2
+    ],
+    "ggt": [
+      5.0,
+      40.0
+    ]
+  },
+  "urine_features": {},
+  "lab_timeline": {},
+  "lab_date_used": {
+    "bilirubin_total": "unknown",
+    "direct_bilirubin": "unknown",
+    "sgot": "unknown",
+    "sgpt": "unknown",
+    "alp": "unknown",
+    "total_protein": "unknown",
+    "albumin": "unknown",
+    "ggt": "unknown"
+  },
+  "peripheral_smear": null,
+  "admission_date": null,
+  "n_reports": 1,
+  "n_labs": 8,
+  "n_urine_fields": 0
+}

@@ -1,0 +1,117 @@
+{
+  "patient_id": "KIMS_202605112250819",
+  "demographics": {
+    "age": 11,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202605112250819"
+  },
+  "lab_features": {
+    "hemoglobin": 13.3,
+    "wbc": 2790.0,
+    "neutrophils_pct": 31.8,
+    "lymphocytes_pct": 62.4,
+    "pcv": 38.9,
+    "mcv": 75.8,
+    "mch": 25.9,
+    "mchc": 34.2,
+    "rdw": 13.5,
+    "platelets": 135000,
+    "esr": 6.0,
+    "albumin": 4.1,
+    "sgot": 52.0,
+    "sgpt": 41.0
+  },
+  "lab_printed_ranges": {
+    "hemoglobin": [
+      12.0,
+      15.0
+    ],
+    "wbc": [
+      4500.0,
+      14000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      60.0
+    ],
+    "lymphocytes_pct": [
+      35.0,
+      45.0
+    ],
+    "pcv": [
+      35.0,
+      45.0
+    ],
+    "mcv": [
+      77.0,
+      85.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ],
+    "albumin": [
+      3.5,
+      5.2
+    ],
+    "sgot": [
+      5.0,
+      40.0
+    ],
+    "sgpt": [
+      5.0,
+      40.0
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.015,
+    "urine_ph": 7.0,
+    "urine_protein": 0,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "esr": "unknown",
+    "albumin": "unknown",
+    "sgot": "unknown",
+    "sgpt": "unknown"
+  },
+  "peripheral_smear": ". RBCs Normocytic normochromic WBCs are decreased in number. Few reactive lymphocytes seen. PLATELET are reduced NO ABNORMAL CELLS SEEN . IMPRESSION NORMOCYTIC  NORMOCHROMIC  BLOOD  PICTURE  WITH  LEUCOPENIA AND THROMBOCYTOPENIA.",
+  "admission_date": null,
+  "n_reports": 10,
+  "n_labs": 14,
+  "n_urine_fields": 10
+}

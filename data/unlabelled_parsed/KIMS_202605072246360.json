@@ -1,0 +1,88 @@
+{
+  "patient_id": "KIMS_202605072246360",
+  "demographics": {
+    "age": 20,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202605072246360"
+  },
+  "lab_features": {
+    "hemoglobin": 12.7,
+    "wbc": 14100.0,
+    "neutrophils_pct": 74.0,
+    "lymphocytes_pct": 19.0,
+    "pcv": 35.7,
+    "mcv": 82.6,
+    "mch": 29.4,
+    "mchc": 35.6,
+    "rdw": 13.1,
+    "platelets": 295000,
+    "esr": 18.0
+  },
+  "lab_printed_ranges": {
+    "hemoglobin": [
+      11.5,
+      16.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "pcv": [
+      35.0,
+      50.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ]
+  },
+  "urine_features": {},
+  "lab_timeline": {},
+  "lab_date_used": {
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "esr": "unknown"
+  },
+  "peripheral_smear": ". RBCs Normocytic normochromic WBCs are  increased  in number with absolute increase in neutrophils  and eosinophils, mild to shift showing toxic granules. PLATELET are adequate. NO ABNORMAL CELLS SEEN . IMPRESSION NORMOCYTIC  NORMOCHROMIC  BLOOD PICTURE   WITH  NEUTROPHILIC   LEUCOCYTOSIS AND EOSINOPHILIA. GROUPING AND TYPING BLOOD GROUP (Method-Manual(Slide Method)) O RH TYPING (Method-Manual(Slide Method)) POSITIVE",
+  "admission_date": null,
+  "n_reports": 2,
+  "n_labs": 11,
+  "n_urine_fields": 0
+}

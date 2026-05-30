@@ -1,0 +1,39 @@
+{
+  "patient_id": "KIMS_202605112251011",
+  "demographics": {
+    "age": 50,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202605112251011"
+  },
+  "lab_features": {
+    "creatinine": 0.6
+  },
+  "lab_printed_ranges": {
+    "creatinine": [
+      0.5,
+      0.9
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.03,
+    "urine_ph": 5.5,
+    "urine_protein": 0,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "creatinine": "unknown"
+  },
+  "peripheral_smear": null,
+  "admission_date": null,
+  "n_reports": 1,
+  "n_labs": 1,
+  "n_urine_fields": 10
+}

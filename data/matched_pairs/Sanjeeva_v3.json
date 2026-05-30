@@ -1,0 +1,142 @@
+{
+  "text_input": "Patient was apparently normal 15 days back when he developed bilateral foot tingling sensation, insidious onset, localized to foot.Pt. also complains of giddiness x 15 days, insidious onset, increased during standing and reduced during sitting, associated with blurring of vision, not associated with tinnitus, nausea, hearing loss.Pt. also complains of increased frequency of micturition since 8 days, acute onset, not associated with fever, chills, associated with burning micturition.\nNo H/o fever, pain abdomenNo H/o vomiting, loose stoolsNo H/o Shortness of breath,chest pain, palpitation.No H/o frothy urine, decreased urine output",
+  "demographics": {
+    "age": 70.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 13.1,
+    "platelets": 185000,
+    "wbc": 4870.0,
+    "esr": 48.0,
+    "bilirubin_total": 0.5,
+    "albumin": 3.8,
+    "ferritin": null,
+    "serum_iron": null,
+    "creatinine": 0.9,
+    "urea": 11.0,
+    "grbs": 91.0,
+    "bmi": null,
+    "hba1c": 5.7,
+    "tsat": null,
+    "ef_percent": null,
+    "sodium": 136.0,
+    "potassium": 5.1,
+    "chloride": 102.0,
+    "sgot": 19.0,
+    "sgpt": 24.0,
+    "alp": 67.0,
+    "ggt": 56.0,
+    "crp": null,
+    "uric_acid": 3.4,
+    "pcv": 39.2,
+    "mcv": 90.1,
+    "rdw": 12.7,
+    "neutrophils_pct": 61.9,
+    "lymphocytes_pct": 24.2
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 0,
+    "bmi_missing": 1,
+    "hba1c_missing": 0,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 0,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 0,
+    "hepatic_disease": 1,
+    "urological_condition": 1,
+    "neurological_condition": 1
+  },
+  "vitals": {
+    "spo2": null,
+    "bp_systolic": 130.0,
+    "bp_diastolic": 80.0,
+    "pulse": null,
+    "respiratory_rate": null,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 0,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 4,
+    "anemia": 0,
+    "cardiac": 0,
+    "respiratory": 1,
+    "renal": 0,
+    "hepatic": 1,
+    "gi": 2,
+    "diabetes": 0
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 1,
+    "multi_organ": 0,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "infection",
+  "external_features": {
+    "population_dm_prevalence": 0.05
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 2,
+    "specialist": 10
+  },
+  "_source_patient": "Sanjeeva",
+  "_discharge_file": "KIMS_202604102204245.json",
+  "_n_html_reports": 15,
+  "_admission_labs_used": 15
+}

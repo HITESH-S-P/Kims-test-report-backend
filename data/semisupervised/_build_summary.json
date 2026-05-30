@@ -1,0 +1,12 @@
+{
+  "total": 1948,
+  "normal": 7,
+  "pseudo_kept": 71,
+  "discarded_lowconf": 1200,
+  "discarded_few_labs": 852,
+  "pseudo_by_condition": {
+    "anemia": 61,
+    "renal": 7,
+    "hepatic": 3
+  }
+}

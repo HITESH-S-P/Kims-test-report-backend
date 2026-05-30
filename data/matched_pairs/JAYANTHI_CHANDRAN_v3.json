@@ -1,0 +1,142 @@
+{
+  "text_input": "A 55-year-old apparently normal patient came with complaints of multiple joint pain since 3 months, involving both small and large joints, bilateral symmetrical, inflammatory in nature associated with difficulty in movement. Patient had early morning stiffness and Pain reduced on exercise.\nPatient was treated outside with diagnosis of seronegative arthritis.\nNow c/o fever since 20 days, high grade, evening rise of temperature relieved on taking medications.\nPatient also c/o B/L lower limb swelling since 20 days, insidious in onset, gradually progressive, associated with pain over both lower limbs.\nPatient also c/o loose stools since 10 days, 6–8 episodes/day, watery in consistency, non-blood tinged, not associated with pain during defecation.\nNo h/o cough, chest pain, breathlessness, burning micturition.",
+  "demographics": {
+    "age": 55.0,
+    "gender": 0
+  },
+  "lab_features": {
+    "hemoglobin": 9.2,
+    "platelets": 427000,
+    "wbc": 6920.0,
+    "esr": 38.0,
+    "bilirubin_total": 0.2,
+    "albumin": 2.8,
+    "ferritin": 58.9,
+    "serum_iron": 50.8,
+    "creatinine": 0.8,
+    "urea": 18.0,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": null,
+    "tsat": 29.8,
+    "ef_percent": null,
+    "sodium": 135.0,
+    "potassium": 4.2,
+    "chloride": 104.0,
+    "sgot": 50.0,
+    "sgpt": 28.0,
+    "alp": 76.0,
+    "ggt": 31.0,
+    "crp": null,
+    "uric_acid": 8.4,
+    "pcv": 29.8,
+    "mcv": 78.0,
+    "rdw": 20.2,
+    "neutrophils_pct": 68.0,
+    "lymphocytes_pct": 23.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 0,
+    "serum_iron_missing": 0,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 0,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 0,
+    "hypertension": 1,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 0,
+    "hepatic_disease": 1,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": null,
+    "bp_systolic": null,
+    "bp_diastolic": null,
+    "pulse": null,
+    "respiratory_rate": null,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 2,
+    "cardiac": 0,
+    "respiratory": 0,
+    "renal": 1,
+    "hepatic": 4,
+    "gi": 1,
+    "diabetes": 0
+  },
+  "organ_involvement": {
+    "hepatic": 1,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 0,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 0,
+    "hypoalbuminemia": 1
+  },
+  "primary_condition": "hepatic",
+  "external_features": {
+    "population_dm_prevalence": 0.08
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 2,
+    "specialist": 4
+  },
+  "_source_patient": "JAYANTHI CHANDRAN",
+  "_discharge_file": "KIMS_202604212218999.json",
+  "_n_html_reports": 6,
+  "_admission_labs_used": 6
+}

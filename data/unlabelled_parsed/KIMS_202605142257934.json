@@ -1,0 +1,51 @@
+{
+  "patient_id": "KIMS_202605142257934",
+  "demographics": {
+    "age": 38,
+    "gender": 1,
+    "patient_type": null,
+    "uhid": "202605142257934"
+  },
+  "lab_features": {
+    "hba1c": 5.4,
+    "urea": 27.0,
+    "creatinine": 1.0
+  },
+  "lab_printed_ranges": {
+    "hba1c": [
+      4.8,
+      5.6
+    ],
+    "urea": [
+      17.0,
+      48.0
+    ],
+    "creatinine": [
+      0.7,
+      1.2
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.03,
+    "urine_ph": 5.5,
+    "urine_protein": 0,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 1
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "hba1c": "unknown",
+    "urea": "unknown",
+    "creatinine": "unknown"
+  },
+  "peripheral_smear": null,
+  "admission_date": null,
+  "n_reports": 3,
+  "n_labs": 3,
+  "n_urine_fields": 10
+}

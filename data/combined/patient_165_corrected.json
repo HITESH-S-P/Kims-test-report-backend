@@ -1,0 +1,139 @@
+{
+  "text_input": "Patient presented with right foot swelling for 2 months, left foot swelling for 1 month, and bilateral hand swelling for 1 week. Hand pain is worse in the morning (MCPJ, PIPJ, and wrist joints) and improves throughout the day. History of fever 1 week ago. Known history of lower backache for 2 years. Diagnosed with HLA-B27 positive spondyloarthropathy, iron deficiency anemia, and pre-diabetes.",
+  "demographics": {
+    "age": 43.0,
+    "gender": 0
+  },
+  "lab_features": {
+    "hemoglobin": 10.5,
+    "platelets": 250000.0,
+    "wbc": 7500.0,
+    "esr": 35.0,
+    "bilirubin_total": 0.8,
+    "albumin": 4.0,
+    "ferritin": 96.0,
+    "serum_iron": 21.0,
+    "creatinine": 0.8,
+    "urea": 13.27,
+    "grbs": 100.0,
+    "bmi": 23.5,
+    "hba1c": 6.2,
+    "tsat": 7.0,
+    "ef_percent": 60.0,
+    "sodium": null,
+    "potassium": null,
+    "chloride": null,
+    "sgot": null,
+    "sgpt": null,
+    "alp": null,
+    "ggt": null,
+    "crp": null,
+    "uric_acid": null,
+    "pcv": null,
+    "mcv": null,
+    "rdw": null,
+    "neutrophils_pct": null,
+    "lymphocytes_pct": null
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 1,
+    "platelets_missing": 1,
+    "wbc_missing": 1,
+    "esr_missing": 1,
+    "bilirubin_total_missing": 1,
+    "albumin_missing": 1,
+    "ferritin_missing": 0,
+    "serum_iron_missing": 0,
+    "creatinine_missing": 1,
+    "urea_missing": 0,
+    "grbs_missing": 0,
+    "bmi_missing": 1,
+    "hba1c_missing": 0,
+    "tsat_missing": 0,
+    "ef_percent_missing": 1,
+    "sodium_missing": 1,
+    "potassium_missing": 1,
+    "chloride_missing": 1,
+    "sgot_missing": 1,
+    "sgpt_missing": 1,
+    "alp_missing": 1,
+    "ggt_missing": 1,
+    "crp_missing": 1,
+    "uric_acid_missing": 1,
+    "pcv_missing": 1,
+    "mcv_missing": 1,
+    "rdw_missing": 1,
+    "neutrophils_pct_missing": 1,
+    "lymphocytes_pct_missing": 1
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 0,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 97.0,
+    "bp_systolic": 140.0,
+    "bp_diastolic": 90.0,
+    "pulse": 113.0,
+    "respiratory_rate": 20.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 0,
+    "analgesics": 1,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "alcohol": 0,
+    "smoking": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 5,
+    "gi": 0,
+    "diabetes": 2,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 0,
+    "hepatic": 0
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 0,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 0,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "anemia",
+  "external_features": {
+    "population_dm_prevalence": 0.085
+  },
+  "label_confidence": 0.85,
+  "targets": {
+    "risk_level": 1,
+    "specialist": 6
+  },
+  "_source_type": "discharge_summary",
+  "_filename": "patient_165_corrected.json"
+}

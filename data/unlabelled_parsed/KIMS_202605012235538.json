@@ -1,0 +1,112 @@
+{
+  "patient_id": "KIMS_202605012235538",
+  "demographics": {
+    "age": 11,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202605012235538"
+  },
+  "lab_features": {
+    "ferritin": 43.1,
+    "thyroid_t3": 194.0,
+    "thyroid_t4": 8.77,
+    "thyroid_tsh": 4.5,
+    "hemoglobin": 13.7,
+    "wbc": 7690.0,
+    "neutrophils_pct": 55.0,
+    "lymphocytes_pct": 39.0,
+    "pcv": 38.9,
+    "mcv": 74.7,
+    "mch": 26.3,
+    "mchc": 35.2,
+    "rdw": 14.6,
+    "platelets": 334000,
+    "esr": 2.0
+  },
+  "lab_printed_ranges": {
+    "ferritin": [
+      10.0,
+      291.0
+    ],
+    "thyroid_t3": [
+      80.0,
+      200.0
+    ],
+    "thyroid_t4": [
+      5.1,
+      14.1
+    ],
+    "thyroid_tsh": [
+      0.27,
+      4.2
+    ],
+    "hemoglobin": [
+      12.0,
+      15.0
+    ],
+    "wbc": [
+      4500.0,
+      14000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      60.0
+    ],
+    "lymphocytes_pct": [
+      35.0,
+      45.0
+    ],
+    "pcv": [
+      35.0,
+      45.0
+    ],
+    "mcv": [
+      77.0,
+      85.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ]
+  },
+  "urine_features": {},
+  "lab_timeline": {},
+  "lab_date_used": {
+    "ferritin": "unknown",
+    "thyroid_t3": "unknown",
+    "thyroid_t4": "unknown",
+    "thyroid_tsh": "unknown",
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "esr": "unknown"
+  },
+  "peripheral_smear": ". RBCs Normocytic normochromic WBCs are normal in number,distribution and morphology PLATELET are adequate. IMPRESSION NORMOCYTIC NORMOCHROMIC BLOOD PICTURE",
+  "admission_date": null,
+  "n_reports": 5,
+  "n_labs": 15,
+  "n_urine_fields": 0
+}

@@ -1,0 +1,78 @@
+{
+  "patient_id": "KIMS_202509091792390",
+  "demographics": {
+    "age": 22,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202509091792390"
+  },
+  "lab_features": {
+    "creatinine": 0.6,
+    "bilirubin_total": 0.3,
+    "direct_bilirubin": 0.2,
+    "sgot": 50.0,
+    "sgpt": 54.0,
+    "alp": 80.0,
+    "total_protein": 7.4,
+    "albumin": 4.0,
+    "ggt": 28.0,
+    "uric_acid": 2.8
+  },
+  "lab_printed_ranges": {
+    "creatinine": [
+      0.5,
+      0.9
+    ],
+    "bilirubin_total": [
+      0.2,
+      1.1
+    ],
+    "sgot": [
+      5.0,
+      40.0
+    ],
+    "sgpt": [
+      5.0,
+      40.0
+    ],
+    "alp": [
+      105.0,
+      130.0
+    ],
+    "total_protein": [
+      6.4,
+      8.3
+    ],
+    "albumin": [
+      3.5,
+      5.2
+    ],
+    "ggt": [
+      5.0,
+      40.0
+    ],
+    "uric_acid": [
+      2.3,
+      6.1
+    ]
+  },
+  "urine_features": {},
+  "lab_timeline": {},
+  "lab_date_used": {
+    "creatinine": "unknown",
+    "bilirubin_total": "unknown",
+    "direct_bilirubin": "unknown",
+    "sgot": "unknown",
+    "sgpt": "unknown",
+    "alp": "unknown",
+    "total_protein": "unknown",
+    "albumin": "unknown",
+    "ggt": "unknown",
+    "uric_acid": "unknown"
+  },
+  "peripheral_smear": null,
+  "admission_date": null,
+  "n_reports": 3,
+  "n_labs": 10,
+  "n_urine_fields": 0
+}

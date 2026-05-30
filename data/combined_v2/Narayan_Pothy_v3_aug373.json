@@ -1,0 +1,146 @@
+{
+  "text_input": "Patient was in his usual state of health then he started developing cough with expectoration, non blood tinged, mucoid sputum. Patient also gives h/o difficulty in breathing since last night which was sudden in onset progressively worsening from MMRC grade 2 to grade 4  No h/o chest pain, palpitation  No h/o orthopnea or PND",
+  "demographics": {
+    "age": 72.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 9.15,
+    "platelets": 371000,
+    "wbc": 9886.26,
+    "esr": 37.0,
+    "bilirubin_total": 0.2,
+    "albumin": 3.87,
+    "ferritin": 237.0,
+    "serum_iron": 29.5,
+    "creatinine": 0.69,
+    "urea": 26.6,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": 10.0,
+    "tsat": 9.0,
+    "ef_percent": null,
+    "sodium": 125.17,
+    "potassium": 4.63,
+    "chloride": 98.0,
+    "sgot": 35.73,
+    "sgpt": 17.51,
+    "alp": 89.0,
+    "ggt": 31.0,
+    "crp": null,
+    "uric_acid": 4.5,
+    "pcv": 30.0,
+    "mcv": 86.5,
+    "rdw": 16.0,
+    "neutrophils_pct": 53.9,
+    "lymphocytes_pct": 34.1
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 0,
+    "serum_iron_missing": 0,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 0,
+    "tsat_missing": 0,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 0,
+    "cardiac_disease": 1,
+    "respiratory_disease": 0,
+    "renal_disease": 0,
+    "hepatic_disease": 1,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 85.0,
+    "bp_systolic": 110.0,
+    "bp_diastolic": 70.0,
+    "pulse": 100.0,
+    "respiratory_rate": null,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 1,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 1,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 1,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 2,
+    "anemia": 2,
+    "cardiac": 5,
+    "respiratory": 2,
+    "renal": 0,
+    "hepatic": 0,
+    "gi": 1,
+    "diabetes": 4
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 1,
+    "cardiac": 1,
+    "renal": 0,
+    "gi": 0,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 1,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "cardiac",
+  "external_features": {
+    "population_dm_prevalence": 0.2
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 2,
+    "specialist": 1
+  },
+  "_source_patient": "Narayan Pothy",
+  "_discharge_file": "discharge_113.json",
+  "_n_html_reports": 16,
+  "_admission_labs_used": 16,
+  "_source_type": "matched_pair",
+  "_filename": "Narayan_Pothy_v3.json",
+  "_augmented": true,
+  "_aug_source": "Narayan_Pothy_v3.json"
+}

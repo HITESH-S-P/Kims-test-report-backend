@@ -1,0 +1,140 @@
+{
+  "text_input": "",
+  "demographics": {
+    "age": 45.0,
+    "gender": 0
+  },
+  "lab_features": {
+    "hemoglobin": 9.0,
+    "platelets": 209000,
+    "wbc": 4920.0,
+    "esr": null,
+    "bilirubin_total": 0.4,
+    "albumin": 2.4,
+    "ferritin": 122.0,
+    "serum_iron": 26.0,
+    "creatinine": 0.6,
+    "urea": 8.0,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": 5.8,
+    "tsat": 12.0,
+    "ef_percent": null,
+    "sodium": 135.0,
+    "potassium": 3.2,
+    "chloride": 100.0,
+    "sgot": 25.0,
+    "sgpt": 15.0,
+    "alp": 59.0,
+    "ggt": 12.0,
+    "crp": null,
+    "uric_acid": null,
+    "pcv": 30.7,
+    "mcv": 74.7,
+    "rdw": 22.6,
+    "neutrophils_pct": 49.8,
+    "lymphocytes_pct": 40.4
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 1,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 0,
+    "serum_iron_missing": 0,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 0,
+    "tsat_missing": 0,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 1,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 0,
+    "hypertension": 0,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": null,
+    "bp_systolic": null,
+    "bp_diastolic": null,
+    "pulse": null,
+    "respiratory_rate": null,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 0,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "alcohol": 0,
+    "smoking": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 0
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 0,
+    "anemia": 3,
+    "gi": 0,
+    "diabetes": 0,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 0,
+    "hepatic": 0
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 0,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 0,
+    "hypoalbuminemia": 1
+  },
+  "primary_condition": "anemia",
+  "external_features": {
+    "population_dm_prevalence": 0.1
+  },
+  "label_confidence": 0.6,
+  "is_healthy": 0,
+  "_label_source": "pseudo_conf0.86",
+  "_patient_id": "KIMS_202604032192100",
+  "targets": {
+    "risk_level": 2,
+    "specialist": 10
+  }
+}

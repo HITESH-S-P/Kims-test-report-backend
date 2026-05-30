@@ -1,0 +1,142 @@
+{
+  "text_input": "fever × 5 days generalised weakness × 5 days easy fatigability × 5 days back pain × 5 days cough × 5 days HOPI: Patient was apparently normal 5 days back when he developed fever of sudden onset, progressive in nature, 1 episode per day (in night) low-grade fever,Not associated with chills & rigors,Not associated with night sweats Associated with easy fatigability during fever episodes generalised weakness × 5 days:Sudden onset,Non-progressive,Continuous in nature,Moderate intensity and Aggravated on exertion back pain × 5 days Sudden onset in onset,progressive in nature and aggraveted on lying down flat cough × 5 days:On and off,Insidious onset,Progressive in nature,No diurnal variation,Dry in nature No complaints of Chest pain,Breathlessness / dyspnoea,Throat pain,Cold,Vomiting,Loose stools,Myalgia,Abdominal pain",
+  "demographics": {
+    "age": 42.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 13.2,
+    "platelets": 264000,
+    "wbc": 10490.0,
+    "esr": 60.0,
+    "bilirubin_total": 0.4,
+    "albumin": 3.7,
+    "ferritin": null,
+    "serum_iron": null,
+    "creatinine": 0.9,
+    "urea": 12.0,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": 11.6,
+    "tsat": null,
+    "ef_percent": null,
+    "sodium": 136.0,
+    "potassium": 3.8,
+    "chloride": 101.0,
+    "sgot": 21.0,
+    "sgpt": 19.0,
+    "alp": 92.0,
+    "ggt": 39.0,
+    "crp": null,
+    "uric_acid": 4.1,
+    "pcv": 39.4,
+    "mcv": 79.6,
+    "rdw": 13.1,
+    "neutrophils_pct": 69.0,
+    "lymphocytes_pct": 23.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 0,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 1,
+    "cardiac_disease": 0,
+    "respiratory_disease": 1,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 1
+  },
+  "vitals": {
+    "spo2": null,
+    "bp_systolic": 110.0,
+    "bp_diastolic": 70.0,
+    "pulse": null,
+    "respiratory_rate": null,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 1,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 1,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 4,
+    "anemia": 0,
+    "cardiac": 0,
+    "respiratory": 2,
+    "renal": 2,
+    "hepatic": 0,
+    "gi": 2,
+    "diabetes": 5
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 1,
+    "cardiac": 0,
+    "renal": 1,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "diabetes",
+  "external_features": {
+    "population_dm_prevalence": 0.25
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 3,
+    "specialist": 7
+  },
+  "_source_patient": "NANJEGOWDA",
+  "_discharge_file": "KIMS_202604252226825.json",
+  "_n_html_reports": 13,
+  "_admission_labs_used": 13
+}

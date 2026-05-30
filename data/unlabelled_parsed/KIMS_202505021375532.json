@@ -1,0 +1,87 @@
+{
+  "patient_id": "KIMS_202505021375532",
+  "demographics": {
+    "age": 66,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202505021375532"
+  },
+  "lab_features": {
+    "wbc": 8730.0,
+    "neutrophils_pct": 67.6,
+    "lymphocytes_pct": 27.4,
+    "esr": 23.0,
+    "sodium": 139.0,
+    "potassium": 4.2,
+    "chloride": 105.0,
+    "urea": 21.0,
+    "creatinine": 0.6
+  },
+  "lab_printed_ranges": {
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ],
+    "sodium": [
+      136.0,
+      145.0
+    ],
+    "potassium": [
+      3.5,
+      5.1
+    ],
+    "chloride": [
+      98.0,
+      107.0
+    ],
+    "urea": [
+      17.0,
+      48.0
+    ],
+    "creatinine": [
+      0.5,
+      0.9
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.02,
+    "urine_ph": 5.5,
+    "urine_protein": 0,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "esr": "unknown",
+    "sodium": "unknown",
+    "potassium": "unknown",
+    "chloride": "unknown",
+    "urea": "unknown",
+    "creatinine": "unknown"
+  },
+  "peripheral_smear": null,
+  "admission_date": null,
+  "n_reports": 9,
+  "n_labs": 9,
+  "n_urine_fields": 10
+}

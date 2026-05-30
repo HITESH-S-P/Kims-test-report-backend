@@ -1,0 +1,142 @@
+{
+  "text_input": "Patient was apparently alright 5 months back when he started developing pain in Right flank insidious in onset ,non radiating with no aggravating or relieving factors. Patient had ℅ generalized weakness since 15 days which was associated with decrease in appetite without any weight loss.Patient also ℅ yellowish discoloration of sclera first noticed by his co workers.This was also associated with passing high coloured urine.H/o vomiting since 2 days containing food particles,non blood tinged ,non bilious. No h/o fever. No h/o altered sleep cycles. No h/o hematemesis No h/o abdominal distension",
+  "demographics": {
+    "age": 44.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 13.4,
+    "platelets": 68000,
+    "wbc": 7910.0,
+    "esr": 39.0,
+    "bilirubin_total": 0.6,
+    "albumin": 3.6,
+    "ferritin": null,
+    "serum_iron": null,
+    "creatinine": null,
+    "urea": null,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": null,
+    "tsat": null,
+    "ef_percent": null,
+    "sodium": null,
+    "potassium": null,
+    "chloride": null,
+    "sgot": 59.0,
+    "sgpt": 70.0,
+    "alp": 124.0,
+    "ggt": 77.0,
+    "crp": null,
+    "uric_acid": null,
+    "pcv": 41.0,
+    "mcv": 94.3,
+    "rdw": 13.4,
+    "neutrophils_pct": 65.0,
+    "lymphocytes_pct": 25.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 1,
+    "urea_missing": 1,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 1,
+    "potassium_missing": 1,
+    "chloride_missing": 1,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 1,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 1,
+    "cardiac_disease": 1,
+    "respiratory_disease": 0,
+    "renal_disease": 0,
+    "hepatic_disease": 1,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 97.0,
+    "bp_systolic": 130.0,
+    "bp_diastolic": 80.0,
+    "pulse": 78.0,
+    "respiratory_rate": 14.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 0,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 1,
+    "smoking": 1,
+    "alcohol": 1,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 1,
+    "cardiac": 1,
+    "respiratory": 0,
+    "renal": 0,
+    "hepatic": 2,
+    "gi": 4,
+    "diabetes": 0
+  },
+  "organ_involvement": {
+    "hepatic": 1,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "gi",
+  "external_features": {
+    "population_dm_prevalence": 0.07
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 2,
+    "specialist": 3
+  },
+  "_source_patient": "MR.MANJUNATH",
+  "_discharge_file": "discharge_93.json",
+  "_n_html_reports": 9,
+  "_admission_labs_used": 9
+}

@@ -1,0 +1,109 @@
+{
+  "text_input": "Patient is a 42-year-old female, known case of T-cell lymphoblastic leukemia on chemotherapy (Doxorubicin, Vincristine, Methotrexate), presenting with bilateral lower limb swelling for 5 days and breathlessness for 1 day. Vitals on admission showed SpO2 of 86% on room air, BP 130/62 mmHg, and pulse 86 bpm. CT pulmonary angiography (CTPA) revealed chronic obstructive pulmonary disease (COPD), pulmonary arterial hypertension (PAH), and mediastinal/axillary lymphadenopathy. Laboratory findings were significant for anemia of chronic disease. The patient was managed with antibiotics (Inj Rifco), nebulization, and analgesics, and referred for specialized oncological management.",
+  "demographics": {
+    "age": 42.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 10.5,
+    "platelets": 210000.0,
+    "wbc": 7500.0,
+    "esr": 30.0,
+    "bilirubin_total": 0.7,
+    "albumin": 3.2,
+    "ferritin": 200.0,
+    "serum_iron": 60.0,
+    "creatinine": 0.9,
+    "urea": 28.0,
+    "grbs": 92.0,
+    "bmi": 23.0,
+    "hba1c": 5.4,
+    "tsat": 22.0,
+    "ef_percent": 60.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 1,
+    "platelets_missing": 1,
+    "wbc_missing": 1,
+    "esr_missing": 1,
+    "bilirubin_total_missing": 1,
+    "albumin_missing": 1,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 1,
+    "urea_missing": 1,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1
+  },
+  "comorbidities": {
+    "diabetes": 0,
+    "hypertension": 1,
+    "cardiac_disease": 1,
+    "respiratory_disease": 1,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 86.0,
+    "bp_systolic": 130.0,
+    "bp_diastolic": 62.0,
+    "pulse": 86.0,
+    "respiratory_rate": 18.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 1,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "alcohol": 0,
+    "smoking": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 1,
+    "gi": 0,
+    "diabetes": 0,
+    "respiratory": 1,
+    "cardiac": 1,
+    "renal": 0,
+    "hepatic": 0
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 1,
+    "cardiac": 1,
+    "renal": 0,
+    "gi": 0,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "respiratory",
+  "external_features": {
+    "population_dm_prevalence": 0.416
+  },
+  "label_confidence": 0.85,
+  "targets": {
+    "risk_level": 4,
+    "specialist": 5
+  }
+}

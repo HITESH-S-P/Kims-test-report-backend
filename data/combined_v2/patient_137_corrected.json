@@ -1,0 +1,139 @@
+{
+  "text_input": "Patient is a 47-year-old female who presented with a 2-week history of cough with mucoid expectoration, high-grade fever with chills, shortness of breath (MMRC grade 2) with occasional wheezing, and throat pain. Physical examination revealed pallor and cyanosis (grade 2) with an initial SpO2 of 83% on room air. Systemic examination showed coarse crepitations and rhonchi in the lungs. Investigations confirmed atypical viral pneumonia, oropharyngeal candidiasis, and a new diagnosis of HIV (PLHIV status positive). The patient has a significant history of autoimmune hemolytic anemia (AIHA) with a previous hemoglobin of 4.6 g/dL, currently managed with steroids. Imaging showed grade 1 fatty liver, a renal cyst, and uterine fibroids. 2D Echo revealed mild pulmonary hypertension (PASP 50 mmHg), left ventricular diastolic dysfunction, and an ejection fraction of 57%. Treatment included antibiotics (Tazocet, Claribid, Bactrim), antivirals (Fluvir), antifungals (Flucan), steroids (Wysolone), and initiation of ART (TLD regimen). The patient improved and was discharged on oral medications with follow-up in Medicine, Hematology, and ART centers.",
+  "demographics": {
+    "age": 47.0,
+    "gender": 0
+  },
+  "lab_features": {
+    "hemoglobin": 4.6,
+    "platelets": 210000.0,
+    "wbc": 7500.0,
+    "esr": 15.0,
+    "bilirubin_total": 0.8,
+    "albumin": 3.8,
+    "ferritin": 150.0,
+    "serum_iron": 80.0,
+    "creatinine": 0.9,
+    "urea": 25.0,
+    "grbs": 88.0,
+    "bmi": 22.5,
+    "hba1c": 5.5,
+    "tsat": 23.0,
+    "ef_percent": 57.0,
+    "sodium": null,
+    "potassium": null,
+    "chloride": null,
+    "sgot": null,
+    "sgpt": null,
+    "alp": null,
+    "ggt": null,
+    "crp": null,
+    "uric_acid": null,
+    "pcv": null,
+    "mcv": null,
+    "rdw": null,
+    "neutrophils_pct": null,
+    "lymphocytes_pct": null
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 1,
+    "wbc_missing": 1,
+    "esr_missing": 1,
+    "bilirubin_total_missing": 1,
+    "albumin_missing": 1,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 1,
+    "urea_missing": 0,
+    "grbs_missing": 0,
+    "bmi_missing": 1,
+    "hba1c_missing": 0,
+    "tsat_missing": 1,
+    "ef_percent_missing": 0,
+    "sodium_missing": 1,
+    "potassium_missing": 1,
+    "chloride_missing": 1,
+    "sgot_missing": 1,
+    "sgpt_missing": 1,
+    "alp_missing": 1,
+    "ggt_missing": 1,
+    "crp_missing": 1,
+    "uric_acid_missing": 1,
+    "pcv_missing": 1,
+    "mcv_missing": 1,
+    "rdw_missing": 1,
+    "neutrophils_pct_missing": 1,
+    "lymphocytes_pct_missing": 1
+  },
+  "comorbidities": {
+    "diabetes": 0,
+    "hypertension": 0,
+    "cardiac_disease": 0,
+    "respiratory_disease": 1,
+    "renal_disease": 0,
+    "hepatic_disease": 1,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 83.0,
+    "bp_systolic": 110.0,
+    "bp_diastolic": 70.0,
+    "pulse": 110.0,
+    "respiratory_rate": 22.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "alcohol": 0,
+    "smoking": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 1,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 9,
+    "anemia": 8,
+    "gi": 3,
+    "diabetes": 0,
+    "respiratory": 9,
+    "cardiac": 5,
+    "renal": 2,
+    "hepatic": 2
+  },
+  "organ_involvement": {
+    "hepatic": 1,
+    "respiratory": 1,
+    "cardiac": 1,
+    "renal": 0,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "respiratory",
+  "external_features": {
+    "population_dm_prevalence": 0.114
+  },
+  "label_confidence": 0.95,
+  "targets": {
+    "risk_level": 4,
+    "specialist": 10
+  },
+  "_source_type": "discharge_summary",
+  "_filename": "patient_137_corrected.json"
+}

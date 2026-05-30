@@ -1,0 +1,144 @@
+{
+  "text_input": "Mr. Rajendran, 63 yrs, no known comorbidities, was in his usual state of health 2 months back, when he developed bilateral lower limb swelling ,Insidious onset, gradually progressive Initially started at ankle then progressed up to thigh \nThe patient also developed abdominal distension which was ,Insidious onset ,non progressive in nature ,associated with sense of fullness and early satiety\nNo history of reduced urine output, Dyspnea , frothy urine\nNo history of Breathlessness / orthopnea / PND\nNo history of Fever\nNo history of passing black colored stools",
+  "demographics": {
+    "age": 66.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 13.5,
+    "platelets": 73000,
+    "wbc": 6780.0,
+    "esr": 6.0,
+    "bilirubin_total": 5.8,
+    "albumin": 2.9,
+    "ferritin": null,
+    "serum_iron": null,
+    "creatinine": 0.6,
+    "urea": 10.0,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": 5.1,
+    "tsat": null,
+    "ef_percent": null,
+    "sodium": 137.0,
+    "potassium": 3.5,
+    "chloride": 104.0,
+    "sgot": 73.0,
+    "sgpt": 40.0,
+    "alp": 346.0,
+    "ggt": 92.0,
+    "crp": null,
+    "uric_acid": 2.5,
+    "pcv": 39.3,
+    "mcv": 94.1,
+    "rdw": 17.4,
+    "neutrophils_pct": 58.0,
+    "lymphocytes_pct": 24.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 0,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 1,
+    "cardiac_disease": 0,
+    "respiratory_disease": 1,
+    "renal_disease": 0,
+    "hepatic_disease": 1,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": null,
+    "bp_systolic": null,
+    "bp_diastolic": null,
+    "pulse": null,
+    "respiratory_rate": null,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 1,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 2,
+    "anemia": 1,
+    "cardiac": 0,
+    "respiratory": 1,
+    "renal": 0,
+    "hepatic": 2,
+    "gi": 1,
+    "diabetes": 1
+  },
+  "organ_involvement": {
+    "hepatic": 1,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 0,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 1,
+    "multi_organ": 0,
+    "hypoalbuminemia": 1
+  },
+  "primary_condition": "infection",
+  "external_features": {
+    "population_dm_prevalence": 0.05
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 2,
+    "specialist": 10
+  },
+  "_source_patient": "Rajendra",
+  "_discharge_file": "KIMS_202604242225523.json",
+  "_n_html_reports": 11,
+  "_admission_labs_used": 11,
+  "_source_type": "matched_pair",
+  "_filename": "Rajendra_v3.json"
+}

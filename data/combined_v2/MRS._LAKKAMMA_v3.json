@@ -1,0 +1,144 @@
+{
+  "text_input": "The patient was in her usual state of health until 3 days back when she developed hiccups. The onset was sudden and they occur frequently (almost every hour). As a result of the hiccups, the patient had difficulty eating food. She has also complained of easy fatigability for 3 days, which is attributed to reduced food intake and a reduced appetite.",
+  "demographics": {
+    "age": 85.0,
+    "gender": 0
+  },
+  "lab_features": {
+    "hemoglobin": 12.1,
+    "platelets": 292000,
+    "wbc": 10790.0,
+    "esr": 11.0,
+    "bilirubin_total": 0.5,
+    "albumin": 3.8,
+    "ferritin": null,
+    "serum_iron": null,
+    "creatinine": 0.6,
+    "urea": 12.0,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": null,
+    "tsat": null,
+    "ef_percent": null,
+    "sodium": 133.0,
+    "potassium": 4.0,
+    "chloride": 95.0,
+    "sgot": 33.0,
+    "sgpt": 14.0,
+    "alp": 105.0,
+    "ggt": 17.0,
+    "crp": null,
+    "uric_acid": 2.2,
+    "pcv": 35.0,
+    "mcv": 84.3,
+    "rdw": 11.4,
+    "neutrophils_pct": 89.0,
+    "lymphocytes_pct": 6.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 0,
+    "hypertension": 1,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 94.0,
+    "bp_systolic": 150.0,
+    "bp_diastolic": 80.0,
+    "pulse": 75.0,
+    "respiratory_rate": null,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 0,
+    "anemia": 0,
+    "cardiac": 0,
+    "respiratory": 0,
+    "renal": 0,
+    "hepatic": 0,
+    "gi": 1,
+    "diabetes": 0
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 0,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 1,
+    "multi_organ": 0,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "gi",
+  "external_features": {
+    "population_dm_prevalence": 0.07
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 2,
+    "specialist": 3
+  },
+  "_source_patient": "MRS. LAKKAMMA",
+  "_discharge_file": "discharge_74.json",
+  "_n_html_reports": 6,
+  "_admission_labs_used": 6,
+  "_source_type": "matched_pair",
+  "_filename": "MRS._LAKKAMMA_v3.json"
+}

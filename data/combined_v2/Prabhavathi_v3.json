@@ -1,0 +1,144 @@
+{
+  "text_input": "A 61 year old apparently normal female patient came with c/o Cough since 1 week, insidious in onset, associated with sputum production, whitish colour, mucoid in nature, non-foul smelling, non-blood tinged, no aggravating or relieving factors. Patient also c/o Headache localized to frontal region, tension type, since 1 week, not associated with photophobia, phonophobia, vomiting, blurring of vision, no aggravating or relieving factors. Patient also c/o shortness of breath 1 week ago (NYHA grade 2) not increased on lying down. No H/o fever, chest pain, burning micturition, dizziness, vomiting, loose stools.",
+  "demographics": {
+    "age": 61.0,
+    "gender": 0
+  },
+  "lab_features": {
+    "hemoglobin": 9.7,
+    "platelets": 479000,
+    "wbc": 11460.0,
+    "esr": 51.0,
+    "bilirubin_total": 0.3,
+    "albumin": 3.8,
+    "ferritin": null,
+    "serum_iron": null,
+    "creatinine": 2.0,
+    "urea": 46.0,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": 7.4,
+    "tsat": null,
+    "ef_percent": null,
+    "sodium": 138.0,
+    "potassium": 4.4,
+    "chloride": 104.0,
+    "sgot": 16.0,
+    "sgpt": 10.0,
+    "alp": 88.0,
+    "ggt": 15.0,
+    "crp": null,
+    "uric_acid": 5.9,
+    "pcv": 29.2,
+    "mcv": 83.2,
+    "rdw": 17.1,
+    "neutrophils_pct": 68.0,
+    "lymphocytes_pct": 13.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 0,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 1,
+    "cardiac_disease": 1,
+    "respiratory_disease": 1,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": null,
+    "bp_systolic": null,
+    "bp_diastolic": null,
+    "pulse": null,
+    "respiratory_rate": null,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 1,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 1,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 3,
+    "anemia": 2,
+    "cardiac": 1,
+    "respiratory": 3,
+    "renal": 1,
+    "hepatic": 0,
+    "gi": 2,
+    "diabetes": 2
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 1,
+    "cardiac": 0,
+    "renal": 1,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 1,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "infection",
+  "external_features": {
+    "population_dm_prevalence": 0.05
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 2,
+    "specialist": 10
+  },
+  "_source_patient": "Prabhavathi",
+  "_discharge_file": "KIMS_202604072197801.json",
+  "_n_html_reports": 14,
+  "_admission_labs_used": 14,
+  "_source_type": "matched_pair",
+  "_filename": "Prabhavathi_v3.json"
+}

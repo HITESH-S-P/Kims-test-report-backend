@@ -1,0 +1,111 @@
+{
+  "patient_id": "KIMS_202501281101128",
+  "demographics": {
+    "age": 31,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202501281101128"
+  },
+  "lab_features": {
+    "hemoglobin": 9.1,
+    "wbc": 12780.0,
+    "neutrophils_pct": 76.0,
+    "lymphocytes_pct": 22.0,
+    "pcv": 29.6,
+    "mcv": 87.3,
+    "mch": 26.8,
+    "mchc": 30.7,
+    "rdw": 14.7,
+    "platelets": 172000,
+    "esr": 69.0,
+    "ferritin": 11.7,
+    "serum_iron": 29.0
+  },
+  "lab_printed_ranges": {
+    "hemoglobin": [
+      11.5,
+      16.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "pcv": [
+      35.0,
+      50.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ],
+    "ferritin": [
+      10.0,
+      291.0
+    ],
+    "serum_iron": [
+      37.0,
+      158.0
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.005,
+    "urine_ph": 7.0,
+    "urine_protein": 0,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "pcv": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "platelets": "unknown",
+    "esr": "unknown",
+    "ferritin": "unknown",
+    "serum_iron": "unknown"
+  },
+  "peripheral_smear": ". RBCs are predominantly normocytic and normochromic with occasional microcytes. WBCs are increased in number with absolute increase in neutrophils  and  normal in morphology. PLATELET are adequate NO ABNORMAL CELLS SEEN . IMPRESSION NORMOCYTIC NORMOCHROMIC ANEMIA WITH NEUTROPHILIC  LEUCOCYTOSIS. GROUPING AND TYPING BLOOD GROUP (Method-Manual(Slide Method)) B RH TYPING (Method-Manual(Slide Method)) POSITIVE PARTIAL THROMBOPLASTIN TIME (APTT) CONTROL (Method-Automated(Mechanical Clot Detection)) 32.7 Sec 35-50 TEST 21.0 Sec 35-50 PROTHROMBIN TIME (PT) CONTROL (Automated(Mechanical Clot Detection)) 14.0 Sec TEST 11.5 Sec INR 0.79 Sec",
+  "admission_date": null,
+  "n_reports": 8,
+  "n_labs": 13,
+  "n_urine_fields": 10
+}

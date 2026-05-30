@@ -1,0 +1,76 @@
+{
+  "patient_id": "KIMS_202412241043365",
+  "demographics": {
+    "age": 32,
+    "gender": 1,
+    "patient_type": null,
+    "uhid": "202412241043365"
+  },
+  "lab_features": {
+    "hba1c": 5.4,
+    "cholesterol_total": 214.0,
+    "triglycerides": 143.0,
+    "hdl": 43.0,
+    "ldl": 168.0,
+    "thyroid_t3": 81.0,
+    "thyroid_t4": 8.61,
+    "thyroid_tsh": 3.65,
+    "grbs": 82.0
+  },
+  "lab_printed_ranges": {
+    "hba1c": [
+      4.8,
+      5.6
+    ],
+    "cholesterol_total": [
+      125.0,
+      200.0
+    ],
+    "triglycerides": [
+      50.0,
+      150.0
+    ],
+    "hdl": [
+      40.0,
+      60.0
+    ],
+    "ldl": [
+      70.0,
+      130.0
+    ],
+    "thyroid_t3": [
+      80.0,
+      200.0
+    ],
+    "thyroid_t4": [
+      5.1,
+      14.1
+    ],
+    "thyroid_tsh": [
+      0.27,
+      4.2
+    ],
+    "grbs": [
+      70.0,
+      109.0
+    ]
+  },
+  "urine_features": {},
+  "lab_timeline": {},
+  "lab_date_used": {
+    "hba1c": "unknown",
+    "cholesterol_total": "unknown",
+    "triglycerides": "unknown",
+    "hdl": "unknown",
+    "ldl": "unknown",
+    "thyroid_t3": "unknown",
+    "thyroid_t4": "unknown",
+    "thyroid_tsh": "unknown",
+    "grbs": "unknown"
+  },
+  "peripheral_smear": null,
+  "admission_date": null,
+  "n_reports": 17,
+  "n_labs": 9,
+  "n_urine_fields": 0
+}

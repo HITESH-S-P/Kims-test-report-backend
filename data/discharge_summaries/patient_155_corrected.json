@@ -1,0 +1,109 @@
+{
+  "text_input": "Patient is a 30-year-old female admitted for maintenance hemodialysis. She is a known case of End Stage Renal Disease (ESRD) on maintenance hemodialysis (MHD) 3/7, systemic hypertension, and hypothyroidism. She was recently treated for acute gastroenteritis with hypovolemic shock. On examination, she had pallor and tenderness in the right iliac fossa. Vitals: Pulse 94 bpm, BP 130/80 mmHg, SpO2 96% on room air, RR 16 cpm. USG abdomen showed bilateral grade 4 nephropathy and minimal right pleural effusion. 2D Echo revealed concentric LV hypertrophy, dilated right ventricle, and LV diastolic dysfunction. During the hospital stay, she was managed in the ICU, received dialysis, and required BiPAP for CO2 retention. Treatment included antibiotics (Cefasultam, Doxycycline), erythropoietin, and inotropic support (Norad). She was discharged in stable condition with advice for regular dialysis and home BiPAP.",
+  "demographics": {
+    "age": 30.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 9.0,
+    "platelets": 210000.0,
+    "wbc": 7500.0,
+    "esr": 15.0,
+    "bilirubin_total": 0.7,
+    "albumin": 3.8,
+    "ferritin": 150.0,
+    "serum_iron": 70.0,
+    "creatinine": 6.5,
+    "urea": 110.0,
+    "grbs": 90.0,
+    "bmi": 23.5,
+    "hba1c": 5.4,
+    "tsat": 23.5,
+    "ef_percent": 60.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 1,
+    "platelets_missing": 1,
+    "wbc_missing": 1,
+    "esr_missing": 1,
+    "bilirubin_total_missing": 1,
+    "albumin_missing": 1,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 1,
+    "urea_missing": 1,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1
+  },
+  "comorbidities": {
+    "diabetes": 0,
+    "hypertension": 1,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 1,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 96.0,
+    "bp_systolic": 130.0,
+    "bp_diastolic": 80.0,
+    "pulse": 94.0,
+    "respiratory_rate": 16.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "alcohol": 0,
+    "smoking": 0,
+    "diet_vegetarian": 1,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 1,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 1,
+    "gi": 1,
+    "diabetes": 0,
+    "respiratory": 1,
+    "cardiac": 1,
+    "renal": 1,
+    "hepatic": 0
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 1,
+    "cardiac": 1,
+    "renal": 1,
+    "gi": 1,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "renal",
+  "external_features": {
+    "population_dm_prevalence": 0.337
+  },
+  "label_confidence": 0.9,
+  "targets": {
+    "risk_level": 1,
+    "specialist": 2
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "text_input": "Patient was in her usual state of health till 1 months back when she developed easy fatigability as well as well as decreased appetite. Patient attenders reported that patient is constantly bedridden ever since and has lost weight due to reduced oral intake.  No C/O cough / breathlessness / fever / bung micturition. Patient has history of recurrent UTI, was diagnosed with bilateral pyelonephritis with DJ stenting done on 15/03/2025 and then was readmitted with AKI- urosepsis on 26/05/2025, previous stent was dislodged and stent was replaced and underwent DJ stenting for a third time on 19/09/2025 due to similar complaints. Patient has  one episode of seizure prior to this and was on TAB Levitaracetam and stopped 2 week ago.",
+  "demographics": {
+    "age": 60.0,
+    "gender": 0
+  },
+  "lab_features": {
+    "hemoglobin": 8.5,
+    "platelets": 369000,
+    "wbc": 11370.0,
+    "esr": 35.0,
+    "bilirubin_total": 0.2,
+    "albumin": 2.2,
+    "ferritin": 1294.0,
+    "serum_iron": 32.0,
+    "creatinine": 2.7,
+    "urea": 82.0,
+    "grbs": null,
+    "bmi": null,
+    "hba1c": 4.7,
+    "tsat": null,
+    "ef_percent": null,
+    "sodium": 132.0,
+    "potassium": 5.1,
+    "chloride": 105.0,
+    "sgot": 10.0,
+    "sgpt": 11.0,
+    "alp": 127.0,
+    "ggt": 19.0,
+    "crp": null,
+    "uric_acid": 5.7,
+    "pcv": 28.6,
+    "mcv": 92.6,
+    "rdw": 19.8,
+    "neutrophils_pct": 65.8,
+    "lymphocytes_pct": 27.2
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 0,
+    "platelets_missing": 0,
+    "wbc_missing": 0,
+    "esr_missing": 0,
+    "bilirubin_total_missing": 0,
+    "albumin_missing": 0,
+    "ferritin_missing": 0,
+    "serum_iron_missing": 0,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 0,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1,
+    "sodium_missing": 0,
+    "potassium_missing": 0,
+    "chloride_missing": 0,
+    "sgot_missing": 0,
+    "sgpt_missing": 0,
+    "alp_missing": 0,
+    "ggt_missing": 0,
+    "crp_missing": 1,
+    "uric_acid_missing": 0,
+    "pcv_missing": 0,
+    "mcv_missing": 0,
+    "rdw_missing": 0,
+    "neutrophils_pct_missing": 0,
+    "lymphocytes_pct_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 1,
+    "hypertension": 1,
+    "cardiac_disease": 0,
+    "respiratory_disease": 0,
+    "renal_disease": 1,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 1
+  },
+  "vitals": {
+    "spo2": 93.0,
+    "bp_systolic": 130.0,
+    "bp_diastolic": 80.0,
+    "pulse": 86.0,
+    "respiratory_rate": null,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 1,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 1,
+    "smoking": 0,
+    "alcohol": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 1
+  },
+  "condition_scores": {
+    "infection": 3,
+    "anemia": 4,
+    "cardiac": 0,
+    "respiratory": 0,
+    "renal": 4,
+    "hepatic": 0,
+    "gi": 1,
+    "diabetes": 2
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 0,
+    "cardiac": 0,
+    "renal": 1,
+    "gi": 0,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 1,
+    "multi_organ": 0,
+    "hypoalbuminemia": 1
+  },
+  "primary_condition": "anemia",
+  "external_features": {
+    "population_dm_prevalence": 0.1
+  },
+  "label_confidence": 0.8,
+  "_label_source": "matched_pair_v3",
+  "targets": {
+    "risk_level": 2,
+    "specialist": 6
+  },
+  "_source_patient": "MRS. Kalavathi",
+  "_discharge_file": "discharge_65.json",
+  "_n_html_reports": 31,
+  "_admission_labs_used": 31
+}

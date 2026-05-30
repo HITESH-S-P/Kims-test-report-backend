@@ -1,0 +1,109 @@
+{
+  "text_input": "Patient presented with a sore throat and cough associated with white mucoid expectoration for one week. There was difficulty in swallowing but no diurnal variation, nasal stiffness, or frontal sinus tenderness. No history of chest pain, breathlessness, abdominal pain, vomiting, loose stools, or burning micturition. Physical examination revealed pallor and icterus. Respiratory examination showed diffuse rhonchi in posterior lung fields. Diagnosed with acute bronchitis and treated with antibiotics including Tufzone, Taxim-O, Azee, and Claribid, along with analgesics and nebulization.",
+  "demographics": {
+    "age": 45.0,
+    "gender": 0
+  },
+  "lab_features": {
+    "hemoglobin": 10.5,
+    "platelets": 250000.0,
+    "wbc": 8500.0,
+    "esr": 15.0,
+    "bilirubin_total": 2.1,
+    "albumin": 4.0,
+    "ferritin": 100.0,
+    "serum_iron": 80.0,
+    "creatinine": 0.8,
+    "urea": 25.0,
+    "grbs": 101.0,
+    "bmi": 23.5,
+    "hba1c": 5.4,
+    "tsat": 23.0,
+    "ef_percent": 60.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 1,
+    "platelets_missing": 1,
+    "wbc_missing": 1,
+    "esr_missing": 1,
+    "bilirubin_total_missing": 1,
+    "albumin_missing": 1,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 1,
+    "urea_missing": 1,
+    "grbs_missing": 0,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 1,
+    "ef_percent_missing": 1
+  },
+  "comorbidities": {
+    "diabetes": 0,
+    "hypertension": 0,
+    "cardiac_disease": 0,
+    "respiratory_disease": 1,
+    "renal_disease": 0,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 98.0,
+    "bp_systolic": 120.0,
+    "bp_diastolic": 70.0,
+    "pulse": 106.0,
+    "respiratory_rate": 16.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 1,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "alcohol": 0,
+    "smoking": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 0
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 0,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 1,
+    "anemia": 1,
+    "gi": 0,
+    "diabetes": 0,
+    "respiratory": 1,
+    "cardiac": 0,
+    "renal": 0,
+    "hepatic": 1
+  },
+  "organ_involvement": {
+    "hepatic": 1,
+    "respiratory": 1,
+    "cardiac": 0,
+    "renal": 0,
+    "gi": 0,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 0,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "respiratory",
+  "external_features": {
+    "population_dm_prevalence": 0.114
+  },
+  "label_confidence": 0.95,
+  "targets": {
+    "risk_level": 1,
+    "specialist": 5
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "text_input": "70-year-old male presented with sudden onset breathlessness at rest for 1 day. Known case of COPD, Hypertension, and Chronic Kidney Disease for 2 years. Physical examination revealed BP 180/100 mmHg, SpO2 80% on room air, and tachycardia (112 bpm). Investigations showed elevated Urea (111 mg/dL) and Creatinine (4.3 mg/dL). 2D Echo showed EF 55% with LV diastolic dysfunction and sclerotic aortic valve. Diagnosed with Sepsis secondary to Bronchopneumonia, Acute Exacerbation of COPD, Type 1 Respiratory Failure, and Acute on Chronic Kidney Disease.",
+  "demographics": {
+    "age": 70.0,
+    "gender": 1
+  },
+  "lab_features": {
+    "hemoglobin": 12.0,
+    "platelets": 250000.0,
+    "wbc": 12000.0,
+    "esr": 25.0,
+    "bilirubin_total": 0.8,
+    "albumin": 3.5,
+    "ferritin": 150.0,
+    "serum_iron": 80.0,
+    "creatinine": 4.3,
+    "urea": 111.0,
+    "grbs": 90.0,
+    "bmi": 23.0,
+    "hba1c": 5.4,
+    "tsat": 23.0,
+    "ef_percent": 55.0
+  },
+  "lab_missing_mask": {
+    "hemoglobin_missing": 1,
+    "platelets_missing": 1,
+    "wbc_missing": 1,
+    "esr_missing": 1,
+    "bilirubin_total_missing": 1,
+    "albumin_missing": 1,
+    "ferritin_missing": 1,
+    "serum_iron_missing": 1,
+    "creatinine_missing": 0,
+    "urea_missing": 0,
+    "grbs_missing": 1,
+    "bmi_missing": 1,
+    "hba1c_missing": 1,
+    "tsat_missing": 1,
+    "ef_percent_missing": 0
+  },
+  "comorbidities": {
+    "diabetes": 0,
+    "hypertension": 1,
+    "cardiac_disease": 1,
+    "respiratory_disease": 1,
+    "renal_disease": 1,
+    "hepatic_disease": 0,
+    "urological_condition": 0,
+    "neurological_condition": 0
+  },
+  "vitals": {
+    "spo2": 80.0,
+    "bp_systolic": 180.0,
+    "bp_diastolic": 100.0,
+    "pulse": 112.0,
+    "respiratory_rate": 17.0,
+    "temperature_afebrile": 1
+  },
+  "treatment": {
+    "insulin": 0,
+    "antibiotics": 1,
+    "analgesics": 0,
+    "statins": 0
+  },
+  "history": {
+    "known_diabetes": 0,
+    "alcohol": 0,
+    "smoking": 0,
+    "diet_vegetarian": 0,
+    "sleep_adequate": 1
+  },
+  "cardiac_findings": {
+    "lv_diastolic_dysfunction": 1,
+    "ef_normal": 1,
+    "murmur": 0
+  },
+  "condition_scores": {
+    "infection": 4,
+    "anemia": 0,
+    "gi": 0,
+    "diabetes": 0,
+    "respiratory": 19,
+    "cardiac": 3,
+    "renal": 10,
+    "hepatic": 0
+  },
+  "organ_involvement": {
+    "hepatic": 0,
+    "respiratory": 1,
+    "cardiac": 1,
+    "renal": 1,
+    "gi": 0,
+    "urological": 0
+  },
+  "severity_features": {
+    "age_risk": 1,
+    "multi_organ": 1,
+    "hypoalbuminemia": 0
+  },
+  "primary_condition": "infection",
+  "external_features": {
+    "population_dm_prevalence": 0.535
+  },
+  "label_confidence": 0.95,
+  "targets": {
+    "risk_level": 4,
+    "specialist": 10
+  }
+}

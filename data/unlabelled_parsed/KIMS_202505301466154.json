@@ -1,0 +1,179 @@
+{
+  "patient_id": "KIMS_202505301466154",
+  "demographics": {
+    "age": 30,
+    "gender": 0,
+    "patient_type": null,
+    "uhid": "202505301466154"
+  },
+  "lab_features": {
+    "sodium": 134.0,
+    "potassium": 3.8,
+    "chloride": 104.0,
+    "platelets": 188000,
+    "sgot": 36.0,
+    "sgpt": 30.0,
+    "urea": 12.0,
+    "creatinine": 0.4,
+    "pcv": 33.0,
+    "hemoglobin": 9.6,
+    "wbc": 12710.0,
+    "neutrophils_pct": 59.0,
+    "lymphocytes_pct": 30.0,
+    "mcv": 93.3,
+    "mch": 29.4,
+    "mchc": 31.5,
+    "rdw": 17.3,
+    "esr": 21.0,
+    "bilirubin_total": 0.2,
+    "direct_bilirubin": 0.1,
+    "alp": 90.0,
+    "total_protein": 5.8,
+    "albumin": 3.2,
+    "ggt": 24.0,
+    "uric_acid": 3.8
+  },
+  "lab_printed_ranges": {
+    "sodium": [
+      136.0,
+      145.0
+    ],
+    "potassium": [
+      3.5,
+      5.1
+    ],
+    "chloride": [
+      98.0,
+      107.0
+    ],
+    "platelets": [
+      150000.0,
+      450000.0
+    ],
+    "sgot": [
+      5.0,
+      40.0
+    ],
+    "sgpt": [
+      5.0,
+      40.0
+    ],
+    "urea": [
+      17.0,
+      48.0
+    ],
+    "creatinine": [
+      0.5,
+      0.9
+    ],
+    "pcv": [
+      35.0,
+      50.0
+    ],
+    "hemoglobin": [
+      11.5,
+      16.0
+    ],
+    "wbc": [
+      4000.0,
+      11000.0
+    ],
+    "neutrophils_pct": [
+      40.0,
+      75.0
+    ],
+    "lymphocytes_pct": [
+      20.0,
+      45.0
+    ],
+    "mcv": [
+      80.0,
+      95.0
+    ],
+    "mch": [
+      25.0,
+      35.0
+    ],
+    "mchc": [
+      33.0,
+      37.0
+    ],
+    "rdw": [
+      11.0,
+      15.0
+    ],
+    "esr": [
+      0.0,
+      20.0
+    ],
+    "bilirubin_total": [
+      0.2,
+      1.1
+    ],
+    "alp": [
+      105.0,
+      130.0
+    ],
+    "total_protein": [
+      6.4,
+      8.3
+    ],
+    "albumin": [
+      3.5,
+      5.2
+    ],
+    "ggt": [
+      5.0,
+      40.0
+    ],
+    "uric_acid": [
+      2.3,
+      6.1
+    ]
+  },
+  "urine_features": {
+    "urine_specific_gravity": 1.03,
+    "urine_ph": 5.0,
+    "urine_protein": 1,
+    "urine_glucose": 0,
+    "urine_ketones": 0,
+    "urine_urobilinogen": 0,
+    "urine_bilirubin": 0,
+    "urine_blood": 0,
+    "urine_nitrite": 0,
+    "urine_leucocytes": 0
+  },
+  "lab_timeline": {},
+  "lab_date_used": {
+    "sodium": "unknown",
+    "potassium": "unknown",
+    "chloride": "unknown",
+    "platelets": "unknown",
+    "sgot": "unknown",
+    "sgpt": "unknown",
+    "urea": "unknown",
+    "creatinine": "unknown",
+    "pcv": "unknown",
+    "hemoglobin": "unknown",
+    "wbc": "unknown",
+    "neutrophils_pct": "unknown",
+    "lymphocytes_pct": "unknown",
+    "mcv": "unknown",
+    "mch": "unknown",
+    "mchc": "unknown",
+    "rdw": "unknown",
+    "esr": "unknown",
+    "bilirubin_total": "unknown",
+    "direct_bilirubin": "unknown",
+    "alp": "unknown",
+    "total_protein": "unknown",
+    "albumin": "unknown",
+    "ggt": "unknown",
+    "uric_acid": "unknown"
+  },
+  "peripheral_smear": ". RBCs Normocytic normochromic WBCs are increased in number with absolute increase in neutrophils with mild shift to left  seen. PLATELET Adequate. NO ABNORMAL CELLS SEEN . IMPRESSION NORMOCYTIC NORMOCHROMIC  ANEMIA  WITH  NEUTROPHILIC  LEUCOCYTOSIS PARTIAL THROMBOPLASTIN TIME (APTT) CONTROL (Method-Automated(Mechanical Clot Detection)) 32.7 Sec 35-50 TEST 37.3 Sec 35-50 PROTHROMBIN TIME (PT) CONTROL (Automated(Mechanical Clot Detection)) 14.0 Sec TEST 13.5 Sec INR 0.96 Sec",
+  "admission_date": null,
+  "n_reports": 18,
+  "n_labs": 25,
+  "n_urine_fields": 10
+}
